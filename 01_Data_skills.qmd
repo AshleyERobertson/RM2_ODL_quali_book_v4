@@ -7,7 +7,7 @@ In this Chapter, we have included information about the Data Skills Assessments 
 
 ## General Information
 
--   Deadlines for this assessment can be found under 'Assessment Summary' within the 'Course Information' section on the RM2 Moodle.
+-   Deadlines for this assessment can be found under 'Deadlines' within the 'Course Information' section on the RM2 Moodle.
 
 -   In total this assessment is worth 10% of your final course grade. Each data skills worksheet is worth 5% and you will be awarded a mark out of 22.
 

@@ -7,7 +7,7 @@ In this Chapter, we have included information about the Qualitative Portfolio in
 
 ## General Information
 
--   The deadline for this assessment can be found under 'Assessment Summary' within the 'Course Information' section on the RM2 Moodle.
+-   The deadline for this assessment can be found under 'Deadlines' within the 'Course Information' section on the RM2 Moodle.
 
 -   This is a group assessment, with each group typically consisting of around 4-6 students.
 
@@ -81,6 +81,8 @@ a.  Write clearly and succinctly with appropriate use of paragraphs, spelling an
 
 -   Additional writing and study advice, including 1-to-1 guidance from [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
+- FAQs from previous students can be found in the FAQs Chapter **(ADD LINK)**
+
 ## How to do well in this assessment
 
 -   Meet each of the intended learning outcomes - use these as a checklist for your work.
@@ -145,7 +147,7 @@ Feedback on your Stage 1 and Stage 2 reports for RM1 will help you with how you 
 
 ## Feedback
 
-### How is this assessment graded?
+### What type of feedback will I receive for this assessment?
 
 -   You will receive written on-script comments, as well as three actionable feed-forward suggestions for work in the future (e.g. your qual report, your dissertation).
 
@@ -153,7 +155,7 @@ Feedback on your Stage 1 and Stage 2 reports for RM1 will help you with how you 
 
 ### Can I get more feedback?
 
--   If you would like to discuss your mark and feedback you should contact your marker, however, we ask that you wait 24 hours after the release of the grades before you do so to give you time to fully reflect on the feedback given.
+-   If you would like to discuss your mark and feedback you should contact your marker, however, **we ask that you wait 24 hours after the release of the grades** before you do so to give you time to fully reflect on the feedback given.
 
 You can arrange a meeting with your marker to clarify your grades and feedback but it can also be the case that you understand everything that was written and you just want a bit more feedback, or you'd like to chat about the essay generally. Please do make use of the opportunity to talk with your marker because it really does make a difference.
 
@@ -187,11 +189,10 @@ To help the discussion, when you e-mail your marker, you must complete [the feed
 
 ### What if I don't agree with my feedback or grade?
 
--   Your first point of contact should be to arrange an additional feedback meeting with the course lead.
+- Your first point of contact should be to arrange an additional feedback meeting with the marker of the report (the name will have been provided in your feedback). It is most likely to be either Ashley or Wil who will have marked this assessment. This meeting should be to gain additional feedback from the marker, rather than to contest the grade.
 
--   Following this, if you still have concerns you should consult [the guidance from the SRC](https://www.glasgowunisrc.org/advice/academic/appeals/){target="_blank"} which provides a clear explanation of the University appeals procedures. There are only three grounds for appeal: - Unfair or Defective Procedure
+- Following this, if you still have concerns, you should consult [the guidance from the SRC](https://www.glasgowunisrc.org/advice/academic/appeals/){target="_blank"} which provides a clear explanation of the University appeals procedures. There are only three grounds for appeal:   - Unfair or Defective Procedure 
+  - Failure to take into account medical or other adverse personal circumstances 
+  - There are relevant medical or other adverse personal circumstances which for good reason have not previously been presented.
 
-    -   Failure to take into account medical or other adverse personal circumstances
-    -   There are relevant medical or other adverse personal circumstances which for good reason have not previously been presented.
-
-You cannot appeal against academic judgement.
+It is not possible to appeal against academic judgement.

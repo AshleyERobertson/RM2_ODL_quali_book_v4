@@ -2,3 +2,100 @@
 title: "Multiple Choice Questions"
 editor: visual
 ---
+
+In this Chapter, we have included information about the Multiple Choice Quiz in RM2. You can use the menu at the right hand side of this page to jump to the different sections.
+
+## General Information
+
+-   The deadline for this assessment can be found under 'Assessment Summary' within the 'Course Information' section on the RM2 Moodle.
+
+-   This assessment is worth 10% of your final course grade.
+
+**Please note:** The MCQ will open up one week before the deadline. Please ensure you have reviewed the Week 1-14 lecture content before taking the MCQ.
+
+## Type of Assessment/Structure
+
+-   All the information needed to answer the Multiple choice questions will have been covered in the research methods lectures between Weeks 1 and 14.
+
+    -   The MCQ will assess different types of content:
+        -   Knowledge of quantitative content covered in the lectures
+        -   Understanding of different quantitative research designs\
+        -   Knowledge of qualitative content covered in the lectures
+
+-   The MCQ will be provided through a submission link on Moodle. The submission link will be made available one week before the deadline.
+
+-   There are 22 questions and each MCQ will have four options - the answer will be one of these.
+
+-   Each question will be presented on a single page. There are many reasons for this, including that having multiple questions on a page increases moodle loading times, slowing it down.
+
+-   You will have 40 minutes to complete the MCQ. If you are registered with disability services for extra time it should show longer than this. If the quiz does not display additional completion time when you click on the link, please contact Admin or Ashley/Wil to let them know.
+
+## Assessment Support
+
+-   All the information needed to answer the research methods questions will have been covered in the research methods lectures.
+
+-   The course leads provide practice questions for each of the lectures as well as a practice MCQ. You can find these in the 'Formative Activities' section on Moodle.
+
+-   Further information about feedback can be found in the Feedback section **(ADD LINK)**
+
+## How to do well in this assessment
+
+-   Read each question carefully.
+
+-   Ensure you are up to date on all lectures and have completed all the activities for each week.
+
+-   Ensure that you leave yourself enough time to complete the MCQ in a single sitting.
+
+-   Complete the essential reading for each lecture.
+
+-   Engage in opportunities to practice MCQ questions by completing the formative mini quizzes.
+
+## Common Mistakes
+
+-   Leaving the lecture content and reading to build up (i.e. not keeping up with it as you go along).
+
+-   Not reading the question carefully.
+
+-   Leaving some questions unanswered.
+
+## How is the assessment related to the lectures for this course?
+
+-   The MCQs test your understanding of statistical concepts and how to analyse and interpret data according to the methods presented in the lectures.
+
+-   The MCQs test your understanding of research designs in quantitative research.
+
+-   The MCQs also test your understanding of the qualitative content covered in the lectures.
+
+## Why am I being assessed like this?
+
+-   The MCQs assess your understanding of the course content, helping you to actively engage with the materials. These are important skills for psychological researchers to develop.
+
+-   Engaging with the material on the course will help build on the strong foundation of Research Methods developed thus far, helping to set you up for your dissertation.
+
+## How does this relate to previous work I have completed?
+
+-   Feedback from formative mini quizzes based on the lectures and essential reading will help you with this assignment
+
+## Academic integrity (UPDATE)
+
+**ADD IN**
+
+## Feedback
+
+### How is this assessment graded?
+
+-   The MCQ will consist of 22 questions, each with four response options. Each question is worth one point.
+
+-   The marking will be automatically computed on Moodle, and grades downloaded by staff.
+
+### How will feedback from this assessment help me in the future?
+
+-   This assessment will help you consolidate your knowledge of the statistical and qualitative content covered within the lecture materials. This will be useful in any future work that requires working with quantitative or qualitative data such as your dissertation project or future postgraduate courses.
+
+### What type of feedback will I receive for this assessment?
+
+-   After the marking has been completed, you will find out a) whether you answered each question correctly or not and b) what the correct answer was for each question
+
+### Who assessed my work?
+
+-   The worksheets will be graded using computer-assisted marking. The marking will be done automatically using Moodle.

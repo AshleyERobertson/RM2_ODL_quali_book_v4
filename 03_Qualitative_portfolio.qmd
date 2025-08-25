@@ -47,31 +47,23 @@ Below, we have the ILOs for this assessment. Please note that some of the ILOs a
 
 1.  Quality of the Knowledge and Research
 
-<!-- -->
+    - Develop six questions that would be likely to generate open discussion and rich responses from participants (#1: Qual questions) 
+    - Correctly identify ONE ethical issue, explain its importance, and provide guidance on how to mitigate it (#2: Ethics) 
+    - Correctly identify TWO or THREE issues present in the focus group, explain why they are problematic, and discuss possible improvements (#3: Focus group)
 
-a.  Develop six questions that would be likely to generate open discussion and rich responses from participants (#1: Qual questions)
-b.  Correctly identify ONE ethical issue, explain its importance, and provide guidance on how to mitigate it (#2: Ethics)
-c.  Correctly identify TWO or THREE issues present in the focus group, explain why they are problematic, and discuss possible improvements (#3: Focus group)
-
-<!-- -->
 
 2.  Quality of the Evaluation
 
-<!-- -->
+    - As appropriate for each section, use academic evidence and/or reference to ethical guidelines to support your evaluation (#1: Qual questions, #2 Ethics, #3: Focus group) 
+    - As appropriate for each section, demonstrate understanding of the practical issues of running qualitative research through evaluation and reflection (#1: Qual questions, #2 Ethics, #3: Focus group) 
+    - As appropriate for each section, synthesise academic evidence from multiple perspectives to demonstrate critical thinking and to support your position (#1 Qual questions, #2 Ethics, #3 Focus group)
 
-a.  As appropriate for each section, use academic evidence and/or reference to ethical guidelines to support your evaluation (#1: Qual questions, #2 Ethics, #3: Focus group)
-b.  As appropriate for each section, demonstrate understanding of the practical issues of running qualitative research through evaluation and reflection (#1: Qual questions, #2 Ethics, #3: Focus group)
-c.  As appropriate for each section, synthesise academic evidence from multiple perspectives to demonstrate critical thinking and to support your position (#1 Qual questions, #2 Ethics, #3 Focus group)
-
-<!-- -->
 
 3.  Quality of the Academic Communication
 
-<!-- -->
+    - Write clearly and succinctly with appropriate use of paragraphs, spelling and grammar, following APA 7th guidelines for tall citations and references (#1: Qual questions, #2 Ethics, #3: Focus group)
 
-a.  Write clearly and succinctly with appropriate use of paragraphs, spelling and grammar, following APA 7th guidelines for tall citations and references (#1: Qual questions, #2 Ethics, #3: Focus group)
-
-*Please note: In ILO 2a, we are not asking for you to relate to ethical guidelines for each section. We are asking you to link to academic evidence/ethical guidelines (as appropriate) for each of the three sections.*
+*Please note: In the first bullet point under ILO 2 (Quality of the Evaluation), we are not asking for you to relate to ethical guidelines for each section. We are asking you to link to academic evidence/ethical guidelines (as appropriate) for each of the three sections.*
 
 ## Assessment Support
 
@@ -81,7 +73,7 @@ a.  Write clearly and succinctly with appropriate use of paragraphs, spelling an
 
 -   Additional writing and study advice, including 1-to-1 guidance from [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
-- FAQs from previous students can be found in the FAQs Chapter **(ADD LINK)**
+-   FAQs from previous students can be found in the FAQs Chapter **(ADD LINK)**
 
 ## How to do well in this assessment
 
@@ -161,7 +153,7 @@ You can arrange a meeting with your marker to clarify your grades and feedback b
 
 To help the discussion, when you e-mail your marker, you must complete [the feedback reflection form](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EanCqf_RV7pMumQt1Bm0N4YB3RlzoIjP9kmbe0qbYj9rYQ?e=MDWxPP){target="_blank"} which will ask you to consider the below:
 
--   That you read the following feedback:
+-   Confirm that you read the following feedback:
     -   All on-script comments
     -   Any feed-forward comments
     -   The ratings on the ILOs
@@ -189,10 +181,12 @@ To help the discussion, when you e-mail your marker, you must complete [the feed
 
 ### What if I don't agree with my feedback or grade?
 
-- Your first point of contact should be to arrange an additional feedback meeting with the marker of the report (the name will have been provided in your feedback). It is most likely to be either Ashley or Wil who will have marked this assessment. This meeting should be to gain additional feedback from the marker, rather than to contest the grade.
+-   Your first point of contact should be to arrange an additional feedback meeting with the marker of the report (the name will have been provided in your feedback). It is most likely to be either Ashley or Wil who will have marked this assessment. This meeting should be to gain additional feedback from the marker, rather than to contest the grade.
 
-- Following this, if you still have concerns, you should consult [the guidance from the SRC](https://www.glasgowunisrc.org/advice/academic/appeals/){target="_blank"} which provides a clear explanation of the University appeals procedures. There are only three grounds for appeal:   - Unfair or Defective Procedure 
-  - Failure to take into account medical or other adverse personal circumstances 
-  - There are relevant medical or other adverse personal circumstances which for good reason have not previously been presented.
+-   Following this, if you still have concerns, you should consult [the guidance from the SRC](https://www.glasgowunisrc.org/advice/academic/appeals/){target="_blank"} which provides a clear explanation of the University appeals procedures. There are only three grounds for appeal:
+
+    -   Unfair or Defective Procedure
+    -   Failure to take into account medical or other adverse personal circumstances
+    -   There are relevant medical or other adverse personal circumstances which for good reason have not previously been presented.
 
 It is not possible to appeal against academic judgement.

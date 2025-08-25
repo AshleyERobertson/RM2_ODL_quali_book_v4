@@ -1,0 +1,103 @@
+---
+title: "Data Skills"
+editor: visual
+---
+
+In this Chapter, we have included all of the information about the assessments in RM2. You can use the menu at the right hand side of this page to jump to each assessment.
+
+
+## General Information
+
+-   Data skills worksheet (ANOVA) (5%) deadline: **22nd October 2025, 3pm UK time**
+
+-   Data skills worksheet (Regression) deadline (5%) deadline: **19th November 2025, 3pm UK time**
+
+-   In total this assessment is worth 10% of your final course grade. Each data skills worksheet is worth 5% and you will be awarded a mark out of 22.
+
+-   The submission links (and where appropriate, files) will be made available at least one week before the deadline.
+
+## Important information about R submissions (please read and watch the video!)
+
+Please note the following for the R submissions:
+
+-   you must use the R markdown file provided. If you submit a file that you made yourself, the submission will automatically receive an H.
+
+-   you must not alter the R chunk itself (e.g. adding/removing backticks, removing or altering t0x etc.) in the R markdown file. If you do, you will automatically receive an H for that question and it may result in an H for the whole assessment.
+
+-   you must submit the completed .Rmd file. If you submit a blank .Rmd file, your submission will automatically receive an H.
+
+-   you must not alter the name of the object that the task is asking you to create
+
+Please see [this video](https://uofglasgow.zoom.us/rec/play/kGPffSDx2RT741ZEXDG28KaYFxRDyriV1cO-Tmy0VDcWEDn_2wcCeX853_1t8T9jzrOzEfxMFcgu6yCt.zBN1JhinbBQSRjzG?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1725965232000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fuofglasgow.zoom.us%2Frec%2Fshare%2FC7w5EqVNPod9aLKY4SwMtW67PhxNwBaS1GXjvRrOwvVffKGB3HqNler6at6ESWzP.eiXr0xmkpri2n-VX%3FstartTime%3D1725965232000) for further details.
+
+## Type of Assessment/Structure
+
+-   You will be provided with an .Rmd file that you should complete and submit, like the homeworks you did in RM1. Some questions are dependent on each other, but most are independent.
+
+-   Both worksheets have 19 questions each. Some questions are worth 1 point and some are worth 2 points. You can see how much each task is worth on the worksheet.
+
+-   The points on each worksheet will total to 22.
+
+-   You will be presented with three types of questions: error mode, code writing and multiple choice
+
+-   For **error mode**, instead of asking you to write the code yourself, we're going to provide you with code that has errors in it. This code will either not run and it will produce an error message, or it will run, but it won't produce what it is supposed to. In both cases you have to fix the code to produce the intended output. The purpose of these tasks is to resolve errors and learn to debug, so please don't ask on Teams about the errors you get on the error mode tasks.
+
+-   For **code writing**, you will be given instructions on code that you should write. Provide the code that gives exactly the intended output (and only that). For some questions, you will be provided a data frame or a plot in the instructions file, and you will be asked to recreate that in the task. You should replace the NULL in the code chunk with your code.
+
+-   For **multiple choice**, you will be asked questions about the data or interpreting your statistical output. Please replace the NULL in the code chunk with the number of the option you think is correct. Please only use a single number, do not use words, and do not put the number in quotation marks.
+
+## Assessment Support
+
+-   Most of the tasks are based on code and functions you have seen in the data skills book
+
+-   Each worksheet has a couple of questions on things you may not have seen before. This is either to use a new function, or to combine functions in a new way. These tasks are there to test your generalisation skills with R functions.
+
+-   You can find instructions for how to complete the .Rmd files in the data skills book
+
+-   For the multiple choice questions about interpreting statistical output, you may also need to revise some of the key concepts from your lectures.
+
+-   Further information about feedback can be found in the Feedback Section (LINK BELOW)
+
+## How to do well in this Assessment
+
+-   Use the data skills activities to guide you.
+
+-   Read the question carefully and ensure that you provide exactly what is asked for (e.g., code or a single value), and only that.
+
+-   Follow the instructions for how to fill out the .Rmd file carefully making sure you do not change anything in the file you shouldn't.
+
+-   Ensure you are up to date with the R activities, as the data skills activities will assess your knowledge of these.
+
+-   Before you submit, make sure that your .Rmd file knits -- if it does it means that what you have written is legal code (this is not to say that you will have written the correct code, it simply means you definitely haven't written any code that doesn't work).
+
+## Common Mistakes
+
+-   Changing the .Rmd file other than to provide answers and your GUID (e.g., deleting backticks, changing code chunk names, not using the file provided).
+
+-   Failure to follow instructions (e.g., writing code when a single value was requested).
+
+-   Including any illegal code in your .Rmd file, e.g., install.packages (you should never write code that would change something on someone else's machine, it causes issues and it's impolite!).
+
+-   Changing object names
+
+## How is the assessment related to the lectures for this course?
+
+-   The data skills submissions assess your ability to wrangle and visualise data in an open and reproducible way, as discussed in the lectures.
+
+-   Some tasks test your ability to interpret statistical test output.
+
+## Why am I being assessed like this?
+
+-   The worksheets assess your ability to wrangle and analyse data in a reproducible way. These are important skills for psychological researchers to develop.
+
+-   Your skills in data skills will progress throughout your degree and the worksheets ensure that you are maintaining a good rate of progress so that you are prepared for your dissertation.
+
+## How does this relate to previous work I have completed?
+
+-   The feedback from your RM1 data skills worksheets will be useful for these submissions.
+
+-   In addition, the guidance and solutions in the data skills book, posting on Teams and attending office hours will help you complete this assessment.
+
+## Academic intergrity (NEEDS UPDATED WITH NEW STATEMENT)
+
+ADD IN HERE

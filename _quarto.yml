@@ -44,16 +44,17 @@ book:
   page-footer:  CC-BY (2025) Ashley Robertson & Wil Toivo
   chapters:
   - index.qmd
-  - 01_Qualitative_designs.qmd
-  - 02_Qualitative_questions.qmd
-  - 03_Data_collection.qmd
-  - 04_Data_analysis.qmd
-  - 05_UsingNVivo.qmd
-  - 06_Ethics_rigour_reflexivity.qmd
-  - 07_Group_project.qmd
-  - 08_Academic_writing.qmd
-  - 09_Qualitative_report.qmd
-  - 10_FAQs.qmd
+  - 01_Assessment_information.qmd
+  - 02_Qualitative_designs.qmd
+  - 03_Qualitative_questions.qmd
+  - 04_Data_collection.qmd
+  - 05_Data_analysis.qmd
+  - 06_UsingNVivo.qmd
+  - 07_Ethics_rigour_reflexivity.qmd
+  - 08_Group_project.qmd
+  - 09_Academic_writing.qmd
+  - 10_Qualitative_report.qmd
+  - 11_FAQs.qmd
   appendices:
   - appendix_a_showcase.qmd
   - appendix_b_employability.qmd

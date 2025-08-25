@@ -1,5 +1,5 @@
 ---
-title: "Multiple Choice Questions"
+title: "Multiple Choice Questions (Individual)"
 editor: visual
 ---
 

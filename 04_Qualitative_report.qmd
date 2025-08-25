@@ -1,4 +1,4 @@
 ---
-title: "Qualitative Report"
+title: "Qualitative Report (Individual)"
 editor: visual
 ---

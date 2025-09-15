@@ -32,22 +32,22 @@ In this Chapter, we have included information about the Qualitative Report in RM
 
 1.  Quality of the Knowledge and Research
 
-     - Provide a comprehensive review of literature, which synthesises the main ideas and contextualises key issues. 
-     - Clearly justify the aims of the project 
-     - Clearly and correctly report the methods of the study
+    -   Provide a comprehensive review of literature, which synthesises the main ideas and contextualises key issues.
+    -   Clearly justify the aims of the project
+    -   Clearly and correctly report the methods of the study
 
 2.  Quality of the Evaluation
 
-    - Evaluate your role and positionality as a researcher in shaping the research process. 
-    - Clearly present themes and interpret them within a narrative. Ensure these are supported by verbatim evidence from the transcript. 
-    - Evaluate your study and how your results fit into the wider literature and social/psychological context. 
-    - Identify relevant methodological limitations, implications, and future directions in the context of previous research.
+    -   Evaluate your role and positionality as a researcher in shaping the research process.
+    -   Clearly present themes and interpret them within a narrative. Ensure these are supported by verbatim evidence from the transcript.
+    -   Evaluate your study and how your results fit into the wider literature and social/psychological context.
+    -   Identify relevant methodological limitations, implications, and future directions in the context of previous research.
 
 3.  Quality of the Academic Communication
 
-    - Write clearly and succinctly with appropriate use of paragraphs, spelling and grammar. Ensure that all parts of the report have a logical structure. Ensure that the report follows APA style consistently. 
-    - Clearly support ideas and statements with appropriate citations. 
-    - Clearly and transparently record the analytical process. Upload the separate submission containing your reflexive diary and each stage of analysis.
+    -   Write clearly and succinctly with appropriate use of paragraphs, spelling and grammar. Ensure that all parts of the report have a logical structure. Ensure that the report follows APA style consistently.
+    -   Clearly support ideas and statements with appropriate citations.
+    -   Clearly and transparently record the analytical process. Upload the separate submission containing your reflexive diary and each stage of analysis.
 
 ## Assessment Support
 
@@ -133,9 +133,40 @@ In this Chapter, we have included information about the Qualitative Report in RM
 
 -   Feedback on any written assignment will help with academic communication.
 
-## Academic integrity (UPDATE)
+## Academic integrity
 
-**ADD IN**
+Please note that when submitting your work for assessment we accept it on the understanding that it is your own effort and work and unique to the set assignment.
+
+To support you in understanding what plagiarism is and in avoiding it, please read the following resources that the University provides:
+
+- [SRC Advice and Support](https://www.glasgowunisrc.org/advice/){.external target="_blank"}
+- [Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg33/){.external target="_blank"} and [Plagiarism & Academic Integrity  Code](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg32/){.external target="_blank"}
+- [Avoiding plagiarism and engage in good academic practice](https://moodle.gla.ac.uk/course/view.php?id=13038){.external target="_blank"} (a Moodle course you can self-enrol in) 
+- [Student support for AI, plagiarism and digital skills](https://www.gla.ac.uk/myglasgow/sld/){.external target="_blank"}
+
+**In summary:**
+
+All work submitted by students for assessment is accepted on the understanding that it is the student's own effort. This means students’ work should not contain:
+
+- plagiarised content; or
+- content that has been produced by another person, website, software or Artificial intelligence (AI) tool (except where AI use is explicitly permitted); or
+- content that has been prepared jointly with any other person (except where this is explicitly permitted); or 
+- content that has already been submitted for assessment by the student at this or any other institution, known as self-plagiarism.
+
+**Statement on groupwork:**  This report is not a group work assignment, so your work must be your own individual contribution. However, as you worked closely in a small team and from common templates, we know that there may be some unavoidable similarities between team members in the methods and results, but it should never be
+identical or close to identical.
+
+**University statement on AI:** The University of Glasgow recognises the value of generative artificial intelligence (AI) tools in academic and professional workplaces.The university has a responsibility to ensure that students acquire the necessary knowledge, skills, and other competencies associated within their discipline. The Student Learning Development service provides general guidance and support for students on the use of generative AI. Each item of assessment in your courses will have specific guidance about the use of AI. Where generative AI restrictions are in place, they have been carefully designed to maximise your learning opportunity whilst discouraging reliance on generative AI in a way that undermines your learning or development of good professional practice and graduate attributes.
+
+**Statement on use of generative AI:** The current assessment is summative, meaning that it contributes to your course grade. **The purpose of this assessment is to provide an opportunity to complete a qualitative analysis and write it up as a research report. You can use AI as a learning assistant to help understand lecture content, to give feedback on your work, and to help in finding spelling and grammatical errors.** If you want to use translation software (i.e., you write the assignment in another language first) be cautious as the vocabulary and syntax produced by generative AI is not generally in keeping with the current language use and vocabulary in our field and can result in subtle misunderstanding in communication.
+
+**Avoid using AI to draft your assignment or structure your work, as these are specialist skills that you need to practice. Avoid using AI to make your citations or reference section, as there is a risk that it will fabricate information. Avoid using AI to do coding or generating themes in your qualitative analysis, for three reasons: 1) there are ethical issues as participants in the research datasets have not approved their data being loaded to GenAI, 2) the output generated tends to be of poor quality on its own, and 3) you need to practice these skills so you can develop them.** 
+
+There is no expectation that you will use generative AI, and we have no evidence that its use will confer an advantage for this assessment. If you do use generative AI, you MUST acknowledge use in-text via citations and referencing and in an appendix with a declaration of AI use as appropriate. If you choose to use it, we recommend that you use the Microsoft Edge Browser with Copilot and sign in with your university account using the multi-factor authentication to ensure that your work is private and secure. **Please keep a log of your use of AI as we may ask to see this.**
+
+For this assignment, we will consider it a misuse of generative AI if you do not acknowledge using it. Declare all uses of AI, including initial exploration of the subject, literature searching, writing and editing, corrections for grammar and spelling, as well as any other tasks from the course. Be aware that AI may not represent the best response for this task, and you need to take responsibility for everything that is submitted.
+
+
 
 ## Feedback
 

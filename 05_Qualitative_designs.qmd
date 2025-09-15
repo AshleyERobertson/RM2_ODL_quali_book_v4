@@ -1,4 +1,4 @@
-# Qualitative designs
+# Qualitative designs 
 
 ```{r, echo=FALSE, message=FALSE}
 

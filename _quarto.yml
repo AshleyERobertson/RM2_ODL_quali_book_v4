@@ -56,15 +56,15 @@ book:
       - 06_Qualitative_questions.qmd
       - 07_Data_collection.qmd
       - 08_Data_analysis.qmd
-      - 09_UsingNVivo.qmd
-      - 10_Ethics_rigour_reflexivity.qmd
-      - 11_Group_project.qmd
-      - 12_Academic_writing.qmd
-      - 13_Qualitative_report.qmd
-      - 14_FAQs.qmd
+      - 09_Ethics_rigour_reflexivity.qmd
+      - 10_Group_project.qmd
+      - 11_Academic_writing.qmd
+      - 12_Qualitative_report.qmd
+      - 13_FAQs.qmd
   appendices:
   - appendix_a_showcase.qmd
   - appendix_b_employability.qmd
+  - appendix_c_usingNVivo.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

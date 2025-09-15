@@ -45,6 +45,12 @@ Yes, there is slight variability allowed - it is overall 1000 but you can change
 
 ### Task 1: Qualitative questions & reflection
 
+**Do the qualitative questions we submit also need referencing?**
+No, you don't need citations for section 1A. But make sure to support your reflection with evidence in 1B.
+
+**Is it acceptable to refer to 'the research question' without having to write it out in task 1B?**
+Yes - you don't need to repeat it as the word count is very limited here.
+
 **To what extent can we refine the sample? The RQ refers to 'students', but could we specify that further by limiting it to only students who have / not sought out mental health support?**
 Yes, if you want to limit it further, this is fine - we kept it somewhat flexible on purpose so you have a bit of freedom with this.
 
@@ -157,13 +163,13 @@ I think generally I would say 'a participant' etc. as it depersonalises it. Howe
 ### General report questions
 
 **Will there be detailed guidance about each section of the qual report?**
-Yes, we have a guidance in this book in the qualitative report section in [chapter 8](https://wtoivo.github.io/RM2-ODL-quali-book/qualitative-report.html), which will cover the key points to cover in the report.
+Yes, we have a guidance in this book in the qualitative report section in chapter 13, which will cover the key points to cover in the report.
 
 **Is our report written in a specific style, e.g. IPA, thematic analysis etc?**
 You will use thematic analysis to analyse your data. We covered this in detail in the lectures in semester 1, and we will also have activities to support this in semester 2.
 
 **How many interviews should we select for our report?**
-We ask that you choose a maximum of three interviews to analyse (less than this is fine if you have enough data within your chosen interviews)
+We ask that you choose a maximum of three interviews to analyse (less than this is fine if you have enough data within your chosen interviews). If you are working with the relationships dataset, you can do two couples (four interviews) if you wish to.
 
 **I'm not sure what all the different tasks are for the report - where can we find this information?**
 We haven't shared an explicit task list for the report and one reason for that is because RM2 is purposefully designed to get you to work a bit more independently in preparation for the dissertation.
@@ -190,6 +196,9 @@ You should not write it as if you collected the data - you should write it as a 
 
 **I've found published papers that are using the same dataset and I'm worried that my research is the exact same/doesn't add anything new? I feel that I should mention these original reports when I'm setting my study in the wider literature, but I'm not sure how then to argue that my study is adding anything new if I acknowledge these reports - what should I do?**
 The chances of your RQ and all other parameters of the study being identical are not very high; if your RQ is worded exactly the same as a published paper, you may wish to tweak it a little bit to focus on a more specific aspect of the data, so you can explain in the introduction how it adds to existing literature. Also look out for what kind of analysis they did - then you can discuss why TA might be better suited for your RQ/the type of data you have. What subsample of interviews did they use and is yours different? If so, why? It doesn't need to be an entirely different thing to what is already published; good science is built in incremental steps, so think about what are the things that are different in your study to the published papers, and how that adds to what we already know
+
+**If my report is based on an understudied population with a limited research base, should it be introduced as exploratory research?**
+It could be but it doesn't have to be. It's a bit different in qual as you don't have confirmation vs. exploratory in the same was as with quant. It is likely to be exploratory by nature though, as you are exploring people's views
 
 ### Research questions
 

@@ -67,7 +67,7 @@ Below, we have the ILOs for this assessment. Please note that some of the ILOs a
 
 -   Guidance on how to complete the group portfolio will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in the Group Project Chapter **(ADD LINK)**.
 
--   Further information about feedback can be found in the Feedback section **(ADD LINK)**
+-   Further information about feedback can be found in [the Feedback section](#MCQ_feedback)
 
 -   Additional writing and study advice, including 1-to-1 guidance from [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
@@ -137,10 +137,10 @@ Please note that when submitting your work for assessment we accept it on the un
 
 To support you in understanding what plagiarism is and in avoiding it, please read the following resources that the University provides:
 
--   [SRC Advice and Support](https://www.glasgowunisrc.org/advice/){.external target="_blank"}
--   [Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg33/){.external target="_blank"} and [Plagiarism & Academic Integrity Code](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg32/){.external target="_blank"}
--   [Avoiding plagiarism and engage in good academic practice](https://moodle.gla.ac.uk/course/view.php?id=13038){.external target="_blank"} (a Moodle course you can self-enrol in)
--   [Student support for AI, plagiarism and digital skills](https://www.gla.ac.uk/myglasgow/sld/){.external target="_blank"}
+-   [SRC Advice and Support](https://www.glasgowunisrc.org/advice/){target="_blank"}
+-   [Code of Student Conduct](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg33/){target="_blank"} and [Plagiarism & Academic Integrity Code](https://www.gla.ac.uk/myglasgow/apg/policies/uniregs/regulations2025-26/feesandgeneral/studentsupportandconductmatters/reg32/){target="_blank"}
+-   [Avoiding plagiarism and engage in good academic practice](https://moodle.gla.ac.uk/course/view.php?id=13038){target="_blank"} (a Moodle course you can self-enrol in)
+-   [Student support for AI, plagiarism and digital skills](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
 **In summary:**
 
@@ -163,7 +163,7 @@ There is no expectation that you will use generative AI, and we have no evidence
 
 For this assignment, we will consider it a misuse of generative AI if you do not acknowledge using it. Declare all uses of AI, including initial exploration of the subject, literature searching, writing and editing, corrections for grammar and spelling, as well as any other tasks from the course. Be aware that AI may not represent the best response for this task, and you need to take responsibility for everything that is submitted.
 
-## Feedback
+## Feedback {#portfolio_feedback}
 
 ### What type of feedback will I receive for this assessment?
 

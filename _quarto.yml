@@ -9,6 +9,8 @@ book:
   title: RM2 ODL Qualitative Project Resources
   subtitle: ''
   author: Ashley Robertson & Wil Toivo
+  date: today
+  date-format: "D MMMM YYYY"
   doi: ''
   license: CC-BY
   description: This book contains resources for the qualitative project in Research Methods 2 ODL

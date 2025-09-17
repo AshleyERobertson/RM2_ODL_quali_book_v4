@@ -1,7 +1,4 @@
----
-title: "Qualitative Report (Individual)"
-editor: source
----
+# Qualitative Report (Individual) {ch4_AIS_report}
 
 In this Chapter, we have included information about the Qualitative Report in RM2. You can use the menu at the right hand side of this page to jump to the different sections.
 

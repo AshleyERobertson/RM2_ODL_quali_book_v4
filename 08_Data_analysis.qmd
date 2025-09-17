@@ -1,4 +1,4 @@
-# Data analysis
+# Data analysis {#ch8_data_analysis}
  
 This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2022) to structure your data analysis. This can be accessed through the library, using the following link: https://go.exlibris.link/Z9qxllzH. There is also a good overview in Braun & Clarke (2013), which is on the reading list.
 

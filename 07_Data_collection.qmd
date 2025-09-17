@@ -1,4 +1,4 @@
-# Data collection  
+# Data collection {#ch7_data_collection}
 
 This chapter runs through some of the practical issues you need to think about when collecting data for a qualitative study. Do the activities below on your own and then discuss your answers with your group.
 

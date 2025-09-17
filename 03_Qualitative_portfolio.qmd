@@ -1,7 +1,4 @@
----
-title: "Qualitative Portfolio (Group)"
-editor: visual
----
+# Qualitative Portfolio (Group) {ch3_AIS_report}
 
 In this Chapter, we have included information about the Qualitative Portfolio in RM2. You can use the menu at the right hand side of this page to jump to the different sections.
 
@@ -71,7 +68,7 @@ Below, we have the ILOs for this assessment. Please note that some of the ILOs a
 
 -   Additional writing and study advice, including 1-to-1 guidance from [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
--   FAQs from previous students can be found in [the FAQs Chapter](#faqs)
+-   FAQs from previous students can be found in [the FAQs Chapter](#ch13_faqs)
 
 ## How to do well in this assessment
 

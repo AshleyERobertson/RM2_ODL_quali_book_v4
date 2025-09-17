@@ -1,4 +1,4 @@
-# Qualitative designs 
+# Qualitative designs {#ch5_qual_designs}
 
 ```{r, echo=FALSE, message=FALSE}
 

@@ -8,7 +8,7 @@ execute:
 book:
   title: RM2 ODL Qualitative Project Resources
   subtitle: ''
-  author: Ashley Robertson & Wil Toivo
+  author: "Ashley Robertson & Wil Toivo"
   date: today
   date-format: "D MMMM YYYY"
   doi: ''

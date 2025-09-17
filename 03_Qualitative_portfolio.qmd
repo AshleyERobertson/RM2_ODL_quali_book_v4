@@ -41,7 +41,7 @@ In this Chapter, we have included information about the Qualitative Portfolio in
     -   reflect on the issues presented in the materials, considering how to mitigate them
     -   link to the literature base and ethical guidelines, helping to support your points.
 
-## Intended Learning Outcomes (ILOs)
+## Intended Learning Outcomes (ILOs) {#portfolio_ILOs}
 
 Below, we have the ILOs for this assessment. Please note that some of the ILOs are over-arching (i.e. apply to all three sections) whereas others are specifically for a single section. To increase clarity, we have stated which section/s apply for each ILO.
 
@@ -65,13 +65,13 @@ Below, we have the ILOs for this assessment. Please note that some of the ILOs a
 
 ## Assessment Support
 
--   Guidance on how to complete the group portfolio will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in the Group Project Chapter **(ADD LINK)**.
+-   Guidance on how to complete the group portfolio will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in [the Group Project Chapter](#group_project).
 
 -   Further information about feedback can be found in [the Feedback section](#MCQ_feedback)
 
 -   Additional writing and study advice, including 1-to-1 guidance from [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
--   FAQs from previous students can be found in the FAQs Chapter **(ADD LINK)**
+-   FAQs from previous students can be found in [the FAQs Chapter](#faqs)
 
 ## How to do well in this assessment
 
@@ -191,7 +191,7 @@ To help the discussion, when you e-mail your marker, you must complete [the feed
 
 -   We use the [Schedule A marking criteria](https://www.gla.ac.uk/media/Media_1200302_smxx.pdf){target="_blank"}, marking each assessment on a 22-point scale.
 
--   We use the Intended Learning Outcomes **ADD LINK** presented above to mark this assessment.
+-   We use the [Intended Learning Outcomes presented above](#portfolio_ILOs) to mark this assessment.
 
 ### How will feedback from this assessment help me in the future?
 

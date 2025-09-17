@@ -65,7 +65,7 @@ Below, we have the ILOs for this assessment. Please note that some of the ILOs a
 
 ## Assessment Support
 
--   Guidance on how to complete the group portfolio will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in [the Group Project Chapter](#group_project).
+-   Guidance on how to complete the group portfolio will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in [the Group Project Chapter](#ch10_group_project).
 
 -   Further information about feedback can be found in [the Feedback section](#portfolio_feedback)
 

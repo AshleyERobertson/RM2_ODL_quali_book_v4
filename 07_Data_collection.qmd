@@ -158,6 +158,7 @@ Interviews are very different to focus groups, as the data collection is typical
 GDPR: general data protection regulation. It is the most up to date data protection law and your data collection and storage must comply to the GDPR principles. 
 
 See the University guidelines on: 
+
 - [handling confidential data](https://www.gla.ac.uk/myglasgow/it/informationsecurity/confidentialdata/){target="_blank"}  
 - [GDPR](https://www.gla.ac.uk/myglasgow/dpfoioffice/gdpr/){target="_blank"}
 

@@ -1,7 +1,6 @@
 # Data analysis {#ch8_data_analysis}
  
-This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2022) to structure your data analysis. This can be accessed through the library, using the following link: https://go.exlibris.link/Z9qxllzH. There is also a good overview in Braun & Clarke (2013), which is on the reading list.
-
+This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2022) to structure your data analysis. [This can be accessed through the library](https://go.exlibris.link/Z9qxllzH){target="_blank"}. 
 **Overview of the steps of TA**
 
   1. Familiarisation (p.42 in the Braun & Clarke (2022) book)
@@ -61,7 +60,7 @@ knitr::include_graphics("images/tablecoded.png")
 
 #### Activity 1: Example of coding
 
-Have a look at this example of coding (using Thematic Analysis) from Braun & Clarke (2013): [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdF3fJaWwyJJuVkP-jVOVPcBlNGsfnv04rsWlavw_pyowA?e=QgIRAO)
+Have a look at [this example of coding (using Thematic Analysis) from Braun & Clarke (2013)](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdF3fJaWwyJJuVkP-jVOVPcBlNGsfnv04rsWlavw_pyowA?e=QgIRAO){target="_blank"}
 
 Think about the following:
 
@@ -71,20 +70,20 @@ Do you agree/disagree with the codes that the authors have chosen? Which ones, a
 
 It's time to have a go at coding yourself now!
 
-Read through [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ERHhgbPHADBJuJHk7e2yMtYBb1ddJMCTckAvoXpXB0UYFA?e=UFwJqE), taking brief notes individually the first time you read it. What things did you pick up? If working with others, discuss your codes  - what were the similarities/
-differences?
+Read through [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ERHhgbPHADBJuJHk7e2yMtYBb1ddJMCTckAvoXpXB0UYFA?e=UFwJqE){target="_blank"}, taking brief notes individually the first time you read it. What things did you pick up? If working with others, discuss your codes  - what were the similarities/differences?
 
 ## Developing themes (Phases 3-6)
 
-Here, we'll focus on Phases 3 to 6 of the process. You can find information on each of these phases in the Braun & Clarke (2022) book: Generating Initial Themes (p.78), Developing and Reviewing Themes (p.97), Refining, Defining and Naming Themes (p.108) and Writing up your Analysis (p.118). We also covered how to do Phase 3 in in the lecture for Semester 1 Week 11, while Steps 4-6 were in Semester 1 Week 12. For these activities, you are welcome to do them individually or in pairs/small groups  - whichever you prefer!
+Here, we'll focus on Phases 3 to 6 of the process. You can find information on each of these phases in the Braun & Clarke (2022) book: Generating Initial Themes (p.78), Developing and Reviewing Themes (p.97), Refining, Defining and Naming Themes (p.108) and Writing up your Analysis (p.118). We also covered how to do Phase 3 in the Thematic Analysis lectures in Semester 1. For these activities, you are welcome to do them individually or in pairs/small groups  - whichever you prefer!
 
 
 ### Phase 3: Generating initial themes (p.78)
 
-  * In this stage, you should sort the codes into potential themes. Here, you will start to analyse your codes, and consider how they might share an idea or concept.
-  * It might be helpful to visualise this in some way, and see how the codes fit together.
-  * You may have codes that don’t seem to fit anywhere, others will fit neatly into themes, others might be in sub-themes
-  * You end this step with a collection of candidate themes (and potentially sub-themes)
+In this stage, you should sort the codes into potential themes. Here, you will start to analyse your codes, and consider how they might share an idea or concept.
+
+It might be helpful to visualise this in some way, and see how the codes fit together. You may have codes that don’t seem to fit anywhere, others will fit neatly into themes, others might be in sub-themes
+
+You end this step with a collection of candidate themes (and potentially sub-themes)
 
 **Practical steps:**
 
@@ -149,7 +148,7 @@ Look across the entire dataset and consider your theme(s) – do they accurately
 
 #### Activity 1: Try it yourself!
 
-We've provided the same transcript as for phases 1-2, but it's a little longer (to give you more scope to develop themes) - you can find it [here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZaA8YkYkyVGkwn0cEDFLCABWr5rREIlMAyIaAPHu3juTg?e=QgyPdd). You can use the codes you developed last time (adding to them for the additional parts of the transcript), or you can recode the data again if you prefer - either option is fine.
+We've provided the same transcript as for phases 1-2, but it's a little longer (to give you more scope to develop themes) - [it is linked here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZaA8YkYkyVGkwn0cEDFLCABWr5rREIlMAyIaAPHu3juTg?e=QgyPdd){target="_blank"}. You can use the codes you developed last time (adding to them for the additional parts of the transcript), or you can recode the data again if you prefer - either option is fine.
 
   * Once you have your codes, try to organise them into themes.
   * Group together the codes that seem similar in some way - can you think of an overarching 'theme' that describes them? 
@@ -158,9 +157,9 @@ We've provided the same transcript as for phases 1-2, but it's a little longer (
   
 #### Activity 2: Bad analysis
 
-This is an additional activity and only if you have time/want to delve a bit further. Have a look at the analysis [here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXFrzL2zbfBCjDUeP6Py3MUB3p_WS15GyVYXur83wjuYUQ?e=fTMITU). This is an example from Braun & Clarke's book. Why do you think it might be considered a poor example of thematic analysis?
+This is an additional activity and only if you have time/want to delve a bit further. [Have a look at the analysis](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXFrzL2zbfBCjDUeP6Py3MUB3p_WS15GyVYXur83wjuYUQ?e=fTMITU){target="_blank"}. This is an example from Braun & Clarke's book. Why do you think it might be considered a poor example of thematic analysis?
 
-After you've finished, you can look at the points that Braun & Clarke identified [here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Eded8-fYVWpOrj5vFY92gyQB0ieRX7BGUhZztrdA5auVhw?e=Pysxhy). Did you identify any additional ones? Were there any you missed?
+After you've finished, you can look at [the points that Braun & Clarke identified](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Eded8-fYVWpOrj5vFY92gyQB0ieRX7BGUhZztrdA5auVhw?e=Pysxhy){target="_blank"}. Did you identify any additional ones? Were there any you missed?
 
 ## Developing a narrative
 
@@ -191,13 +190,13 @@ Thematic Analysis allows you to explore *semantic* or *latent* themes (or both) 
 ### Activities
 
 #### Activity 1: Semantic vs. latent
-To explore differences between semantic and latent coding, as well as analysing at an illustrative or analytical level, please read [Clarke and Braun (2013)](https://glasgow.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=t&l=en-UK&bookMark=eNqNzEsKwjAQANABP2i1Z7AXEJJM20nWorjXfRlDWiuhxSbR63sC0f3jZTAfxsHNIDekpS5JU6WVWkImpSk1IdW4gjyEhxBCYoUo5Bp2l2StC6FNvngm9n3k2L9cMbngeLL3LSxa9sHlMI9TchsoTsfr4bzvPIdufDeWI_uxa25YozZkJH4nypAySmj1Y6mpwj_IB5k-RK4) p207-210 and also p252-254.
+To explore differences between semantic and latent coding, as well as analysing at an illustrative or analytical level, please read [Braun and Clarke (2013)](https://go.exlibris.link/wq9gqMKY){target="_blank"} p207-210 and also p252-254.
 
 #### Activity 2: Analysing vs. summarising
-Read pages 8-12 from [this thematic analysis](https://study.sagepub.com/sites/default/files/anderson_clarke_reflective_commentary.pdf) on skin-picking. Here, the authors report three themes and then have a reflection at the bottom. Try to identify where the authors have gone beyond paraphrasing  - discuss in your groups/pairs if you can.
+Read pages 8-12 from [this thematic analysis](https://study.sagepub.com/sites/default/files/anderson_clarke_reflective_commentary.pdf){target="_blank"} on skin-picking. Here, the authors report three themes and then have a reflection at the bottom. Try to identify where the authors have gone beyond paraphrasing  - discuss in your groups/pairs if you can.
 
 #### Activity 3: Evaluating analysis and discussion sections
-Do [THIS EXERCISE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb) on evaluating analysis sections of published papers.
+Do [this exercise](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb){target="_blank"} on evaluating analysis sections of published papers.
 
 ## Checklist for a good TA
 
@@ -219,11 +218,11 @@ This checklist is taken from Braun & Clarke (2006)
 14. The language and concepts used in the report are consistent with the epistemological position of the analysis
 15. The researcher is positioned as active in the research process; themes do not just ‘emerge’
 
-## OPTIONAL: Research skills session - Preparing for data analysis
+## OPTIONAL: Research skills session - Preparing for data analysis {#reflexivity_skills_session}
 
 Ashley has recorded **optional** research skills sessions on different aspects of qualitative research. These sessions take a little bit deeper dive into some of the topics and may be particularly useful if you are planning on doing a qualitative dissertation next year. 
 
-[Watch the video here](https://echo360.org.uk/media/d4df06eb-4cf1-4ae0-bf8b-cf280d9da7e0/public)
+[Watch the video here](https://echo360.org.uk/media/d4df06eb-4cf1-4ae0-bf8b-cf280d9da7e0/public){target="_blank"}
 
 ### Thinking about reflexivity
 
@@ -285,7 +284,7 @@ Looking a bit more deeply, Braun and Clarke speculated that Andreas values hones
 
 ### Activity 2: A code or a theme?
 
-In this activity, we'll go through a handout that asks you whether something is a code or a theme. Link to the handout is [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EchyMtm_oPxJjdf87kLvpyMB3nyxnSof5oEP-0A-PhnEGg?e=YKqeo8)
+In this activity, we'll [go through a handout that asks you whether something is a code or a theme](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EchyMtm_oPxJjdf87kLvpyMB3nyxnSof5oEP-0A-PhnEGg?e=YKqeo8){target="_blank"}.
 
 For each label, decide whether it is a code or a theme.
 

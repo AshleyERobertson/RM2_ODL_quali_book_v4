@@ -4,7 +4,7 @@ This chapter will help you to consider ethics and reflexivity in qualitative res
 
 ## Ethics
 
-This section will talk you through the ethical considerations you need to conduct qualitative research. As you remember from RM1, every time we conduct research with human participants, we have to think carefully about the potential impact of our research and we must adhere to the [BPS Code of Human Research Ethics](https://cms.bps.org.uk/sites/default/files/2022-06/BPS%20Code%20of%20Human%20Research%20Ethics%20(1).pdf). Some of the ethical issues are common to both quantitative and qualitative research (for example, informed consent and the right to withdraw), but due to the nature of qualitative data, there are certain aspects we need to be particularly mindful about.
+This section will talk you through the ethical considerations you need to conduct qualitative research. As you remember from RM1, every time we conduct research with human participants, we have to think carefully about the potential impact of our research and we must adhere to the [BPS Code of Human Research Ethics](https://cms.bps.org.uk/sites/default/files/2022-06/BPS%20Code%20of%20Human%20Research%20Ethics%20(1).pdf){target="_blank"}. Some of the ethical issues are common to both quantitative and qualitative research (for example, informed consent and the right to withdraw), but due to the nature of qualitative data, there are certain aspects we need to be particularly mindful about.
 
 ### General ethical considerations
 
@@ -65,9 +65,9 @@ Before reading on, try to think what ethical issues each of these elements of qu
 
 Look at the methods sections of these studies and try to identify how they have addressed ethical issues
 
-  * [Scott et al., 2019](https://www.sciencedirect.com/science/article/pii/S2352721819301457#s0010)
-  * [Sutton & Stack, 2013](https://academic.oup.com/bjsw/article/43/3/596/1636960?login=true)
-  * [Robertson & Simmons, 2015](https://journals.sagepub.com/doi/pdf/10.1068/p7833)
+  * [Scott et al., 2019](https://www.sciencedirect.com/science/article/pii/S2352721819301457#s0010){target="_blank"}
+  * [Sutton & Stack, 2013](https://academic.oup.com/bjsw/article/43/3/596/1636960?login=true){target="_blank"}
+  * [Robertson & Simmons, 2015](https://journals.sagepub.com/doi/pdf/10.1068/p7833){target="_blank"}
   
   
 ### Activity 3: Information sheet and constent form
@@ -120,7 +120,7 @@ If you agree to participate in this study, then please read the following statem
 
 ## Reflexivity
 
-Please note: Some information below is included in the video for [Research Skills for data analysis](https://wtoivo.github.io/RM2-ODL-quali-book/data-analysis.html#optional-research-skills-session---preparing-for-data-analysis) as well
+Please note: Some information below is included in the video for [Research Skills for data analysis](#reflexivity_skills_session) as well.
 
 We ask you to think about your own position in the research as part of your report (there is a section in the methods!).
 
@@ -140,7 +140,7 @@ Some questions that you might ask yourself:
   * What are my values (i.e. what is important to me)?
   * What about my beliefs? How might these have influenced my thinking?
 
-Here we have some data from Braun & Clarke - there are different datasets to choose from. If you want to use the ones from Braun & Clarke, you can either choose the ['childfree'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EWq1HW7Xm_BKnobsU_GRpcIBlSvnQ4k6XhFqBkszClAwWg?e=q4lc97) dataset or the ['healthy eating'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdfitbKwhodKo8Kmj9szNgwBNmt313A8dYknAiehHdy2lg?e=0vWOnu) dataset. However, we know that some topics might be difficult for people, so please do choose a topic of your own preference if you would rather  - any qualitative dataset (e.g.from UK Data Service) or news article would be fine.
+Here we have some data from Braun & Clarke - there are different datasets to choose from. If you want to use the ones from Braun & Clarke, you can either choose the ['childfree'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EWq1HW7Xm_BKnobsU_GRpcIBlSvnQ4k6XhFqBkszClAwWg?e=q4lc97){target="_blank"} dataset or the ['healthy eating'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdfitbKwhodKo8Kmj9szNgwBNmt313A8dYknAiehHdy2lg?e=0vWOnu){target="_blank"} dataset. However, we know that some topics might be difficult for people, so please do choose a topic of your own preference if you would rather  - any qualitative dataset (e.g.from UK Data Service) or news article would be fine.
 
 ### Activity 1
 
@@ -159,4 +159,4 @@ Discuss your experiences of reflecting with your group. Did you find it easier t
 
 ### Activity 3 (optional)
 
-Ashley has some additional reflexivity probes and tips in her research skills session which can be accessed [HERE](https://wtoivo.github.io/RM2-ODL-quali-book/data-analysis.html#thinking-about-reflexivity)
+Ashley has some additional reflexivity probes and tips in her [research skills session](#reflexivity_skills_session).

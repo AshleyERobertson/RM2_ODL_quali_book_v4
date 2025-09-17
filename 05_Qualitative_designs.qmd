@@ -64,7 +64,7 @@ This study is more likely to be: `r mcq(c(answer="Qualitative", answer= "Quantit
 
 ::: {.callout-caution icon=false collapse="true"}
 ## Explain the answer
-This study could be either quantitative or qualitative depending on how it's set up - if the researcher is interested in a causal relationship and measures the effects numerically, the study would be quantitative. However, if the researcher for example does interviews with parents and wants to find out their experiences and perceptions more in depth, the study could also be qualitative.
+On balance, we've chosen qualitative for this, but this study could be either quantitative or qualitative depending on how it's set up - if the researcher is interested in a causal relationship and measures the effects numerically, the study would be quantitative. However, if the researcher for example does interviews with parents and wants to find out their experiences and perceptions more in depth, the study could also be qualitative.
 :::
 
 4. James is conducting a study where he wants to better understand motivations for smoking among teenagers.

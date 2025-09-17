@@ -6,7 +6,7 @@ This chapter runs through some of the practical issues you need to think about w
 
 **Informed consent**
 
-Before and data collection takes place, you must provide your participants with an information sheet and consent form (see [chapter 5: Ethics](https://wtoivo.github.io/RM2-ODL-quali-book/ethics-rigour-and-reflexivity.html) for more detail!) 
+Before and data collection takes place, you must provide your participants with an information sheet and consent form. You can find more information about this in the [Ethics, Rigour and Reflexivity chapter](#ch9_ethics)
 
 You must give everyone participating the Information sheet and consent form before the focus group/interview takes place. Completed consent forms should be returned to the researcher and you should verbally confirm consent before you start any data collection. In a survey, participants should complete consent form before seeing any survey questions.
 
@@ -157,7 +157,9 @@ Interviews are very different to focus groups, as the data collection is typical
 
 GDPR: general data protection regulation. It is the most up to date data protection law and your data collection and storage must comply to the GDPR principles. 
 
-See the University guidelines on handling confidential data  https://www.gla.ac.uk/myglasgow/it/informationsecurity/confidentialdata/. You can read more about GDPR here: https://www.gla.ac.uk/myglasgow/dpfoioffice/gdpr/
+See the University guidelines on: 
+- [handling confidential data](https://www.gla.ac.uk/myglasgow/it/informationsecurity/confidentialdata/){target="_blank"}  
+- [GDPR](https://www.gla.ac.uk/myglasgow/dpfoioffice/gdpr/){target="_blank"}
 
 Make sure that:
 
@@ -172,7 +174,7 @@ Make sure that:
 
 Ashley has recorded **optional** research skills sessions on different aspects of qualitative research. These sessions take a little bit deeper dive into some of the topics and may be particularly useful if you are planning on doing a qualitative dissertation next year. 
 
-[Watch the video here](https://echo360.org.uk/media/1f84181c-364e-47e3-a61e-415e4ec5a368/public?autoplay=false&automute=false&startTimeMillis=0)
+[Watch the video here](https://echo360.org.uk/media/1f84181c-364e-47e3-a61e-415e4ec5a368/public?autoplay=false&automute=false&startTimeMillis=0){target="_blank"}
 
 ### General tips
 

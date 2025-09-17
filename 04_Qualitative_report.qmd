@@ -1,6 +1,6 @@
 ---
 title: "Qualitative Report (Individual)"
-editor: visual
+editor: source
 ---
 
 In this Chapter, we have included information about the Qualitative Report in RM2. You can use the menu at the right hand side of this page to jump to the different sections.
@@ -28,7 +28,7 @@ In this Chapter, we have included information about the Qualitative Report in RM
 
 -   All aspects of your report should be written and formatted according to APA guidelines.
 
-## Intended Learning Outcomes
+## Intended Learning Outcomes {#report_ILOs}
 
 1.  Quality of the Knowledge and Research
 
@@ -51,13 +51,13 @@ In this Chapter, we have included information about the Qualitative Report in RM
 
 ## Assessment Support
 
--   Guidance on how to complete the qualitative report will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in the Qualitative Report Chapter **(ADD LINK)**.
+-   Guidance on how to complete the qualitative report will be provided as part of the course. These will be released on Moodle, but you will also be able to find all key resources in [the Qualitative Report Chapter](#ch12_qualitative_report).
 
 -   Further information about feedback can be found in [the Feedback section](#report_feedback)
 
 -   Additional writing and study advice, including 1-to-1 guidance from [Student Learning Development](https://www.gla.ac.uk/myglasgow/sld/){target="_blank"}
 
--   FAQs from previous students can be found in the FAQs Chapter **(ADD LINK)**
+-   FAQs from previous students can be found in [the FAQs Chapter](#faqs)
 
 ## How to do well in this assessment
 
@@ -193,7 +193,7 @@ To help the discussion, when you e-mail your marker, you must complete [the feed
 
 -   We use the [Schedule A marking criteria](https://www.gla.ac.uk/media/Media_1200302_smxx.pdf){target="_blank"}, marking each assessment on a 22-point scale.
 
--   We use the Intended Learning Outcomes **ADD LINK** presented above to mark this assessment.
+-   We use [the Intended Learning Outcomes presented above](#report_ILOs) to mark this assessment.
 
 ### How will feedback from this assessment help me in the future?
 

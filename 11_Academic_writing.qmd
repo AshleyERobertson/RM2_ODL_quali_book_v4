@@ -6,6 +6,8 @@ This chapter has some activities to help with your academic writing.
 
 The activities in this section are designed to help you improve your evaluation in the introduction of your RM2 report (and your dissertation). To re-cap from RM1, the purpose of your introduction is to provide a rationale for your study and answer the **WHY** question; why is your study worth doing? You want to sell your idea to the reader, using existing literature to show how you are building on the evidence that is there.
 
+Although 'identifying the gap' is something that is often key in quantitative research, building a rationale is not exactly the same in qualitative research. This is because qualitative research tends to be very much situated in the context of the particular study (i.e. why is this particular research topic or question important in this context/with this group). Regardless of whether you include a gap or not (you still can), you should convey to your reader **why** your study matters (or why a gap you've identified is important to explore). 
+
 **Things to do and things to avoid**
   
   1. Avoid doing one study per paragraph – instead, build your arguments using multiple sources
@@ -66,7 +68,7 @@ Quite often what we see is students engaging with a lot of literature in the int
 **Tip 1: Show how your study builds on existing literature**
 When you are building your rationale, try to use multiple studies to show your reader what the current context of the literature is, and how your study is expanding that knowledge. What new is your study bringing? How is it expanding on existing studies?
 
-If you look at these paragraphs from Robertson et al. (2018), they are building the rationale for their study by showing how it expands on existing literature:
+If you look at these paragraphs from [Robertson et al. (2018)](https://www.sciencedirect.com/science/article/pii/S1750946717301277){target="_blank"}, they are building the rationale for their study by showing how it expands on existing literature:
 
 ::: {.callout-note icon=false}
 
@@ -81,7 +83,7 @@ If you look at these paragraphs from Robertson et al. (2018), they are building 
 
 When you are critically evaluating studies in your introduction, make  your criticism focused on things that your study is addressing. This  helps you build the rationale. For example, for the RM2 report, don't  focus on the sample size and generalisability of existing studies in your introduction, because these are not things that your study will actually be able to address. Instead, focus on gaps/problems your study can address.
 
-If you look at this paragraph from Toivo & Scheepers (2019), they are identifying a gap/problem in existing literature and showing how the new study is addressing this:
+If you look at this paragraph from [Toivo & Scheepers (2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210450){target="_blank"}, they are identifying a gap/problem in existing literature and showing how the new study is addressing this:
 
 ::: {.callout-note icon=false}
 
@@ -95,7 +97,7 @@ If you look at this paragraph from Toivo & Scheepers (2019), they are identifyin
 
 Sometimes if your topic has not been studied much, it might be difficult to create an evidence-based rationale for your research question. In this case, you can draw logical parallels from related topics/domains. Remember to explain to the reader why you would expect the findings to generalise across the related topics.
 
-If you look at this paragraph from Mahrholz et al. (2018), it acknowledges that evidence on what they are looking at is scarce in voice perception, but the same effect has been found in face perception: 
+If you look at this paragraph from [Mahrholz et al. (2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204991){target="_blank"}, it acknowledges that evidence on what they are looking at is scarce in voice perception, but the same effect has been found in face perception: 
 
 ::: {.callout-note icon=false}
 
@@ -109,13 +111,14 @@ In voice research, though there are limited studies that consider the  reliabili
 
 ### Activity 3: Active reading
 
-When you are reading journal articles, make sure to take notes and think of how each article can be used to build your rationale in the introduction. Here is a resource you can use to help structure your notes about the studies you are going to use for your introduction: [INTRODUCTION NOTES DOCUMENT](https://gla-my.sharepoint.com/:w:/g/personal/wilhelmiina_toivo_glasgow_ac_uk/EXPNU5j4pQhKvRMYVx8dBvcBs85f4Z8q1V21wSokGOIbCA?e=eg7zd0)
+When you are reading journal articles, make sure to take notes and think of how each article can be used to build your rationale in the introduction. [Here is a resource you can use to help structure your notes](https://gla-my.sharepoint.com/:w:/g/personal/wilhelmiina_toivo_glasgow_ac_uk/EXPNU5j4pQhKvRMYVx8dBvcBs85f4Z8q1V21wSokGOIbCA?e=eg7zd0){target="_blank"} about the studies you are going to use for your introduction.
 
 ## Evaluation in your analysis section
 
 ### Activity 1
 
-Complete this to improve your evaluation for your thematic analysis, (as well as the discussion section). You may have already completed this as a part of your Data analysis chapter, but if you haven't please do it now. We ask you to compare two published papers against some of the qualitative report ILOs. You can access the activity [HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb)
+[Complete this activity](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb){target="_blank"} to improve your evaluation for your thematic analysis, (as well as the discussion section). You may have already completed this as a part of your Data analysis chapter, but if you haven't please do it now. We ask you to compare two published papers against some of the qualitative report ILOs. 
+
 
 ### Activity 2: Going deeper in your analysis
 
@@ -187,7 +190,7 @@ In your discussion section, start off by telling us what you found in your analy
   
 #### Activity 1
 
-Read the paragraphs below (from Crompton et al., 2020) and think about what the authors are  communicating, with a view to considering the points above.
+Read the paragraphs below from [Crompton et al., (2020)](https://journals.sagepub.com/doi/full/10.1177/1362361320908976?fbclid=IwAR0tMsMbmeATwp5RpoKA-yqUr3QzyHuBSuy00uMAvlqZepaS4Pv_48VgQjA){target="_blank"} and think about what the authors are communicating, with a view to considering the points above.
 
 In particular, identify:
 
@@ -220,7 +223,7 @@ In addition to theoretical implications you would discuss in a quantitative stud
   
 #### Activity 2
 
-Read the paragraph below from Robertson et al. (2018) and think about how the authors have communicated the implications of the research.
+Read the paragraph below from [Robertson et al. (2018)](https://www.sciencedirect.com/science/article/pii/S1750946717301277){target="_blank"} and think about how the authors have communicated the implications of the research.
 
 In particular, identify:
 
@@ -250,7 +253,7 @@ All research will have limitations  - there is never going to be a perfect study
   
 #### Activity 3
 
-Read the paragraph below from Toivo & Scheepers (2019). Although this is not a qualitative paper, the following paragraph exhibits many of the strengths noted above.
+Read the paragraph below from [Toivo & Scheepers (2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210450){target="_blank"}. Although this is not a qualitative paper, the following paragraph exhibits many of the strengths noted above.
 
 In particular, identify:
 

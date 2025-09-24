@@ -1,4 +1,4 @@
-# Data Skills (Individual) {ch1_data_skills}
+# Data Skills (Individual) {#ch1_data_skills}
 
 In this Chapter, we have included information about the Data Skills Assessments in RM2 (ANOVA and Regression). You can use the menu at the right hand side of this page to jump to the different sections.
 

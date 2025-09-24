@@ -1,28 +1,28 @@
 # Qualitative report {#ch12_qualitative_report}
 
-In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the AIS and FIS on Moodle before starting to work on the report.[HERE](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4) is a suggested timeline for the qualitative report and portfolio
+In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the [Assessment Information](#ch4_AIS_report) before starting to work on the report. We have also provided a [suggested timeline]((https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} for the qualitative report and portfolio
 
 ## What is the qualitative report?
 
-You will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset.Watch this [video](https://uofglasgow.zoom.us/rec/share/acSEJKwVKTMRE0eg0mHiOl6Oqtri-2YsBe-AFF2IPdvXmn6M8wqc21S2jJYjc14.5I6SoaRwKI_WVKWF?startTime=1739792864000) for an overview about the report, and make sure you have accessed the [AIS](https://sway.office.com/KWdOZnNK1oM1FULn?ref=Link) and [FIS](https://sway.office.com/ZlNI4cWd8XWncVQE?ref=Link) on Moodle before you start working on the report. 
+You will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle (look in the materials for Semester 1 Week 1). We provide guidelines on the report [later in this chapter](#qual_report_guide)
 
 ## Report datasets and how to use UK data service
 
-Before accessing your datasets, watch [THIS VIDEO](https://echo360.org.uk/media/ac815f47-bb97-40cc-8c34-d82d74e4bb0e/public) on how to use UK data service. It shows you an example of how to download the data with one of the datasets. Please note that some of the datasets are on sensitive topics, and contain information that may be upsetting; make sure to familiarise yourself with the interview schedules and have a quick scan of the data before you decide which dataset to work with. 
+Before accessing your datasets, watch [this video](https://echo360.org.uk/media/ac815f47-bb97-40cc-8c34-d82d74e4bb0e/public){target="_blank"} on how to use UK data service. It shows you an example of how to download the data with one of the datasets. Please note that some of the datasets are on sensitive topics, and contain information that may be upsetting: make sure to familiarise yourself with the interview schedules and have a quick scan of the data before you decide which dataset to work with. 
 
-You can access the UK data service [HERE](https://beta.ukdataservice.ac.uk/myaccount/login)
+[The UK data service can be accessed here](https://beta.ukdataservice.ac.uk/myaccount/login){target="_blank"}
 
-You can choose one of the three available datasets: 
+You can choose one of the five available datasets: 
   
-  1. [Interviews with disabled young people and carers](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=854556)
-  2. [LGBT+ networks in the workplace](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=855322)
-  3. [Long-term relationships](https://reshare.ukdataservice.ac.uk/851244/)
-  4. [Patient descriptions of PMS](https://reshare.ukdataservice.ac.uk/855486/)
-  5. [Student experiences of loneliness and social connectedness](https://reshare.ukdataservice.ac.uk/856114/)
+  1. [Interviews with disabled young people and carers](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=854556){target="_blank"}
+  2. [LGBT+ networks in the workplace](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=855322){target="_blank"}
+  3. [Long-term relationships](https://reshare.ukdataservice.ac.uk/851244/){target="_blank"}
+  4. [Patient descriptions of PMS](https://reshare.ukdataservice.ac.uk/855486/){target="_blank"}
+  5. [Student experiences of loneliness and social connectedness](https://reshare.ukdataservice.ac.uk/856114/){target="_blank"}
 
 ## Developing a research question
 
-As part of writing up your qualitative report, we ask that you develop a research question to help you guide your enquiry. Here is some guidance on how to get started:
+As part of writing up your qualitative report, we ask that you develop a research question to help you guide your enquiry. Below, we have some guidance on how to get started.
 
 ### Getting started with the data
 
@@ -58,22 +58,22 @@ These questions are now a bit more in line with qualitative and are specific abo
   
 ### Formative feedback on your RQ
 
-If you would like to receive formative feedback on your RQ, you can submit it on [this Padlet](https://padlet.com/wilhelmiinatoivo/rm2-odl-research-questions-f844153314j3pwr2) by the end of week 5, semester 2. Please note that RQs submitted later than that will not receive feedback.
+If you would like to receive formative feedback on your RQ, you can submit it on [this Padlet](https://padlet.com/wilhelmiinatoivo/rm2-odl-research-questions-f844153314j3pwr2){target="_blank"} by the end of Semester 2 Week 5. Please note that RQs submitted later than that will not receive feedback.
 
 If you would like to discuss your RQ, you can also attend Ashley's and Wil's office hours.
   
 
-## Qualitative report guide
+## Qualitative report guide {#qual_report_guide}
 
 ### Using this report guide
 
 This guide is intended to help you in the write up of your qualitative project report. When writing your report, remember to use the other resources available to you:
 
   * Your feedback for your RM1 report
-  * Braun & Clarke (2013) have an excellent chapter on writing up qualitative research
-  * [Braun & Clark (2022) book](https://go.exlibris.link/Z9qxllzH)
+  * Chapter 13 in [Braun & Clarke (2013)](https://go.exlibris.link/5g3nFfGx){target="_blank"} is excellent support for writing up qualitative research
+  * [Braun & Clark (2022) book](https://go.exlibris.link/Z9qxllzH){target="_blank"}
   * All the resources available in this book (particularly sections for 4. Data analysis and 7. Academic writing)
-  * [Published articles which use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/AC35252A-659D-A481-3C23-4804E0DCE12A.html?lang=en&login=1#E2A84D1A-1487-81E6-3AD4-8D18AF2FFE8D)
+  * **25/25 cohort reading list:**: [Published articles that use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/30BEDB96-5F9D-9F9E-630A-205B91FA34AB.html?lang=en-GB#B226C8C1-1926-8328-A8A3-06DC389D9809){target="_blank"}
   * [A helpful resource for APA formatting is OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
   
 Use the assessment criteria on Moodle as a checklist before you submit the report, to ensure you have addressed all points.  If you have questions post on Teams and/or visit our office hours.  All the best in writing your report.

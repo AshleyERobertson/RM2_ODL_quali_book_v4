@@ -1,4 +1,4 @@
-# Multiple Choice Questions (Individual) {ch2_mcqs}
+# Multiple Choice Questions (Individual) {#ch2_mcqs}
 
 In this Chapter, we have included information about the Multiple Choice Quiz in RM2. You can use the menu at the right hand side of this page to jump to the different sections.
 

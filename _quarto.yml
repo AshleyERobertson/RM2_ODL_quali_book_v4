@@ -65,8 +65,6 @@ book:
       - 13_FAQs.qmd
   appendices:
   - appendix_a_showcase.qmd
-  - appendix_b_employability.qmd
-  - appendix_c_usingNVivo.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

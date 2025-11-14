@@ -1,6 +1,7 @@
 # Data analysis {#ch8_data_analysis}
  
 This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2022) to structure your data analysis. [This can be accessed through the library](https://go.exlibris.link/Z9qxllzH){target="_blank"}. 
+
 **Overview of the steps of TA**
 
   1. Familiarisation (p.42 in the Braun & Clarke (2022) book)
@@ -17,13 +18,14 @@ Here, we'll focus on Phases 1 and 2 of the process. Familiarisation starts on p.
 
 ### Phase 1: Familiarisation (p.42)
 
-  * Transcribing (or sorting/anonymising your transcript) helps you to become more familiar with your data
-  * Read over the transcript, but do it in an 'active' way. This means reading while searching for meanings and patterns
-  * Note down anything of interest that comes up, either in a particular part of a transcript or thinking about the overall dataset
+- Transcribing (or correcting/anonymising your transcript) helps you to become more familiar with your data. Although you will not do this in this project, you may do so in your dissertation). 
+- Read over the transcript, but do it in an 'active' way. This means reading while searching for meanings and patterns 
+- Note down anything of interest that comes up, either in a particular part of a transcript or thinking about the overall dataset
 
-**Practical steps:**
-
+::: {.callout-warning icon=false}
+## Practical Steps
 Read through your transcript and take notes and/or make comments in the margins. Generate a list of ideas: what is interesting about the discussion? Are there any contradictions that you spot? What patterns do you observe?
+:::
 
 ### Phase 2: Generating initial codes (p.59)
 
@@ -33,13 +35,16 @@ Read through your transcript and take notes and/or make comments in the margins.
   * Coded data is specific (themes, which come later, are broad) -you will likely end up with quite a lot of different codes.
   * Code for as many patterns as you can at this point  - it won't all make it to the next stage, but it's good if you pick up as much as you can at this stage.
   
-**Practical steps:**
 
+::: {.callout-warning icon=false}
+## Practical Steps
 Insert labels beside quotes - what is interesting about the quote? What does it tell us in relation to your research question?
+:::
+
 
 ### How to actually do the coding (logistically)?
 
-There are many different ways to approach this - find the way that works for you! There are also different software to conduct thematic analysis (such as NVivo); you are welcome to use these if you wish, but due to the introductory nature of this course we don't have guidance for using them, so you need to do learn it independently, should you want to use one.
+There are many different ways to approach this. We ask you to use one of two methods for your report (hand-coding or coding using Word). The reasons for this are that we need you to evidence the full process of your analysis, and this is included as part of the learning criteria for this assignment. 
 
 Option 1: Hand-coding
 ```{r img-handcoded, echo=FALSE, fig.cap="Example of a hand-coded transcript"}
@@ -51,10 +56,7 @@ Option 2: Code using Word, by adding comments
 knitr::include_graphics("images/commentcoded.png")
 ```
 
-Option 3: Construct a table for your codes and quotes. This is an example from Braun & Clarke (2013)
-```{r img-tablecoded, echo=FALSE, fig.cap="Example of a transcript coded using a table"}
-knitr::include_graphics("images/tablecoded.png")
-```
+However, if you do a qualitative project for your dissertation, other options will be open to you, so please do ask your supervisor what might be best!
 
 ### Activities
 
@@ -87,14 +89,16 @@ It might be helpful to visualise this in some way, and see how the codes fit tog
 
 You end this step with a collection of candidate themes (and potentially sub-themes)
 
-**Practical steps:**
-
+::: {.callout-warning icon=false}
+## Practical Steps
   * Start to group your initial codes together
   * Can you see a pattern of shared meaning across different codes?
   * What are the similarities across codes?
   * End this stage by collating all the coded quotes relevant to each theme.
   * Themes can be descriptive or interpretative (see Braun & Clarke, 2013, Ch 11). 
   * Using tables or mind maps at this stage can be helpful
+:::
+
   
 ### Phase 4: Developing and Reviewing themes (p.97)
 
@@ -112,14 +116,16 @@ If they don’t, is it the case that a) the theme itself is problematic and need
 
 Look across the entire dataset and consider your theme(s) – do they accurately reflect the meanings in the dataset? Do they tell you about the important patterns that you observed in the dataset?
 
-**Practical steps:**
-
-  * This involves checking that the themes ‘work’ in relation to both the coded extracts and the full data-set.
+::: {.callout-warning icon=false}
+## Practical Steps
+ * This involves checking that the themes ‘work’ in relation to both the coded extracts and the full data-set.
   * Reflect on whether the themes tell a convincing and compelling story about the data, and begin to define the nature of each individual theme, and the relationship between the themes.
   * It may be necessary to collapse two themes together or to split a theme into two or more themes, or to discard the candidate themes altogether and begin again the process of theme development.
   * It may be that your theme is actually a topic summary and needs reworked.
   * Not every participant will make specific reference to every theme - that is ok - but think about how each person is represented in the analysis.
   * It can be helpful at this stage to group the relevant quotes together that represent each given theme
+:::
+
 
 ### Phase 5: Refining, Defining and Naming Themes (p.108)
 
@@ -129,10 +135,12 @@ Look across the entire dataset and consider your theme(s) – do they accurately
   * In your report, you will report one theme with sub-themes or two themes (no subthemes) – do they explain different things without overlapping too much?
   * Try to choose names for themes that are not one word or likely to indicate topic summaries (see the Semester 1 Week 11 Lecture if you want to revisit this)
 
-**Practical steps:**
-
-  * This involves being able to explain each theme: 'What story does this theme tell?’ and ‘how does this theme fit into the overall story about the data?’.
+::: {.callout-warning icon=false}
+## Practical Steps
+ * This involves being able to explain each theme: 'What story does this theme tell?’ and ‘how does this theme fit into the overall story about the data?’.
   * Identify the ‘essence’ of each theme and construct a concise, punchy and informative name. Usually, you would aim for two themes for the qualitative report
+:::
+
   
 ### Phase 6: Writing up your Analysis (p.118)
 
@@ -140,11 +148,12 @@ Look across the entire dataset and consider your theme(s) – do they accurately
   * The write up must provide sufficient evidence of the theme(s) (this is where the quotes come in!)
   * The extracts you choose should clearly illustrate the theme
 
-**Practical steps:**
-
+::: {.callout-warning icon=false}
+## Practical Steps
   * For the RM2 qualitative report, you should report either two themes (no subthemes) or one theme with 2-3 sub-themes. This is to allow you to balance depth and breadth.
-  * As a rough guide, each theme should include approx. two to five quotes to illustrate it in the write up. Think about which quotes best illustrates your analysis.
+  * Try to include at least one or two 'longer' quotes for each theme, which allow you to explore them in depth. You can supplement these with shorter quotes too. 
   * If you are doing a qualitative dissertation, you will have scope to go further with your analysis; it is a good idea to discuss your data with your supervisor throughout the analytic process.
+:::
   
 ### Activities
 
@@ -200,25 +209,6 @@ Read pages 8-12 from [this thematic analysis](https://study.sagepub.com/sites/de
 #### Activity 3: Evaluating analysis and discussion sections
 Do [this exercise](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb){target="_blank"} on evaluating analysis sections of published papers.
 
-## Checklist for a good TA
-
-This checklist is taken from Braun & Clarke (2006)
-
-1. The data have been transcribed to an appropriate level of detail, and the transcripts have been checked against the recordings for accuracy
-2. Each data item has been given equal attention in the coding process
-3. Themes have not been generated from a few vivid examples (an anecdotal approach), but instead the coding process has been thorough, inclusive, and comprehensive
-4. All relevant extracts for each theme have been collated
-5. Themes have been checked against each other and back to the original data set
-6. Themes are internally coherent, consistent, and distinctive
-7. Data have been analysed – interpreted, made sense of – rather than just paraphrased or described
-8. Analysis and data match each other – the extracts illustrate the analytic claims
-9. Analysis tells a convincing an well-organised story about the data and topic
-10. A good balance between analytic narrative and illustrative extracts is provided
-11. Enough time has been allocated to complete all phases of the analysis adequately, without rushing a phase or giving it a once-over-lightly
-12. The assumptions about, and specific approach to, thematic analysis are clearly explicated
-13. There is a good fit between what you claim you do, and what you show you have done – i.e. described method and reported analysis are consistent
-14. The language and concepts used in the report are consistent with the epistemological position of the analysis
-15. The researcher is positioned as active in the research process; themes do not just ‘emerge’
 
 ## OPTIONAL: Research skills session - Preparing for data analysis {#reflexivity_skills_session}
 
@@ -329,7 +319,7 @@ Three themes were presented in the analysis: "Two themes capture contradictory i
 **Talk about your data with others**
 
   * Discuss your analysis with other people - it helps to clarify your analytic insights
-  * Do stages 1-2 in pairs if you want
+  * Do phases 1-2 in pairs if you want
   * Discuss your findings in groups
   * Come along to office hours
   * Present your analysis (even if its preliminary), this can help solidify where we are going with it
@@ -342,4 +332,4 @@ Three themes were presented in the analysis: "Two themes capture contradictory i
   
 **Make sure themes are themes (and be careful when naming them)**
 
-*Connelly and Peltzer (2016, p.55): "When a researcher designated a 1-word theme, such as 'collaboration', what does that mean in relationship to the experiences of the informants as interpreted by the researcher? Using only 1 word as a theme, there is no way of knowing, for example if the experiences of collaboration were positive or negative, or whether collaboration is important to the nurses. One-word themes do not convey what the researcher found out about collaboration"*
+Connelly and Peltzer (2016, p.55): "When a researcher designated a 1-word theme, such as 'collaboration', what does that mean in relationship to the experiences of the informants as interpreted by the researcher? Using only 1 word as a theme, there is no way of knowing, for example if the experiences of collaboration were positive or negative, or whether collaboration is important to the nurses. One-word themes do not convey what the researcher found out about collaboration"

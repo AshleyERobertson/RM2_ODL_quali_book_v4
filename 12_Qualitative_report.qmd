@@ -1,10 +1,8 @@
 # Qualitative report {#ch12_qualitative_report}
 
-In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the [Assessment Information](#ch4_AIS_report) before starting to work on the report. We have also provided a [suggested timeline]((https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} for the qualitative report and portfolio
+In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the [Assessment Information](#ch4_AIS_report) before starting to work on the report. We have also provided a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} for the qualitative report and portfolio
 
-## What is the qualitative report?
-
-You will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle (look in the materials for Semester 1 Week 1). We provide guidelines on the report [later in this chapter](#qual_report_guide)
+For this assignment, you will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle (look in the materials for Semester 1 Week 1). We provide guidelines on the report [later in this chapter](#qual_report_guide)
 
 ## Report datasets and how to use UK data service
 
@@ -19,6 +17,7 @@ You can choose one of the five available datasets:
   3. [Long-term relationships](https://reshare.ukdataservice.ac.uk/851244/){target="_blank"}
   4. [Patient descriptions of PMS](https://reshare.ukdataservice.ac.uk/855486/){target="_blank"}
   5. [Student experiences of loneliness and social connectedness](https://reshare.ukdataservice.ac.uk/856114/){target="_blank"}
+  
 
 ## Developing a research question
 
@@ -26,11 +25,11 @@ As part of writing up your qualitative report, we ask that you develop a researc
 
 ### Getting started with the data
 
-For this report, you are using secondary data. This means that the data have already been collected using specific interview questions  - before you start thinking about your research question, make sure to have a look at the interview schedule for your chosen dataset (this document will list the interview questions the researchers asked the participants). This should guide you in what questions you might ask and what kind of question you might be able to answer with the available data. You can also take a look at some of the transcripts to get a better feel for the data.
+For this report, you are using secondary data. This means that the data have already been collected - before you start thinking about your research question, have a look at the interviews to see what was asked in the interviews. Usually, most interviews are semi-structured. This means that there are likely to be some questions asked consistently, but there will also be differences, depending on the responses by the participants. 
 
-Looking at the data before you decide on your RQ might feel a bit strange after RM1, but remember that you are not doing hypothesis-testing with qualitative designs  - it is quite normal for a qualitative research question to change during the research process, and this is completely fine as you are not statistically testing for a specific effect.
+Looking at the data before you decide on your RQ might feel a bit strange after RM1, but remember that you are not doing hypothesis-testing with qualitative designs - it is quite normal for a qualitative research question to change during the research process, and this is completely fine as you are not statistically testing for a specific effect.
 
-Be mindful that you are not making a research question that is actually one of the interview questions - your RQ should be broader than what the specific interview questions are.
+Be mindful that you are not making a research question that is actually one of the interview questions - your RQ should be broader than an interview question.
 
 One of the most common mistakes that students make when framing their research question in RM2 is that it is a little too 'quant' in nature. This makes perfect sense, as most of your research methods education so far in the programme has been focused on quant! However, for your qual report, your RQ should be a little different to the RQs you are used to. 
 
@@ -58,51 +57,68 @@ These questions are now a bit more in line with qualitative and are specific abo
   
 ### Formative feedback on your RQ
 
-If you would like to receive formative feedback on your RQ, you can submit it on [this Padlet](https://padlet.com/wilhelmiinatoivo/rm2-odl-research-questions-f844153314j3pwr2){target="_blank"} by the end of Semester 2 Week 5. Please note that RQs submitted later than that will not receive feedback.
+If you would like to receive formative feedback on your RQ, you can submit it on [this Padlet](https://padlet.com/wilhelmiinatoivo/rm2-odl-research-questions-f844153314j3pwr2){target="_blank"} by the end of Semester 2 Week 5. Please note that RQs submitted later than that will not receive feedback, and you would need to drop into office hours instead.
 
 If you would like to discuss your RQ, you can also attend Ashley's and Wil's office hours.
   
 
 ## Qualitative report guide {#qual_report_guide}
 
-### Using this report guide
-
 This guide is intended to help you in the write up of your qualitative project report. When writing your report, remember to use the other resources available to you:
 
   * Your feedback for your RM1 report
   * Chapter 13 in [Braun & Clarke (2013)](https://go.exlibris.link/5g3nFfGx){target="_blank"} is excellent support for writing up qualitative research
   * [Braun & Clark (2022) book](https://go.exlibris.link/Z9qxllzH){target="_blank"}
-  * All the resources available in this book (particularly sections for 4. Data analysis and 7. Academic writing)
-  * **25/25 cohort reading list:**: [Published articles that use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/30BEDB96-5F9D-9F9E-630A-205B91FA34AB.html?lang=en-GB#B226C8C1-1926-8328-A8A3-06DC389D9809){target="_blank"}
+  * All the resources available in this book (particularly sections for [8. Data analysis](#ch8_data_analysis) and [11. Academic writing](#c11_writing)
+  * **25/26 cohort reading list:**: [Published articles that use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/30BEDB96-5F9D-9F9E-630A-205B91FA34AB.html?lang=en-GB#B226C8C1-1926-8328-A8A3-06DC389D9809){target="_blank"}
   * [A helpful resource for APA formatting is OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
   
-Use the assessment criteria on Moodle as a checklist before you submit the report, to ensure you have addressed all points.  If you have questions post on Teams and/or visit our office hours.  All the best in writing your report.
+Use [the assessment criteria](#ch4_AIS_report) as a checklist before you submit the report, to ensure you have addressed all points.  If you have questions post on Teams and/or visit our office hours.  All the best in writing your report.
 
-### General writing style
+### Required Submissions
 
-Your writing should be clear, concise and easy to follow  - remember that academic writing does not need to be complicated to be good. Maintain a neutral, academic tone throughout. Discuss one idea/argument per paragraph.
+Two separate submissions are required for this report: 
 
-You should format your in-text citations and references in APA 7th style.
+- **Submission 1** should contain the report itself, along with the specified sections and appendices. 
+    - Cover page with title (does not count towards the word limit)
+    - Abstract
+    - Introduction
+    - Method
+    - Analysis
+    - Discussion
+    - References (does not count towards word limit)
+    - Appendices (does not count towards word limit)
+   
+    
+- **Submission 2** should contain the required information about the process of your analysis, using the template  provided. Submission 2 does not count towards the word limit.
+    - Phase 1 (Familiarisation)
+    - Phase 2 (Doing Coding)
+    - Phase 3 (Generating Initial Themes)
+    - Phase 4 (Developing and Reviewing Themes)
+    - Phase 5 (Refining, Defining and Naming Themes)
+    
 
-APA writing style encourages the use of active voice ("I coded the data" rather than "the data were coded") but if you feel more comfortable writing in passive voice, feel free to do so - just make sure to be consistent throughout and be careful not to make your writing overly complex.
+### Submission 1: The Qualitative Report
 
- You can use first person singular (I) or plural (we) but in the reflexivity section make sure to write in first person singular, as this is your reflection of your own positionality to the RQ and the data, and it's often very personal. 
- 
-### Report sections
+#### General writing style
 
-You should include all the sections listed here:
- 
-  * Title
-  * Abstract
-  * Introduction
-  * Method
-  * Analysis
-  * Discussion
-  * References
+- Your writing should be clear, concise and easy to follow - remember that academic writing does not need to be complicated to be good. One tip is to [use word to read your report back to you](https://support.microsoft.com/en-gb/office/listen-to-your-word-documents-5a2de7f3-1ef4-4795-b24e-64fc2731b001){target="_blank"} – sometimes it’s easier to hear where a point may be overly complex or long and where you might want to cut it down.
+
+- Maintain a neutral, academic tone throughout. Avoid a ‘journalistic’ tone, where you convince the reader based on using emotive language. Instead, show the reader why you think the way you do and the evidence base that underlies this.
+
+- Discuss one idea/argument per paragraph. An excellent resource to help with this is the [reverse outline](https://explorationsofstyle.com/2011/02/09/reverse-outlines/){target="_blank"}.
+
+- You should format your headings, in-text citations and references in APA 7th style. 
+- APA writing style encourages the use of active voice (“I coded the data” rather than “the data were coded”) but if you feel more comfortable writing in passive voice, feel free to do so - just make sure to be consistent throughout and be careful not to make your writing overly complex.
+
+- Tenses are not always fixed per se (as it depends on how a sentence is structured). However, generally, the following applies – past tense should be used when you have done something already (like your study). For example, we would usually see past tense in the Methods (unless doing a registered report) and the Analysis section. When talking about papers that are already published (in the Intro and Discussion), again these would typically be in past tense. 
+
+- You can use first person singular (I) or plural (we) in the report itself if you want to, but in the reflexivity section make sure to write in first person singular. This is because this is your reflection of your own positionality to the RQ and the data, and it’s often very personal.
+
 
 #### Title
 
-The title should reflect the research question(s) and define your sample (e.g., UG students experience of…). Be specific should include: 
+The title should be included as part of the cover page. It should reflect the research question(s) and define your sample (e.g., UG students experience of…). Try to be specific - your title should include: 
 
   * Who
   * What 
@@ -115,15 +131,25 @@ The title should reflect the research question(s) and define your sample (e.g., 
 
 #### Abstract (suggested word count: 100-150 words)
 
-In an academic journal, the function of an abstract is to allow the reader to decide whether or not to read the full article.  Aim to summarise all sections of the report in 150 words, including;  1) area of research 2) aim of the study 3) brief methodology, 4) approach to analysis , 5) main findings, and 6) main 'take-away'/ headline findings and implications. Outline your main themes as findings instead of statistics  - as would be typical in a quantitative report. Keep in mind that you are summarising your research for a non-expert and you want to “entice” them to read more.
+In an academic journal, the function of an abstract is to give readers a snapshot of the whole paper. They then use this to decide whether or not to read the full article. Therefore, you should make sure you cover all four main sections of your report, summarising them all succinctly.
+
+Aim to summarise all sections of the report in 150 words, including;  1) what does the existing literature tell us about the topic 2) aim of the study 3) brief methodology, 4) approach to analysis , 5) main findings, and 6) key aspects of the discussion. Keep in mind that you are summarising your research for a non-expert and you want to “entice” them to read more.
+
+::: {.callout-warning icon=false collapse="false"}
+## Tips
+- Start out by writing four sentences, each summarising one section of the report (introduction, methods, analysis, discussion). Now, look at the six sections above and see where you might need to add a bit of detail.
+- One common mistake is to ignore the discussion, saying something like 'Findings are discussed in relation to existing research'. This doesn't tell us anything about what your overarching thoughts are about your findings and how they relate to the literature base.
+:::
 
 #### Introduction (suggested word count 750-850 words)
 
-The aim of the introduction is to provide the reader with the necessary background to interpret your rationale for further research  -  this is true whether you are using qualitative or quantitative led enquiry.   You are expected to provide a detailed, critical literature review of relevant, published research  (quantitative and/or qualitative) for this topic/area. Identify the key issues and debates, and use these to develop an argument for your study. As with any introduction to an APA research report, you should develop the introduction using the' funnel approach'. You start with a broad overview of the topic and get more and more specific, until you arrive at the rationale for 'your' research and of course the research question(s).
+The introduction should give readers enough background to understand your rationale for further research, whether your study is qualitative or quantitative. Provide a clear, critical review of the most relevant published research and highlight the key issues and debates in the field. Use these to build a logical argument for your study.
 
-Remember you have a limited number of words to say all of this, so your literature review should focus on relevant and recent articles in the area that have influenced your choice of research question.  Do try to locate the most recent examples of qualitative research in this well defined topic area - take the reader to the last example of relevant research and say how you plan to 'build' on this research - helping to create a great rationale! Remember to reference all sources of information in the text (for example, government reports, websites, media reports).  
+Follow the APA-style funnel structure: begin with a broad overview of the topic, then narrow the focus until you reach your specific rationale and research question(s).
 
-A resource for helping you to develop evaluation in your introductions can be found [HERE](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html#evaluation-in-introductions)
+Because your word count is limited, focus on recent and directly relevant studies—especially the latest qualitative research in this specific area. Show how your project builds on the most recent work to strengthen your rationale. Remember to cite all sources used, including government reports, websites, and media items.
+
+A resource for helping you to develop evaluation in your introductions can be found at the start of [Chapter 11](#ch11_writing).
 
 ```{r img-intro, echo=FALSE, fig.cap="Broad-to-narrow structure of an introduction"}
 knitr::include_graphics("images/intro.png")
@@ -131,17 +157,24 @@ knitr::include_graphics("images/intro.png")
 You should end with a statement of what the aim of your study was, and the research question.
 
 
-Next, remember to outline any limitations of previous studies - critique (however, make sure the limitations you discuss are actually something your study can address - otherwise your rationale will not be very strong)! Instead of just describing previous studies, try to evaluate them. What do the findings mean? Are there any contrasting findings? If so, why?  This should lead clearly to a justification of your own study; how will your study address these issues?  This should not be done independently of your literature review. When you are outlining the research and theory you should be developing a clear rationale for your research question. 
+When reviewing previous studies, don't just describe them - evaluate them. Highlight their limitations, but only those your study can realistically address. Consider what the findings mean, note any conflicting results, and think about why they differ. This should naturally build toward a clear rationale for your own study.
 
-Finally, explain your study and clearly outline your research question/s.
+Then, explain your study and clearly state your research question(s), ensuring they connect directly to the issues raised in your introduction.
 
-In sum:
-  
-  * Review and evaluate previous theories and research relevant to the topic.
-  * Provide a clear justification and explanation of your study, linked to your research questions
-  * The main and subsidiary research questions have been outlined clearly and offer good alignment with qualitative methods (in this case a thematic approach).
+In summary:
 
-**Remember that the point of this section is exactly the same as a quantitative report: you are demonstrating what work has been done in the past, to build up an argument as to why the current study has been conducted.**
+- Review and critically evaluate relevant theories and research.
+- Justify your study by linking gaps or limitations in past work to your research questions.
+- Clearly outline your main and subsidiary research questions, ensuring these are phrased in a way that aligns with a qualitative approach.
+
+Remember: just like in a quantitative report, this section shows what has been done before and why your study is needed.
+
+::: {.callout-warning icon=false collapse="false"}
+## Tips
+- In your rationale, remember to tell the reader why the current study (i.e. the topic and group of participants) is **important**. 
+- If identifying limitations of existing research, make sure to pick something that you are able to address in your study. If you say that one issue is that heart rate wasn't gathered, but you don't do this in your study, this can be confusing for a reader.
+
+:::
 
 #### Method (suggested word count 350-450 words)
 

@@ -2,7 +2,7 @@
 
 This chapter has some activities to help with your academic writing.
 
-## Evaluation in introductions
+## Evaluation in introductions {#eval_intro}
 
 The activities in this section are designed to help you improve your evaluation in the introduction of your RM2 report (and your dissertation). To re-cap from RM1, the purpose of your introduction is to provide a rationale for your study and answer the **WHY** question; why is your study worth doing? You want to sell your idea to the reader, using existing literature to show how you are building on the evidence that is there.
 
@@ -113,7 +113,7 @@ In voice research, though there are limited studies that consider the  reliabili
 
 When you are reading journal articles, make sure to take notes and think of how each article can be used to build your rationale in the introduction. [Here is a resource you can use to help structure your notes](https://gla-my.sharepoint.com/:w:/g/personal/wilhelmiina_toivo_glasgow_ac_uk/EXPNU5j4pQhKvRMYVx8dBvcBs85f4Z8q1V21wSokGOIbCA?e=eg7zd0){target="_blank"} about the studies you are going to use for your introduction.
 
-## Evaluation in your analysis section
+## Evaluation in your analysis section {#eval_analysis}
 
 ### Activity 1
 
@@ -172,7 +172,7 @@ This is the weaker example, because the author just paraphrases what the partici
 :::
 
 
-## Evaluation in discussions
+## Evaluation in discussions {#eval_discussion}
 
 In this section, we aim to provide some guidance about how to go beyond description in your writing. We will specifically focus on the Discussion section for your RM2 qualitative report here, but
 you can apply this to other types of writing. In particular, it should be helpful for you as you proceed to your dissertation.

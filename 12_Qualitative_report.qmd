@@ -143,6 +143,8 @@ Aim to summarise all sections of the report in 150 words, including;  1) what do
 
 #### Introduction (suggested word count 750-850 words)
 
+Some activities to support you with writing your Analysis section can be found in [Chapter 11](#eval_intro).
+
 The introduction should give readers enough background to understand your rationale for further research, whether your study is qualitative or quantitative. Provide a clear, critical review of the most relevant published research and highlight the key issues and debates in the field. Use these to build a logical argument for your study.
 
 Follow the APA-style funnel structure: begin with a broad overview of the topic, then narrow the focus until you reach your specific rationale and research question(s).
@@ -231,6 +233,8 @@ When outlining the stages:
   
 #### Analysis (suggested word count: 750-900 words)
 
+Some activities to support you with writing your Analysis section can be found in [Chapter 11](#eval_analysis).
+
 The analysis section is where you present the evidence you’ve collected. It works like a Results section in a quantitative report.
 
 Your goal is to make the analysis transparent, showing clearly how your interpretations come from the transcripts. Use extracts from the transcripts to support all quotes and interpretations. 
@@ -303,7 +307,7 @@ This kind of deeper interpretation goes beyond the superficial to show the reade
 
 #### Discussion (suggested word count: 750-850 words)
 
-Some activities to support you with developing evaluation in your Discussion section can be found [HERE](https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html#evaluation-in-discussions).
+Some activities to support you with developing evaluation in your Discussion section can be found in [Chapter 11](#eval_discussion).
 
 The aim of the discussion is to summarise and explain your overall findings and consider how they help inform the research questions.  It will be necessary to consider the findings in relation to previous research and theories (that are referenced in the Introduction).  You should also discuss any practical implications of your findings, methodological limitations, and suggestions for further research.
 
@@ -318,7 +322,7 @@ Start by **briefly summarising** your RQs and the themes that you have observed.
 Think of your research project as an apprenticeship. We are not looking for you to do the perfect research project at your first attempt so don’t be shy about pointing out the things you could have done better. But be constructive. It’s not so much about telling us what you did wrong, as telling us what you have learned and how you would improve this study if you got another chance.
 
 **Conclusion:** End your report with a brief paragraph summarising your key conclusions from the study.
-
+ 
 ```{r img-discussion, echo=FALSE, fig.cap="Narrow-to-broad structure of a discussion"}
 knitr::include_graphics("images/discussion.png")
 ```

@@ -171,7 +171,7 @@ In summary:
 
 Remember: just like in a quantitative report, this section shows what has been done before and why your study is needed.
 
-::: {.callout-warning icon=false collapse="false"}
+::: {.callout-warning icon=false}
 ## Tips
 - In your rationale, remember to tell the reader why the current study (i.e. the topic and group of participants) is **important**. 
 - If identifying limitations of existing research, make sure to pick something that you are able to address in your study. If you say that one issue is that heart rate wasn't gathered, but you don't do this in your study, this can be confusing for a reader.
@@ -198,7 +198,7 @@ In this section you should describe your procedure for choosing your final data 
 
 **Ethics**
 
-The information you are able to provide in this section will depend on the information made available within the dataset. Some things you might want to comment on include: anonymisation procedures (e.g. has information been replaced or redacted), rapport building, information/consent/debrief, consent as a process. You will only be able to include information that has been made available in the dataset, so do not worry if you do not know a lot of detail.
+The information you are able to provide in this section will depend on the information made available within the dataset. Some things you might want to comment on include: anonymisation procedures (e.g. has information been replaced or redacted), rapport building, information/consent/debrief, consent as a process. You will only be able to include information that has been made available in the dataset, so do not worry if you do not know a lot of detail.
 
 **Reflexivity**
 

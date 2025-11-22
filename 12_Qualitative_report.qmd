@@ -222,7 +222,7 @@ When outlining the stages:
 - Aim for transparency - explain what happens between coding and theme development.
 - Describe the researcher as actively identifying themes, not waiting for themes to “emerge,” which incorrectly suggests they are already there waiting to be found.
 
-::: {.callout-warning icon=false collapse="false"}
+::: {.callout-warning icon=false}
 
 ## Tips
 
@@ -293,7 +293,7 @@ Avoid writing themes that are topic summaries, as these are at a descriptive lev
 
 This kind of deeper interpretation goes beyond the superficial to show the reader what the data suggests, rather than just summarising it.
 
-::: {.callout-warning icon=false collapse="false"}
+::: {.callout-warning icon=false}
 
 ## Tips
 
@@ -365,7 +365,7 @@ In the second, the author goes into more depth and explains to the reader what t
 knitr::include_graphics("images/discussion.png")
 ```
 
-::: {.callout-warning icon=false collapse="false"}
+::: {.callout-warning icon=false}
 
 ## Tips
 

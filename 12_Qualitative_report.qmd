@@ -334,6 +334,8 @@ It is important to go beyond simple agreement or disagreement, and interpret the
 This is a stronger example: 
 
 - “Our theme showed that postgraduate students feel strong pressure to ‘succeed,’ yet they hold different and sometimes conflicting ideas about what success actually means. This supports Skye’s (2023) finding that, while many postgraduates focus on good grades, others define success through group contribution or speaking up in class. Our findings add to this by showing that it is even more complex, as students tend to hold multiple ideas of success at the same time, creating uncertainty about how to meet expectations. This shows that success is not a fixed standard but something students actively negotiate in response to academic norms and peer pressures. This emphasis on negotiation echoes Isla’s (2025) findings that medical staff similarly construct their professional identities in relation to shifting expectations.”
+
+In the second, the author goes into more depth and explains to the reader what the current findings add. They also then explain this by linking (through the observation that negotiation was key) to a relevant finding from a different field. 
 :::
 
 **Discuss implications**
@@ -381,23 +383,24 @@ knitr::include_graphics("images/discussion.png")
   * METHOD: 350-450 words
   * ANALYSIS: 750-900 words
   * DISCUSSION: 750-850 words
+  
+We understand this can feel like a lot to fit into the report, but it’s a good chance to practise writing concisely. It’s okay to go slightly outside these guidelines, but try not to deviate too much.
+
+A common mistake is making the abstract or method section longer than recommended, which then affects the quality of the other sections. 
+
+If you’re struggling with the word count, feel free to drop into office hours. We can’t give general feedback, but you’re welcome to ask specific questions about how you might condense your report.
 
 #### References
 
-References both in the main body of text and in the reference list are structured in exactly the same way as in a quantitative report using APA 7th style.
+Citations in the main body of the text and references in the reference list are structured in exactly the same way as in a quantitative report, using APA 7th style.
 
 
 #### Appendices
 
-An appendix (plural: appendices) is a supplementary document which forms part of a main document but is not essential for its completeness, containing supporting information, and usually appearing at the end. 
+The appendices can often hold a lot of information.  In the qualitative report we ask you to include the following in the appendices of the report: 
 
-The appendix can often hold a lot of information.  In the qualitative report we ask you to include the following in the appendices of the report: 
+  * REQUIRED: A list of the interviews you have chosen and a link to the original dataset (do not include the transcripts themselves) 
+  * REQUIRED: A reflexivity diary that you have developed over the course of completing your analysis. Please see guidance on completing this.
+   * ONLY IF RELEVANT: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
+   * There may be other appendices you choose to include. If in doubt, please ask and we will do our best to help. 
 
-  * A list of the interviews you have chosen and a link to the original dataset (you should not include the transcripts themselves) 
-  * A sample of initial coding of the transcript 
-  * You might also have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
-  
-  
-#### Further reading
-
-The RM2 reading list has examples of how qualitative research is presented and written up.  [The APA Reporting Standards for Qualitative Research](https://apastyle.apa.org/jars/qual-table-1.pdf) provide comprehensive guidance on how to write up a qualitative article.  These guidelines are very detailed and go beyond the scope of what you need to report in the qualitative report, but do provide insight into how to report methods and analysis (in particular) in a transparent way. If in doubt consult the guidance on this book chapter,  the assessment information sheet for the course and ask on the Teams channel. 

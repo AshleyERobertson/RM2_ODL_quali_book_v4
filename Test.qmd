@@ -168,7 +168,7 @@ This is a short example of how themes might change from Phase 3 to Phase 4, to g
 
   - This theme captures experiences of being watched, evaluated, or compared to others, reflecting a concern about how others perceive the participant.
 
-2. “Holding Myself to High Standards”**
+2. “Holding Myself to High Standards”
 
   - This theme reflects participants’ self-imposed pressure, perfectionism, and high standards.
 
@@ -187,9 +187,9 @@ In this section, this is where you aim to clearly articulate what each theme is 
 
 **Guidelines**
 
-- Revisit each theme and identify its central organising concept ****(the key idea that holds the theme together).
+- Revisit each theme and identify its central organising concept (the key idea that holds the theme together).
 - Write a clear explanation of what each theme is about, focusing on the shared meaning across the extracts, not just the topic.
-- Know the boundaries of the theme - what belongs in it and what does not? One suggestion is to tell someone who doesn’t know your research about your theme.
+- Know the boundaries of the theme - what belongs in it and what does not? One suggestion is to imagine you are telling someone who doesn’t know your research about your theme. What would you include in such a summary?
 - Check that each theme is distinct from the others and not overlapping, repetitive, or too similar in focus.
 - Refine the name of the theme so it captures its core meaning in a concise, engaging, and conceptually clear way. Avoid one word theme names or names that are very descriptive.
 - Write a brief description of how each theme contributes to your overall analysis.

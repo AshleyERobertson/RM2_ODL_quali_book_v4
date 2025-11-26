@@ -90,13 +90,13 @@ Two separate submissions are required for this report:
     - Appendices (does not count towards word limit)
    
     
-- **Submission 2** should contain the required information about the process of your analysis, using the template  provided. Submission 2 does not count towards the word limit.
+- **Submission 2** should contain the required information about the process of your analysis, using the template  provided. Submission 2 does not count towards the word limit. Please note that Phase 6 is not included as this is what you include in your Analysis section
     - Phase 1 (Familiarisation)
     - Phase 2 (Doing Coding)
     - Phase 3 (Generating Initial Themes)
     - Phase 4 (Developing and Reviewing Themes)
     - Phase 5 (Refining, Defining and Naming Themes)
-    
+
 
 ### Submission 1: The Qualitative Report
 
@@ -135,7 +135,7 @@ In an academic journal, the function of an abstract is to give readers a snapsho
 
 Aim to summarise all sections of the report in 150 words, including;  1) what does the existing literature tell us about the topic 2) aim of the study 3) brief methodology, 4) approach to analysis , 5) main findings, and 6) key aspects of the discussion. Keep in mind that you are summarising your research for a non-expert and you want to “entice” them to read more.
 
-::: {.callout-warning icon=false collapse="false"}
+::: {.callout-warning icon=false}
 ## Tips
 - Start out by writing four sentences, each summarising one section of the report (introduction, methods, analysis, discussion). Now, look at the six sections above and see where you might need to add a bit of detail.
 - One common mistake is to ignore the discussion, saying something like 'Findings are discussed in relation to existing research'. This doesn't tell us anything about what your overarching thoughts are about your findings and how they relate to the literature base.
@@ -378,11 +378,11 @@ knitr::include_graphics("images/discussion.png")
 
 
 #### Recap of word count for each section of the report
-  * ABSTRACT: 100-150 words
-  * INTRODUCTION: 700-800 words
-  * METHOD: 350-450 words
-  * ANALYSIS: 750-900 words
-  * DISCUSSION: 750-850 words
+  * **Abstract**: 100-150 words
+  * **Introduction**: 700-800 words
+  * **Method**: 350-450 words
+  * **Analysis**: 750-900 words
+  * **Discussion**: 750-850 words
   
 We understand this can feel like a lot to fit into the report, but it’s a good chance to practise writing concisely. It’s okay to go slightly outside these guidelines, but try not to deviate too much.
 
@@ -399,9 +399,9 @@ Citations in the main body of the text and references in the reference list are 
 
 The appendices can often hold a lot of information.  In the qualitative report we ask you to include the following in the appendices of the report: 
 
-  * REQUIRED: A list of the interviews you have chosen and a link to the original dataset (do not include the transcripts themselves) 
-  * REQUIRED: A reflexivity diary that you have developed over the course of completing your analysis. Please see guidance on completing this.
-   * ONLY IF RELEVANT: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
+  * **Required**: A list of the interviews you have chosen and a link to the original dataset (do not include the transcripts themselves) 
+  * **Required**: A reflexivity diary that you have developed over the course of completing your analysis. Please see guidance on completing this.
+   * **Only if available**: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
    * There may be other appendices you choose to include. If in doubt, please ask and we will do our best to help. 
 
 
@@ -433,10 +433,10 @@ In short, we hope that this requirement for keeping a transparent record of your
 
 [The template can be found here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EcwNeR1TcCpAi1inMtQgB3cBkucx3-cH3LO-Mk2fseBkOQ?e=LEfvVw){target="_blank"}
 
-**Answers to some potential questions**
+**Answers to some questions**
 
 - **What advice do you have for completing this process?** Our main piece of advice is to work on the reflexivity diary (part of the appendices) and the ‘evidencing the process’ template *while you are working on the project*. You should be completing these steps anyway as part of the analysis, so it should be a case of logging the evidence as you go. If, however, you do not complete it as you go along, this would make it very difficult to include properly at the last minute.
-- **Can I use NVivo?** For this assignment, no. We plan to develop guidance that considers how students can best use NVivo in the age of GenAI, but this will take a lot of time to develop. 
+- **Can I use NVivo?** For this assignment, no. We plan to develop guidance that considers how students can best use NVivo in the age of GenAI, but this will take some time to develop properly. 
 - **I developed three themes, but can only report two in the qual report itself: What do I do?** It probably makes sense to include all of the information up until the end of Phase 4, as often the themes are intermingled together. However, for the Phase 5 part (naming and defining the themes), it is up to you: you can include all of your themes or you can include only those that are in the report.
 
 Below, we have prepared some guidance for each section to help you. 

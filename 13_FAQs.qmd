@@ -1,6 +1,6 @@
 # Frequently Asked Questions {#ch13_faqs}
 
-This page was last updated 15th August 2025
+This page was last updated 26th November 2025
 
 ## General Project questions
 
@@ -14,7 +14,7 @@ Re. the timescales - we would advise that you start working (or at least thinkin
 ### General portfolio questions
 
 **Where can I find information about the qualitative portfolio?**
-You can find information about the portfolio in the template, the guidelines, the AIS and the video Wil recorded. You can access the materials in [chapter 6](https://wtoivo.github.io/RM2-ODL-quali-book/group-project.html) of this book.
+You can find information about the portfolio in the template, the guidelines, the AIS and the video Wil recorded. You can access the materials in [chapter 10](#ch10_group_project) of this book.
 
 **What is the word count for each section?**
 This is in the template, but it can be broken down as follows: Activity 1a (no word limit for the six questions), Activity 1b (250 words), Activity 2 (250 words), Activity 3 (500 words).
@@ -209,7 +209,7 @@ This book has a section on developing RQs - work through those activities first.
 Perfectly fine to narrow them to focus on specific areas, but with this I would say make sure that you have enough data about your specific RQ to be able to analyse it. You don't have to use the whole transcript by any means - completely fine to use subsections. It's possible to revise your RQ in thematic analysis, so - if you were unsure - you could start off broader and then could make it a bit more specific down the line. There is the caveat that this would affect your intro, as you build towards why you've chosen this research question in your rationale.
 
 **Can we post more than one RQ on the padlet if we're not sure what route to go down?**
-Yes, this is fine - you can post a few and we can give feedback on these (let us know if you have a favourite though)
+You can post a maximum of two RQs on the padlet to get feedback on them. If you have more, please drop into office hours with these.
 
 **Does the research question have to be tailored towards one of the questions asked in the interview or can it be broader?**
 It's probably better to be broader - generally, themes will tend to be broader than a single question that is asked and it might be a little on the specific side
@@ -264,14 +264,11 @@ You can add them as an appendix but you don't need to list them all in the metho
 
 ### Analysis
 
-**Do I need to cite literature in my analysis section?**
-
 **According to Braun and Clarke (2013) a good analysis section will link back to relevant research previously done on the topic (i.e citations to link it to the wider literature) however,  I would presume that this will be better suited to the discussion section of our project given the word count? Or should we cite previous research to link our themes within the analysis section?**
 Qual reports are written in one of two ways: 1) where the analysis and discussion are in separate sections  - in the analysis, you report your findings, in the discussion, you link your findings to the literature, identify limitations etc. 2) you have a joint analysis and discussion section, where you both present your results and link them to the research. Braun & Clarke are talking about the second, whereas we're doing the first option. So, no, just focus on presenting your themes in the analysis section - like with the quant report, you will then have a separate Discussion section where you link to the literature
 
 **In the thematic analysis, what should we do if two participants give opposite answers for the same questions. How do we deal with that conflicts?**
-This can make for a really interesting analysis and discussion section! You should explain the theme for
-the reader, and provide context for the different views presented by the participants. You can find more information in the Braun & Clarke (2013) book
+This can make for a really interesting analysis and discussion section! You should explain the theme for the reader, and provide context for the different views presented by the participants. You can find more information in the Braun & Clarke (2013) book
 
 **In the interview transcripts came across a nice statement I would like to quote, however the statement was made by the interviewer not the participant. The participant agreed with the interviewers statement. Would it be appropriate to quote the interviewer in this instance?**
 It might depend on what the statement is and the context. So, for example, is it a) the researcher summarising what the participant said and then the participant agreeing or b) the researcher giving their own opinion about it and the participant agreeing? I'd be more likely to say this is okay to include if it was the first than the second, I think. If you were to include it, it would probably be best to a) make sure that there's enough context surrounding this (i.e. what was there in the lead up to it and also afterwards?), and b) only do this sparingly.
@@ -279,9 +276,7 @@ It might depend on what the statement is and the context. So, for example, is it
 **Can one of my themes be my RQ or an interview question?**
 No, you should try to go a bit deeper in finding meanings in the data in your analysis. If you end up with a theme that is actually your RQ or one of the interview questions, you have *summarised* the data rather than *analysing* it. This is surprisingly easy to do by accident so don't feel bad if this has happened to you - just go back to the data and look a bit further. What aspects of the RQ does the theme capture? What specifically do the participants say about it?
 
-**Can we use a mixture of inductive and deductive approach?**
-
-**Actually I started exploring the data without any previous thoughts (inductive) and later I started reading the literature for this topic and unintentionally I started observing some of the same conclusions in my data (deductive). Is this a formal way of analysing the data? Can I report a mixture of approaches?**
+**I started exploring the data without any previous thoughts (inductive) and later I started reading the literature for this topic and unintentionally I started observing some of the same conclusions in my data (deductive). Is this a formal way of analysing the data? Can I report a mixture of approaches?**
 It is possible to do this - [here is an example of a paper](https://journals.sagepub.com/doi/10.1177/160940690600500107#) that used a combination of inductive and deductive coding for TA. This would not be the only way to do it, but is an overview of one possible way in which coding and developing themes could utilise both. My main suggestion would be to be clear with the reader in your methods about the thinking behind your approach.
 
 **What if in our analysis we end up developing different themes the three interviews? Do we have to report only the common themes or is it ok if we also analyse themes that are evident only in one or two interviews?**

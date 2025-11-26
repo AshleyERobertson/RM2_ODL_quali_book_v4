@@ -12,16 +12,16 @@ Before accessing your datasets, watch [this video](https://echo360.org.uk/media/
 
 You can choose one of the five available datasets: 
   
-  1. [Interviews with disabled young people and carers](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=854556){target="_blank"}
-  2. [LGBT+ networks in the workplace](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=855322){target="_blank"}
-  3. [Long-term relationships](https://reshare.ukdataservice.ac.uk/851244/){target="_blank"}
-  4. [Patient descriptions of PMS](https://reshare.ukdataservice.ac.uk/855486/){target="_blank"}
-  5. [Student experiences of loneliness and social connectedness](https://reshare.ukdataservice.ac.uk/856114/){target="_blank"}
+  1. [Interviews with disabled young people and carers](https://datacatalogue.ukdataservice.ac.uk/studies/study/854556?type=reshare#details){target="_blank"}
+  2. [LGBT+ networks in the workplace](https://datacatalogue.ukdataservice.ac.uk/studies/study/855322?type=reshare#details){target="_blank"}
+  3. [Long-term relationships](https://datacatalogue.ukdataservice.ac.uk/studies/study/851244?type=reshare#details){target="_blank"}
+  4. [Patient descriptions of PMS](https://datacatalogue.ukdataservice.ac.uk/studies/study/855486?type=reshare#details){target="_blank"}
+  5. [Student experiences of loneliness and social connectedness](https://datacatalogue.ukdataservice.ac.uk/studies/study/856114?type=reshare#details){target="_blank"}
   
 
 ## Developing a research question
 
-As part of writing up your qualitative report, we ask that you develop a research question to help you guide your enquiry. Below, we have some guidance on how to get started.
+As part of writing up your qualitative report, we ask that you develop a research question to help you guide your enquiry. Below, we have some guidance on how to get started. 
 
 ### Getting started with the data
 
@@ -555,18 +555,18 @@ In this section, this is where you really think about what your themes **mean**,
 
 ## Example
 
-This is a short example of how themes might change from Phase 3 to Phase 4, to give you a sense of what might be expected.
+This is a short example of how a researcher might change themes from Phase 3 to Phase 4, to give you a sense of what might be expected.
 
 **Initial Theme (Phase 3):** “Feeling Under Pressure”
 
-- Developed from a cluster of codes including “pressure to perform”, “fear of being judged”, and “trying to keep up”.
-- It seemed to be apparent that participants were describing feeling stressed and overwhelmed by expectations.
+- This theme was developed from a cluster of codes including “pressure to perform”, “fear of being judged”, and “trying to keep up”.
+- It seemed that participants were describing feeling stressed and overwhelmed by expectations.
 
 **Refinement Process (Phase 4)** 
 
 - When reviewing coded extracts, I noticed that some excerpts were more about *external expectations* (e.g., others judging them), while others were about *internal expectations* (e.g., pushing themselves).
-- This suggested that my initial theme was too broad, and actually captured two different patterns, so I split the theme into two themes.
-- I changed the names to better reflect the differences between these themes.
+- This suggested that this initial theme was too broad, and actually captured two different patterns, so I split the theme into two themes.
+- I then changed the names to better reflect the differences between these themes.
 
 **Refined Themes (Phase 4):** Theme 1: "Navigating Others' Judgements" and Theme 2: "Holding Myself to High Standards"
 

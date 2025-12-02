@@ -14,7 +14,7 @@ This chapter has activities to support you with Thematic Analysis. This chapter,
 
 ## Coding (Phases 1-2)
 
-Here, we'll focus on Phases 1 and 2 of the process. Familiarisation starts on p.42 and Coding starts on p.59 of the Braun & Clarke (2022) book. We also covered how to do Phases 1 and 2 of the analysis in the Thematic Analysis lecture in Semester 1 Week 11.
+Here, we'll focus on Phases 1 and 2 of the process. Familiarisation starts on p.42 and Coding starts on p.59 of the Braun & Clarke (2022) book. We also covered how to do Phases 1 and 2 of the analysis in the Thematic Analysis lecture in Semester 1.
 
 ### Phase 1: Familiarisation (p.42)
 
@@ -133,7 +133,7 @@ Look across the entire dataset and consider your theme(s) – do they accurately
   * Define and refine = identifying what this theme is about, what aspect of the data is captured by each theme?
   * For each theme, you need to conduct and write a detailed analysis
   * In your report, you will report one theme with sub-themes or two themes (no subthemes) – do they explain different things without overlapping too much?
-  * Try to choose names for themes that are not one word or likely to indicate topic summaries (see the Semester 1 Week 11 Lecture if you want to revisit this)
+  * Try to choose names for themes that are not one word or likely to indicate topic summaries (see the Semester 1 Thematic Analysis Lectures if you want to revisit this)
 
 ::: {.callout-warning icon=false}
 ## Practical Steps

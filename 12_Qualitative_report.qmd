@@ -2,7 +2,7 @@
 
 In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the [Assessment Information](#ch4_AIS_report) before starting to work on the report. We have also provided a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} for the qualitative report and portfolio
 
-For this assignment, you will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle (look in the materials for Semester 1 Week 1). We provide guidelines on the report [later in this chapter](#qual_report_guide)
+For this assignment, you will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle - please make sure to watch this. We provide guidelines on the report [later in this chapter](#qual_report_guide)
 
 ## Report datasets and how to use UK data service
 
@@ -206,7 +206,7 @@ In qualitative research it is important to acknowledge the role of the researche
 
 This is where you question your own motives and attitudes in doing this project. Obviously we told you that you had to do it. But, what motivated you to choose the dataset you did? What assumptions did you hold prior to beginning the research? Had you considered issues around the topic previously? Did they match what the interviews say,  or did you disagree with them? Did this affect which interviews you chose to include in your analysis? And if so, how did this impact on your analysis? Because different people would interpret the data differently, it is useful for you to expose your own attitudes at this point so that others can see how you have impacted on the analysis. 
 
-See Braun & Clarke (2013, pp36-37, 303-304) and activities around reflexivity. Reflexive analysis should be concise for this project, perhaps around 3-4 sentences. However, you will also have to include a reflexive diary in your appendices.
+See Braun & Clarke (2013, pp36-37, 303-304) and activities around reflexivity. Reflexive analysis should be concise for this project, perhaps around 3-4 sentences. However, you will also have to include a [reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} as a part of your appendices.
 
 **Data Analysis**
 
@@ -400,7 +400,7 @@ Citations in the main body of the text and references in the reference list are 
 The appendices can often hold a lot of information.  In the qualitative report we ask you to include the following in the appendices of the report: 
 
   * **Required**: A list of the interviews you have chosen and a link to the original dataset (do not include the transcripts themselves) 
-  * **Required**: A reflexivity diary that you have developed over the course of completing your analysis. Please see guidance on completing this.
+  * **Required**: [A reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} that you have developed over the course of completing your analysis. Please use the template linked here to complete your diary.
    * **Only if available**: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
    * There may be other appendices you choose to include. If in doubt, please ask and we will do our best to help. 
 

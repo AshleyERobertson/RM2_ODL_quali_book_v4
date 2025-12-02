@@ -163,7 +163,7 @@ I think generally I would say 'a participant' etc. as it depersonalises it. Howe
 ### General report questions
 
 **Will there be detailed guidance about each section of the qual report?**
-Yes, we have a guidance in this book in the qualitative report section in chapter 13, which will cover the key points to cover in the report.
+Yes, we have a guidance in this book in the qualitative report section in chapter 12, which will cover the key points to cover in the report.
 
 **Is our report written in a specific style, e.g. IPA, thematic analysis etc?**
 You will use thematic analysis to analyse your data. We covered this in detail in the lectures in semester 1, and we will also have activities to support this in semester 2.
@@ -242,6 +242,9 @@ It's more about thinking about your own perspective (rather than the dataset), a
 **I'm looking at the LGBT+ dataset and also work in an NHS trust; I've seen some transphobic actions happen at work and was wondering if this is appropriate to talk about in the report if appropriate for the RQ**
 Yes, there is a section for reflexivity in the methods section, where you should reflect on your experiences and how you felt about the topic/your experiences. You can also expand on it a bit in the discussion if you want.
 
+**How much of the reflexive diary can I include in the method report section?**
+You can use your reflexive diary (included as an appendix) to help you write the reflexivity section, but don't directly copy paste it in the main body of your report - the reflexivity section under methods is much shorter than your full diary.
+
 **Are there good examples we can have a look at for reference in terms of reflexivity?** 
 
 **I'm looking through the list of examples studies you have included using thematic analysis, and I don't think they include any form of reflexivity at least not in the method section, or am I missing something? Or would this be done during analysis?**
@@ -283,11 +286,15 @@ It is possible to do this - [here is an example of a paper](https://journals.sag
 Ideally at the themes stage you should consider the dataset as a whole so most of your themes should come from more than one interview  Try to find quotes which illustrate the theme not just from one participant. Sometimes themes may be more strongly present in parts of the data and that's ok but try to avoid having one theme that's from one participant only and another one that's from another participant - the themes should represent the data a bit more holistically
 
 **What if I develop more than two themes - can I mention the other themes in my analysis section?**
-You can briefly say that you developed more themes but don't waste your word count on explaining them in more detail or talking about the codes related to them. In terms of the discussion, you should focus on the two themes you have chosen and developed a full narrative for (the same way in quant you would not discuss an analysis you did not actually finish) and connect those to existing literature. You can talk about the other stuff as future directions if you would like
+You can briefly say that you developed more themes but don't waste your word count on explaining them in more detail or talking about the codes related to them (you can talk about them in your submission 2 document where you evidence all the stages. In terms of the discussion, you should focus on the two themes you have chosen and developed a full narrative for (the same way in quant you would not discuss an analysis you did not actually finish) and connect those to existing literature. You can talk about the other stuff as future directions if you would like.
 
 **Should the themes be presented in a hierarchical way related with each other? **
 
 **What if we detect themes that are not related with each other? Do we include data that don't fit anywhere else or if they are trivial we can exclude them from the final**
 It depends on how you identify your themes - they may be strongly related to each other and hierarchical and they may not. There is no one correct way. In the report writing guide, we ask that you report a maximum of two themes (or one theme with 2-3 subthemes) so I would choose those where you would be able to go into the most depth in terms of interpretation report?
 
+###Appendices
+
+**What should I include in the reflexive diary?**
+Please see a detailed template with probing questions here: [reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"}. 
 

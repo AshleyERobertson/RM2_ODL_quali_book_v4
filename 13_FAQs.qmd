@@ -2,7 +2,7 @@
 
 This page was last updated 26th November 2025
 
-## General Project questions blah
+## General Project questions
 
 **How do the portfolio and qualitative report work together - should we focus on one before looking at the other?**
 The qualitative portfolio is designed to support you in developing skills that would be important for actually running qualitative studies (e.g. reflexivity, developing questions, awareness of ethics, awareness of good/bad practice for data collection). The report is designed to support you in developing your data analysis skills and then writing up this information into a report.

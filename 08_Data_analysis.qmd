@@ -1,10 +1,10 @@
 # Data analysis {#ch8_data_analysis}
  
-This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2022) to structure your data analysis. [This can be accessed through the library](https://go.exlibris.link/Z9qxllzH){target="_blank"}. 
+This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six phases required for TA; we advise using Braun & Clarke (2021) to structure your data analysis. [This can be accessed through the library](https://go.exlibris.link/Z9qxllzH){target="_blank"}. 
 
 **Overview of the steps of TA**
 
-  1. Familiarisation (p.42 in the Braun & Clarke (2022) book)
+  1. Familiarisation (p.42 in the Braun & Clarke (2021) book)
   2. Doing coding (p.59)
   3. Generating initial themes (p.78)
   4. Developing and Reviewing themes (p.97)
@@ -14,7 +14,7 @@ This chapter has activities to support you with Thematic Analysis. This chapter,
 
 ## Coding (Phases 1-2)
 
-Here, we'll focus on Phases 1 and 2 of the process. Familiarisation starts on p.42 and Coding starts on p.59 of the Braun & Clarke (2022) book. We also covered how to do Phases 1 and 2 of the analysis in the Thematic Analysis lecture in Semester 1.
+Here, we'll focus on Phases 1 and 2 of the process. Familiarisation starts on p.42 and Coding starts on p.59 of the Braun & Clarke (2021) book. We also covered how to do Phases 1 and 2 of the analysis in the Thematic Analysis lecture in Semester 1.
 
 ### Phase 1: Familiarisation (p.42)
 
@@ -78,7 +78,7 @@ Identify codes for this transcript and [post them on the padlet](https://padlet.
 
 ## Developing themes (Phases 3-6)
 
-Here, we'll focus on Phases 3 to 6 of the process. You can find information on each of these phases in the Braun & Clarke (2022) book: Generating Initial Themes (p.78), Developing and Reviewing Themes (p.97), Refining, Defining and Naming Themes (p.108) and Writing up your Analysis (p.118). We also covered how to do Phase 3 in the Thematic Analysis lectures in Semester 1. For these activities, you are welcome to do them individually or in pairs/small groups  - whichever you prefer!
+Here, we'll focus on Phases 3 to 6 of the process. You can find information on each of these phases in the Braun & Clarke (2021) book: Generating Initial Themes (p.78), Developing and Reviewing Themes (p.97), Refining, Defining and Naming Themes (p.108) and Writing up your Analysis (p.118). We also covered how to do Phase 3 in the Thematic Analysis lectures in Semester 1. For these activities, you are welcome to do them individually or in pairs/small groups  - whichever you prefer!
 
 
 ### Phase 3: Generating initial themes (p.78)

@@ -23,7 +23,6 @@ book:
   search: true
   downloads:
   - pdf
-  - epub
   sharing:
   - twitter
   - facebook
@@ -94,3 +93,12 @@ format:
     include-after-body:
     - include/webex.js
     - include/script.js
+
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage[most]{tcolorbox}
+        \newtcolorbox{info}{
+          breakable,
+          title=Info
+        }

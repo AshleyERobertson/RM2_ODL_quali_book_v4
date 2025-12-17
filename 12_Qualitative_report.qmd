@@ -68,7 +68,7 @@ This guide is intended to help you in the write up of your qualitative project r
 
   * Your feedback for your RM1 report
   * Chapter 13 in [Braun & Clarke (2013)](https://go.exlibris.link/5g3nFfGx){target="_blank"} is excellent support for writing up qualitative research
-  * [Braun & Clark (2022) book](https://go.exlibris.link/Z9qxllzH){target="_blank"}
+  * [Braun & Clark (2021) book](https://go.exlibris.link/Z9qxllzH){target="_blank"}
   * All the resources available in this book (particularly sections for [8. Data analysis](#ch8_data_analysis) and [11. Academic writing](#c11_writing)
   * **25/26 cohort reading list:**: [Published articles that use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/30BEDB96-5F9D-9F9E-630A-205B91FA34AB.html?lang=en-GB#B226C8C1-1926-8328-A8A3-06DC389D9809){target="_blank"}
   * [A helpful resource for APA formatting is OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)

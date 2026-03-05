@@ -1,6 +1,6 @@
 # Frequently Asked Questions {#ch13_faqs}
 
-This page was last updated 26th November 2025
+This page was last updated 5th March 2026
 
 ## General Project questions
 

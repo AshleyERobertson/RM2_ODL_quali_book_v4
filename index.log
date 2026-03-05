@@ -1,0 +1,80 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2026.3.5)  5 MAR 2026 14:22
+entering extended mode
+**./index.tex
+(index.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> (C:\Users\tarut\AppData\Roaming\MiKTeX\tex/la
+tex/koma-script\scrreprt.cls
+Document Class: scrreprt 2026/02/02 v3.49.2 KOMA-Script document class (report)
+
+(C:\Users\tarut\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrkbase.sty
+
+LaTeX Warning: You have requested release `2022/06/01' of LaTeX,
+               but only release `2020-02-02' is available.
+
+Package: scrkbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-dependent
+ basics and keyval usage)
+(C:\Users\tarut\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrbase.sty
+
+LaTeX Warning: You have requested release `2022/06/01' of LaTeX,
+               but only release `2020-02-02' is available.
+
+Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independen
+t basics and keyval usage)
+(C:\Users\tarut\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2026/02/02 v3.49.2 KOMA-Script package (file load hooks)
+
+(C:\Users\tarut\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile-patcholdl
+atex.sty
+Package: scrlfile-patcholdlatex 2026/02/02 v3.49.2 KOMA-Script package (patchin
+g old LaTeX kernels)
+(C:\Users\tarut\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2026/02/02 v3.49.2 KOMA-Script package (logo)
+)) ("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty" ("C:\Progr
+am Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xdvipdfmx.def"
+File: l3backend-xdvipdfmx.def 2020-06-29 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count163
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count164
+\g__pdf_backend_annotation_int=\count165
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count166
+\g__xparse_grabber_int=\count167
+\l__xparse_m_args_int=\count168
+\l__xparse_v_nesting_int=\count169
+))) ("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+Skipping: [2021/05/01] Usage of raw or classic option list on input line 254.
+Applying: [0000/00/00] Usage of raw or classic option list on input line 370.
+)
+
+! Class scrreprt Error: LaTeX kernel too old!
+(scrreprt)              This version of KOMA-Script requires at least
+(scrreprt)              LaTeX 2022-06-01.
+(scrreprt)              You need to either use an older version of
+(scrreprt)              KOMA-Script or update your LaTeX kernel.
+(scrreprt)              Sorry, but this error is fatal.
+(scrreprt)              You cannot continue. Aborting LaTeX run.
+
+See the scrreprt class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 }
+        
+Here is how much of TeX's memory you used:
+ 1034 strings out of 414071
+ 24624 string characters out of 2898876
+ 281749 words of memory out of 3000000
+ 18744 multiletter control sequences out of 15000+200000
+ 532338 words of font info for 24 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 68i,0n,62p,320b,20s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+No pages of output.

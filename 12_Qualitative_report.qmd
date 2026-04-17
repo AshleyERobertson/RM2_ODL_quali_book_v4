@@ -64,7 +64,7 @@ If you would like to discuss your RQ, you can also attend Ashley's and Wil's off
 
 ### Choosing your interviews
 
-Once you have developed your research question, you should choose the interviews you are going to analyse for the report. Some of the datasets are really big and involve multiple components (see the qualitative report video for further guidance on the datasets.
+Once you have developed your research question, you should choose the interviews you are going to analyse for the report. Some of the datasets are really big and involve multiple components (see the qualitative report video for further guidance on the datasets).
 
   * **You should use a maximum of 2-3 interviews for your analysis**
   * If you are working with the couples dataset, you can do 4 interviews if you want to do two couples
@@ -260,6 +260,7 @@ Please note that some of the datasets include pre-existing coding; you should **
 - If you want to use parts of a quote, rather than the full quote (e.g. maybe you want to remove the middle sentence, which doesn’t add anything), you can indicate you omitted something with ellipses. 
 - Never alter any of the words or phrasing that is used, even if you think you know what the participant was going to say. This would be as unacceptable as editing numbers in a quantitative analysis! 
 - Try to strike a balance between quotes and interpretation. We sometimes see lots of quotes with very little analysis or lots of analysis with very few quotes, both of which have problems.
+- **Do not** include citations in the analysis section of this report. Sometimes in published qualitative papers this is done, but due to the limited word count, we ask you to not do it for this assignment. Here, you should connect your research into existing literature in the discussion section.
 
 ::: {.callout-important}
 

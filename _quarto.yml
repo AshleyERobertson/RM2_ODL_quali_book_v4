@@ -10,7 +10,7 @@ book:
   subtitle: ''
   author: "Ashley Robertson & Wil Toivo"
   date: today
-  date-format: "D MMMM YYYY"
+  date-format: "DD MM YYYY"
   doi: ''
   license: CC-BY
   description: This book contains resources for the qualitative project in Research Methods 2 ODL
@@ -42,28 +42,24 @@ book:
     header: ''
     footer: ''
   margin-header: ''
-  page-footer:  CC-BY (2025) Ashley Robertson & Wil Toivo
+  page-footer: "CC-BY (2025) Ashley Robertson & Wil Toivo"
   chapters:
-  - index.qmd
-  - part: Assessment Information
-    chapters:
-      - 01_Data_skills.qmd
-      - 02_Multiple_choice_questions.qmd
-      - 03_Qualitative_portfolio.qmd
-      - 04_Qualitative_report.qmd
-  - part: Qualitative Project Information
-    chapters:
-      - 05_Qualitative_designs.qmd
-      - 06_Qualitative_questions.qmd
-      - 07_Data_collection.qmd
-      - 08_Data_analysis.qmd
-      - 09_Ethics_rigour_reflexivity.qmd
-      - 10_Group_project.qmd
-      - 11_Academic_writing.qmd
-      - 12_Qualitative_report.qmd
-      - 13_FAQs.qmd
+    - index.qmd
+    - part: Qualitative Project Information
+      chapters:
+        - 01_Qualitative_designs.qmd
+        - 02_Qualitative_questions.qmd
+        - 03_Data_collection.qmd
+        - 04_Data_analysis.qmd
+        - 05_Ethics_rigour_reflexivity.qmd
+    - part: Summative Submissions and Academic Writing Support
+      chapters:
+        - 06_Group_project.qmd
+        - 07_Academic_writing.qmd
+        - 08_Qualitative_report.qmd
+        - 09_FAQs.qmd
   appendices:
-  - appendix_a_showcase.qmd
+    - appendix_a_showcase.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

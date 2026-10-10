@@ -1,4 +1,4 @@
-# Group project {#ch10_group_project} 
+# Group project {#ch6_group_project} 
 
 ## What is the group project?
 

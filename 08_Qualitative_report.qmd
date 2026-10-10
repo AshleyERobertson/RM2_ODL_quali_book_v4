@@ -1,6 +1,6 @@
-# Qualitative report {#ch12_qualitative_report}
+# Qualitative report {#ch8_qualitative_report}
 
-In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the [Assessment Information](#ch4_AIS_report) before starting to work on the report. We have also provided a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} for the qualitative report and portfolio
+In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the Assessment Information (provided in the Assessment Section in moodle) before starting to work on the report. We have also provided a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} for the qualitative report and portfolio
 
 For this assignment, you will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle - please make sure to watch this. We provide guidelines on the report [later in this chapter](#qual_report_guide)
 

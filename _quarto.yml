@@ -56,8 +56,6 @@ book:
       chapters:
         - 06_Group_project.qmd
         - 07_Academic_writing.qmd
-        - 08_Qualitative_report.qmd
-        - 09_FAQs.qmd
   appendices:
     - appendix_a_showcase.qmd
 bibliography: include/references.bib

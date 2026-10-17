@@ -6,7 +6,7 @@ This chapter runs through some of the practical issues you need to think about w
 
 **Informed consent**
 
-Before and data collection takes place, you must provide your participants with an information sheet and consent form. You can find more information about this in the [Ethics, Rigour and Reflexivity chapter](#ch9_ethics)
+Before and data collection takes place, you must provide your participants with an information sheet and consent form. You can find more information about this in the Ethics, Rigour and Reflexivity chapter.
 
 You must give everyone participating the Information sheet and consent form before the focus group/interview takes place. Completed consent forms should be returned to the researcher and you should verbally confirm consent before you start any data collection. In a survey, participants should complete consent form before seeing any survey questions.
 
@@ -160,7 +160,8 @@ GDPR: general data protection regulation. It is the most up to date data protect
 See the University guidelines on: 
 
 - [handling confidential data](https://www.gla.ac.uk/myglasgow/it/informationsecurity/confidentialdata/){target="_blank"}  
-- [GDPR](https://www.gla.ac.uk/myglasgow/dpfoioffice/gdpr/){target="_blank"}
+
+The University's [Data Protection and Freedom of Information office](https://www.gla.ac.uk/myglasgow/dpfoioffice){target="_blank"} also has useful information on how to manage data.
 
 Make sure that:
 

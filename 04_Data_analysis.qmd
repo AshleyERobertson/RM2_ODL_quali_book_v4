@@ -62,7 +62,7 @@ However, if you do a qualitative project for your dissertation, other options wi
 
 #### Activity 1: Example of coding
 
-Have a look at [this example of coding (using Thematic Analysis) from Braun & Clarke (2013)](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdF3fJaWwyJJuVkP-jVOVPcBlNGsfnv04rsWlavw_pyowA?e=QgIRAO){target="_blank"}
+Have a look at [this example of coding (using Thematic Analysis) from Braun & Clarke (2013)](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDRd3yWlsMiSblZD_o1TlT3AZTRrH579OK7FpWr8P6cqMA?e=zP84Cb){target="_blank"}
 
 Think about the following:
 
@@ -72,7 +72,7 @@ Do you agree/disagree with the codes that the authors have chosen? Which ones, a
 
 It's time to have a go at coding yourself now!
 
-Read through [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ERHhgbPHADBJuJHk7e2yMtYBb1ddJMCTckAvoXpXB0UYFA?e=UFwJqE){target="_blank"}, taking brief notes individually the first time you read it. What things did you pick up? 
+Read through [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQAR4YGzxwAwSbiR5O3tsjLWAW9XXSTAk3JAL6F6VwdFGBQ?e=GbusZq){target="_blank"}, taking brief notes individually the first time you read it. What things did you pick up? 
 
 Identify codes for this transcript and [post them on the padlet](https://padlet.com/ashleyrobertson3/coding-activity-for-rm2-odl-76lzunt0l2p5x0ma){target="_blank"}. Ashley will then give class-wide feedback on the codes to the class. 
 
@@ -159,7 +159,7 @@ Look across the entire dataset and consider your theme(s) – do they accurately
 
 #### Activity 1: Try it yourself!
 
-We've provided the same transcript as for phases 1-2, but it's a little longer (to give you more scope to develop themes) - [it is linked here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZaA8YkYkyVGkwn0cEDFLCABWr5rREIlMAyIaAPHu3juTg?e=QgyPdd){target="_blank"}. You can use the codes you developed last time (adding to them for the additional parts of the transcript), or you can recode the data again if you prefer - either option is fine.
+We've provided the same transcript as for phases 1-2, but it's a little longer (to give you more scope to develop themes) - [it is linked here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQAR4YGzxwAwSbiR5O3tsjLWAW9XXSTAk3JAL6F6VwdFGBQ?e=GbusZq){target="_blank"}. You can use the codes you developed last time (adding to them for the additional parts of the transcript), or you can recode the data again if you prefer - either option is fine.
 
   * Once you have your codes, try to organise them into themes.
   * Group together the codes that seem similar in some way - can you think of an overarching 'theme' that describes them? 
@@ -168,9 +168,9 @@ We've provided the same transcript as for phases 1-2, but it's a little longer (
   
 #### Activity 2: Bad analysis
 
-This is an additional activity and only if you have time/want to delve a bit further. [Have a look at the analysis](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXFrzL2zbfBCjDUeP6Py3MUB3p_WS15GyVYXur83wjuYUQ?e=fTMITU){target="_blank"}. This is an example from Braun & Clarke's book. Why do you think it might be considered a poor example of thematic analysis?
+This is an additional activity and only if you have time/want to explore a bit further. [Have a look at the analysis](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQBxa8y9s23wQow1Hj-j8tzFAd6f1kteRslWF7q_N8I7mFE?e=Ww3ka4){target="_blank"}. This is an example from Braun & Clarke's book. Why do you think it might be considered a poor example of thematic analysis?
 
-After you've finished, you can look at [the points that Braun & Clarke identified](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Eded8-fYVWpOrj5vFY92gyQB0ieRX7BGUhZztrdA5auVhw?e=Pysxhy){target="_blank"}. Did you identify any additional ones? Were there any you missed?
+After you've finished, you can look at [the points that Braun & Clarke identified](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDXnfPn2FVqTq4-bxWPdoMkAdInkV-wRlIWc7a3QOWrlYc?e=5D51jh){target="_blank"}. Did you identify any additional ones? Were there any you missed?
 
 ## Developing a narrative
 
@@ -207,7 +207,7 @@ To explore differences between semantic and latent coding, as well as analysing 
 Read pages 8-12 from [this thematic analysis](https://study.sagepub.com/sites/default/files/anderson_clarke_reflective_commentary.pdf){target="_blank"} on skin-picking. Here, the authors report three themes and then have a reflection at the bottom. Try to identify where the authors have gone beyond paraphrasing  - discuss in your groups/pairs if you can.
 
 #### Activity 3: Evaluating analysis and discussion sections
-Do [this exercise](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb){target="_blank"} on evaluating analysis sections of published papers.
+Do [this exercise](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQBIisCoHaq9QrC3jscuTuNpARjS8Zm3Xk6gDRUbtHGj3AQ?e=fvQoYl){target="_blank"} on evaluating analysis sections of published papers.
 
 
 ## OPTIONAL: Research skills session - Preparing for data analysis {#reflexivity_skills_session}
@@ -276,7 +276,7 @@ Looking a bit more deeply, Braun and Clarke speculated that Andreas values hones
 
 ### Activity 2: A code or a theme?
 
-In this activity, we'll [go through a handout that asks you whether something is a code or a theme](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EchyMtm_oPxJjdf87kLvpyMB3nyxnSof5oEP-0A-PhnEGg?e=YKqeo8){target="_blank"}.
+In this activity, we'll [go through a handout that asks you whether something is a code or a theme](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDIcjLZv6D8SY3X_O5C76cjAd58sZ0qH-aBD_tAPj4ZxBo?e=9Yr0gF){target="_blank"}.
 
 For each label, decide whether it is a code or a theme.
 

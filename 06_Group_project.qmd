@@ -2,9 +2,9 @@
 
 ## What is the group project?
 
-In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please refer to Moodle (Semester 1 Week 14) for a video overview of the project, and make sure that you have engaged with the [Assessment Information section of the group portfolio](#ch3_AIS_portfolio) before starting any work on it so you know what to expect.
+In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please refer to Moodle (Semester 1 Week 14) for a video overview of the project, and make sure that you have engaged with the Assessment Information section of the group portfolio (available on the Assessment section of Moodle) before starting any work on it so you know what to expect.
 
-To help you balance the different assignments in RM2, we have compiled [a suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} to help you is a suggested timeline for the qualitative portfolio and report
+To help you balance the different assignments in RM2, we have compiled [a suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQADNhc7ItBSQJQykyV4Iu_vAa5uyEyAcObWtzGl0og2X64?e=1sbP7r){target="_blank"} to help you is a suggested timeline for the qualitative portfolio and report
 
 
 ## Getting to know each other in groups
@@ -37,7 +37,7 @@ Introduce yourself to your group members on your Teams chat. In your introductio
 
 We appreciate that group work can be challenging (and even more so if you are spread all over the World!) and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. We also ask that you complete a task allocation and upload this with your agreement (they are in the same template). The purpose of this is for the group to come together and establish common ground and some rules that each of the group members is committed to. It also means that the group begins working with clearly allocated roles and tasks. This is not to mean that you cannot change tasks later, but it is helpful to set expectations from the outset. 
 
-You can download [the group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EcRHw5yd3v1JmFwm1drRu-MB33Im0__d6jRPqKbdnjjDzg?e=s7wEoU){target="_blank"}. 
+You can download [the group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDER8Ocnd79SZhcJtXa0bvjAd9yJtP_3eo0T6im3Z44w84?e=rJyqpE){target="_blank"}. 
 
 Then look at the list of potential items to include below, and as a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. You will be able to find a sample list of tasks to include for the task allocation in Appendix 1 within the template. 
 
@@ -59,7 +59,7 @@ Here is a list of items you may want to discuss with your group and add to the g
  
 ### Activity 4: Read the Effective Group work document
 
-[This document can be used](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZCuPb2m-MFMtAIGTAb2eM4B_ateTxqyR5X6YLceaL2Qcg?e=XeHk9h){target="_blank"} as a checklist to do the group work for your qualitative portfolio. Give it a read and then discuss it with your group once you have your initial meeting. 
+[This document can be used](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQCQrj29pvjBTLQCBkwG9njOAf2rXk8askeV-mC3Hmi9kHI?e=aWdayy){target="_blank"} as a checklist to do the group work for your qualitative portfolio. Give it a read and then discuss it with your group once you have your initial meeting. 
 
 ### Activity 5: Assign tasks
 
@@ -67,7 +67,7 @@ Work back from the deadline to establish tasks and when they need to be done. Di
 
 ## Qualitative portfolio guidelines and materials
 
-You will complete three tasks: Qualitative questions (Task 1a and 1b), Ethics (Task 2) and Terrible focus group (Task 3). Below, you will find information and the required materials to complete each task. Please use [this template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeFbaG-CE0pEnWBvsAwGIXUBIR8wAoFdJYYhklHoUKkEjg?e=DTA61b){target="_blank"} to complete your submission.
+You will complete three tasks: Qualitative questions (Task 1a and 1b), Ethics (Task 2) and Terrible focus group (Task 3). Below, you will find information and the required materials to complete each task. Please use [this template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDhW2hvghNKRJ1gb7AMBiF1ASEfMAKBXSWGIZJR6FCpBI4?e=3yTBlb){target="_blank"} to complete your submission.
 
 ### Task 1a: Qualitative questions
 
@@ -114,7 +114,7 @@ Your task is to **identify two or three issues with how the focus group is run**
 
 You should make sure you are up to date on Ashley's lectures on qualitative research. Further, some of the chapters in this book have activities and information which will be helpful in completing the portfolio:
 
-  * [Chapter on Qualitative questions](#ch6_qual_questions)
-  * [Chapter on Data collection](#ch7_data_collection)
-  * [Chapter on Ethics, Rigour and Reflexivity](#ch9_ethics) 
+  * Chapter 2 on Qualitative questions
+  * Chapter 3 on Data collection
+  * Chapter 5 on Ethics, Rigour and Reflexivity
 

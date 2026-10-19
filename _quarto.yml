@@ -58,6 +58,7 @@ book:
         - 07_Academic_writing.qmd
   appendices:
     - appendix_a_showcase.qmd
+    - appendix_b_research_skills.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

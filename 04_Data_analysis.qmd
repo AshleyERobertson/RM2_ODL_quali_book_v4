@@ -73,7 +73,7 @@ If you want to explore this in more detail, Braun & Clarke talk about the differ
 
 ### How to actually do the coding (logistically)?
 
-There are many different ways to approach this. We ask you to use one of two methods for your report (hand-coding or coding using Word). The reasons for this are that we need you to evidence the full process of your analysis, and this is included as part of the learning criteria for this assignment. 
+There are many different ways to approach this. Below are two examples of how you might approach it: hand-coding and using comments on Word.
 
 Option 1: Hand-coding
 ```{r img-handcoded, echo=FALSE, fig.cap="Example of a hand-coded transcript"}
@@ -85,7 +85,7 @@ Option 2: Code using Word, by adding comments
 knitr::include_graphics("images/commentcoded.png")
 ```
 
-However, if you do a qualitative project for your dissertation, other options will be open to you, so please do ask your supervisor what might be best!
+If you do a qualitative project for your dissertation, lots of other options will be open to you, so please do ask your supervisor what might be best!
 
 ### Activities
 
@@ -103,7 +103,7 @@ It's time to have a go at coding yourself now!
 
 Read through [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQAR4YGzxwAwSbiR5O3tsjLWAW9XXSTAk3JAL6F6VwdFGBQ?e=GbusZq){target="_blank"}, taking brief notes individually the first time you read it. What things did you pick up?
 
-The research question for this transcript is: *How do students make sense of why people get tattoos and piercings?*
+A possible research question for this transcript is: *How do students make sense of why people get tattoos and piercings?*
 
 ::: {.callout-note icon=false}
 ## Check your codes before you post
@@ -111,7 +111,7 @@ The research question for this transcript is: *How do students make sense of why
   * Is each code a short label, rather than a summary of what the participant said?
   * Does each code capture one idea?
   * Is each code relevant to the research question?
-  * Are all of your codes semantic? If so, read the transcript again and look for anything less explicit (see [Semantic and latent codes](#semantic-and-latent-codes)). You do not need both kinds, but you should notice which kind you are using.
+  * Are all of your codes semantic? If so, read the transcript again and look for anything less explicit. You do not need both kinds, but you should notice which approach you are using.
 :::
 
 Identify codes for this transcript and [post them on the padlet](https://padlet.com/ashleyrobertson3/coding-activity-for-rm2-odl-76lzunt0l2p5x0ma){target="_blank"}. Ashley will then give class-wide feedback on the codes to the class. 
@@ -181,8 +181,18 @@ Look across the entire dataset and consider your theme(s) – do they accurately
   
 ### Phase 6: Writing up your Analysis (p.118)
 
-For the RM2 qualitative report, you should report either two themes (no sub-themes) or one theme with 2-3 sub-themes. This is to allow you to balance depth and breadth. For guidance on writing up, see [Developing a narrative](#developing-a-narrative) below.
-  
+  * The analysis should provide a concise, coherent, logical, non-repetitive and interesting account
+  * The write up must provide sufficient evidence of the theme(s) (this is where the quotes come in!)
+  * The extracts you choose should clearly illustrate the theme
+  * Writing up is where you build your narrative around the themes and quotes – see [Developing a narrative](#developing-a-narrative) below for guidance
+
+::: {.callout-warning icon=false}
+## Practical Steps
+  * For the RM2 qualitative report, you should report either two themes (no sub-themes) or one theme with 2-3 sub-themes. This is to allow you to balance depth and breadth due to the limited word count.
+  * Try to include some 'longer' quotes for each theme, and avoid using lots of very short quotes. This will allow you to explore in more depth. You can supplement longer quotes with some shorter quotes.
+  * Try to remember that the reader (or marker) needs to see evidence of your ideas - the quotes are your evidence.
+:::
+
 ### Activities
 
 #### Activity 1: Try it yourself!
@@ -211,23 +221,23 @@ If any of these questions shows a problem, go back to Phase 4. See also [Some co
 :::
 
 ::: {.callout-caution icon=false collapse="true"}
-## Show one possible set of themes
+## One possible set of themes
 
-Try the activity and the self-check first. This is one possible analysis of the transcript, not the correct answer: another analyst could develop different themes from the same data, and that would be fine if their themes were well evidenced. Because the transcript is short (one question, seven participants), these theme descriptions are tentative. In a full study, you would check them against the whole dataset. Please note that the below is not an example of a write up of a theme - it is an example of some patterns that might be observed. 
+Try the activity and the self-check first. This is one possible analysis of the transcript, not the correct answer: another analyst could develop different themes from the same data, and that would be fine if their themes were well evidenced. These themes are very tentative as they are based on a small excerpt. In a full study, you would need to develop your themes across the whole dataset.
 
 **Theme 1: 'They're gonna be there for rest of my life': tattoos need to mean something**
 
-Participants presented personal meaning as the main reason for getting a tattoo. The meanings varied: a tattoo could mark a relationship (Rachel's example of a celebrity with her children's birthdays tattooed on her wrist), identity (Mandy's name in Japanese), stages of personal growth (Jo's spiritual path) or a way of coping (Thomas's 'carpe diem' tattoo, which he used to distract himself from self-harming). What these accounts share is the idea that a tattoo's permanence has to be *justified*. Mandy makes this link herself: because her tattoos will be there for the rest of her life, she wants to make sure they mean something to her.
+Participants presented personal meaning as the main reason for getting a tattoo. The meanings were not consistent from participant to participant: a tattoo might mark a relationship (Rachel's example of a celebrity with her children's birthdays tattooed on her wrist), identity (Mandy had her name in Japanese), stages of personal growth (Jo talked about how her tattoo related to sprituality) or a way of coping (Thomas's 'carpe diem' tattoo). These accounts share the idea that a tattoo has to be *justified*, which is likely related to its permanence. Mandy makes this link herself by saying that they have to 'mean something' to her, as they will be there for the rest of her life.
 
-Piercings were discussed far less, even though the question asked about both. Jo offers a contrast: her tattoos represent her spiritual path, but her piercings are 'purely' for sexual gratification. One tentative interpretation is that piercings, which can be removed, are not held to the same standard of meaning as tattoos.
+Piercings were discussed far less. Jo provides an interesting contrast: her tattoos represented spirituality for her, whereas her piercings were 'purely' for sexual gratification. One tentative interpretation is that because piercings can be removed, they might not be held to the same standard of meaning as tattoos.
 
 **Theme 2: 'You can't stop me': body modification as a claim to independence**
 
-Several participants linked tattoos and piercings to defying parents. Getting one was tied to reaching an age when parents could no longer prevent it: David compared it to going to the pub on your eighteenth birthday because you can, and Rachel's sister got her belly button pierced once she turned 16 and told her parents 'you can't stop me'. Defiance was not the reason for Thomas's tattoo, but telling his mother 'felt great'. However, Jo's account suggests that getting older does not end parental disapproval: her mother reacted strongly when she saw Jo's tattoo, a year after it was done. The independence that body modification claims seems to be contested, rather than simply won at a certain age.
+Several participants linked tattoos and piercings to defiance (especially of parents). This was related to reaching an age where parents could no longer prevent it: David compared it to going to the pub on your eighteenth birthday because you can, and Rachel's sister got her belly button pierced once she turned 16 and told her parents 'you can't stop me'. However, this was not consistent throughout the transcript - although rebellion was not the reason for Thomas's tattoo, he did say that telling his mother 'felt great'. However, claiming independence does not necessarily end parental disapproval: Jo’s mother still reacted strongly when she saw Jo’s tattoo.
 
 **What these themes leave out**
 
-These themes take participants' accounts largely at face value, focusing on the reasons and meanings they describe. A researcher aiming for social constructionist knowledge might focus on how the group talked instead: for example, how participants' stories about defying their parents, and the laughter that followed them, present parental disapproval as normal and funny.
+These themes take participants' accounts largely at face value, focusing on the reasons and meanings they describe. A researcher aiming for social constructionist knowledge (see [Chapter 1](01_Qualitative_designs.qmd)) might focus on how the group talked instead: for example, how participants' stories about defying their parents, and the laughter that followed them, present parental disapproval as normal and funny.
 :::
 
 ::: {.callout-caution icon=false collapse="true"}
@@ -242,7 +252,7 @@ The first set of candidate themes looked different. Three changes were made duri
 Codes that do not fit any theme are normal. Remember that every code does not need to make it into your analysis.
 :::
 
-#### Activity 2: Bad analysis (OPTIONAL)
+#### Activity 2: Bad analysis
 
 This is an additional activity and only if you have time/want to explore a bit further. [Have a look at the analysis](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQBxa8y9s23wQow1Hj-j8tzFAd6f1kteRslWF7q_N8I7mFE?e=Ww3ka4){target="_blank"}. This is an example from Braun & Clarke's book. Why do you think it might be considered a poor example of thematic analysis?
 
@@ -259,7 +269,7 @@ When you present your data in the analysis section, you will have a) your list o
 **Things to be aware of in developing a narrative**
 
 1. Remember to introduce your theme to the reader – what is it about? Don’t start a theme with a quote. If you have sub-themes, still introduce the overall theme briefly before you discuss your first sub-theme
-2. Explain to the reader why you’ve chosen to include each quote. Why is it important enough to be included? What does it tell us about your data? Each quote should clearly illustrate the theme. Try to include at least one or two 'longer' quotes for each theme, which allow you to explore it in depth, and supplement these with shorter quotes.
+2. Explain to the reader why you’ve chosen to include each quote. Why is it important enough to be included? What does it tell us about your data?
 3. Focus on depth rather than breadth – it is important that we get a real sense of your theme. In the RM2 report you only have 3000 words in total, and so will have to choose what you discuss
 4. Show the reader who each quote comes from – we should be able to match this up with the demographics table/list of interviews in the Methods section (which then gives us some context). You can do this by using pseudonyms and linking this to the table by using the same names there too.
 5. Think about where the opportunities are in your data to go beyond description. Is there anything you can infer? If so, remember to be clear with the reader that this is your interpretation. Your reader should be able to see why you have interpreted the data this way from the quotes you've chosen.

@@ -67,7 +67,9 @@ Two related ideas are easy to mix up with semantic and latent:
 
   * **Inductive and deductive coding** is about where your codes come from: the data itself (more inductive) or existing theory you bring to it (more deductive).
   * **The type of knowledge your study aims to produce** (see [Chapter 1](01_Qualitative_designs.qmd)) is also separate: a realist study can include latent codes, and a social constructionist study can include semantic ones.
-
+  
+#### What do Braun & Clarke say about semantic and latent codes?
+If you want to explore this in more detail, Braun & Clarke talk about the differences between semantic and latent coding, and provide examples of descriptive and analytical coding, in [Braun and Clarke (2013)](https://go.exlibris.link/wq9gqMKY){target="_blank"} p207-210 and also p252-254.
 
 ### How to actually do the coding (logistically)?
 
@@ -114,8 +116,6 @@ The research question for this transcript is: *How do students make sense of why
 
 Identify codes for this transcript and [post them on the padlet](https://padlet.com/ashleyrobertson3/coding-activity-for-rm2-odl-76lzunt0l2p5x0ma){target="_blank"}. Ashley will then give class-wide feedback on the codes to the class. 
 
-#### Activity 3: Semantic vs. latent
-To explore differences between semantic and latent coding, as well as analysing at an illustrative or analytical level, please read [Braun and Clarke (2013)](https://go.exlibris.link/wq9gqMKY){target="_blank"} p207-210 and also p252-254.
 
 ## Developing themes (Phases 3-6)
 

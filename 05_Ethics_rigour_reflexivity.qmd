@@ -1,6 +1,12 @@
 # Ethics, rigour and reflexivity {#ch5_ethics}
 
-This chapter will help you to consider ethics and reflexivity in qualitative research.
+This chapter will help you to consider ethics, rigour and reflexivity in qualitative research. It has three sections:
+
+  * **Ethics** – the ethical issues that are particular to qualitative research, and how to address them
+  * **Rigour** – how the quality of qualitative research is judged
+  * **Reflexivity** – how your own position shapes your research, and how to reflect on it
+
+The three are connected: research that is carried out ethically is part of good-quality research, and reflexivity is one of the main ways qualitative researchers show the quality of their work.
 
 ## Ethics
 
@@ -11,7 +17,7 @@ This section will talk you through the ethical considerations you need to conduc
 These are some of the things we **MUST** take into account when conducting research on human participants:
 
   * Possible risks to participants (physical and/or psychological)
-  * The elimination or minimization of risks
+  * The elimination or minimisation of risks
   * Justifying risks in terms of the scientific value of the results
   * Ethical approval prior to the study
   * The right to withdraw
@@ -21,7 +27,7 @@ These are some of the things we **MUST** take into account when conducting resea
   
 ### Activity 1: Identify potential ethical issues
 
-Before reading on, try to think what ethical issues each of these elements of qualitative research might have:
+Before opening the answers below, write down what ethical issues each of these elements of qualitative research might have:
 
   * Research questions and interview/focus group questions
   * Data collection
@@ -29,8 +35,11 @@ Before reading on, try to think what ethical issues each of these elements of qu
   * Anonymity
   * Confidentiality
   
-**1. Research questions and interview/FG questions**  
-  
+::: {.callout-caution icon=false collapse="true"}
+## Show possible issues
+
+**1. Research questions and interview/FG questions**
+
 *This might look like:* In qualitative research, we often ask about someone’s lived experience, or their motivations, or a belief they have. This is quite different to quantitative research where data comes in as numbers and in that sense is less personal. 
 
 *Why might this be an issue:* Qualitative research tends to be on topics where we ask people to be vulnerable and open themselves up to us as researchers. If we don't frame this correctly, our interview schedule might contain questions that are inappropriate and uncomfortable for the participants. 
@@ -39,15 +48,15 @@ Before reading on, try to think what ethical issues each of these elements of qu
 
 *This might look like:* Data collection is much less likely to be anonymous, as typically in-person or online focus groups or interviews are held. Samples are small, and participants may already be known to the researcher.
 
-*Why might this be an issue:*  There are possible issues of confidentiality, anonymity (these will be discussed further down) and bias. Our preconceptions might affect the way we frame the questions, how we interact with participants in the focus group, and how we interpret the data.
+*Why might this be an issue:* There are possible issues of confidentiality and anonymity (discussed below). Because samples are small and researchers often meet participants, we are also closely involved in the research: our assumptions might affect the way we frame the questions, how we interact with participants, and how we interpret the data. In qualitative research, this is not treated as 'bias' to be removed, but as something to reflect on openly (see [Reflexivity](#ch5_reflexivity)).
 
 **3. Recording of focus groups/interviews**
 
 *This might look like:* The majority of the time, focus groups and interviews are recorded (either audio + video or audio only). This means that the 'raw' data - as it were - is identifiable. In contrast, data for quant studies are often collected anonymously. 
 
-*Why might this be an issue:* Data should **always** be kept safe and secure. However, with qualitative data, there is a real risk that individual people could be identified from a recording of them. This  means that dealing with the recordings in a safe and secure way are of utmost importance, and that participants cannot be identified from transcripts.
+*Why might this be an issue:* Data should **always** be kept safe and secure. However, with qualitative data, there is a real risk that individual people could be identified from a recording of them. This means that recordings must be handled safely and securely, and that transcripts must be anonymised so that participants cannot be identified from them.
 
-**4. Anonymity **
+**4. Anonymity**
 
 *This might look like:* In quantitative research, we tend to report summary statistics from groups, and therefore it’d be quite unusual to be able to identify a single participant from the data. With qualitative, it’s a bit different. We collect people’s words and experiences.
 
@@ -57,26 +66,31 @@ Before reading on, try to think what ethical issues each of these elements of qu
 
 *This might look like:* In a focus group or interview, people might be very open with us, and tell us things about their life, and the lives of others. 
 
-*Why might this be an issue:* We have a duty of care to keep anything that comes out in a focus group/interview confidential (unless they disclose a crime or someone is judged to be at risk). It’s also vital that the rest of the focus group members keep the information confidential too.
+*Why might this be an issue:* We have a duty of care to keep what participants tell us confidential. However, there are limits: if a participant says something that suggests they or someone else is at risk of serious harm, the researcher may need to pass this on (this is known as safeguarding). Participants should be told about these limits before they take part. In a focus group, we can ask participants to keep what is said within the group, but we cannot guarantee that they will. Participants should be told this too, so that they can decide what to share.
 
-**How would you mitigate these issues?**
+:::
 
-### Activity 2: Ethics in published studies
+**How would you reduce these risks?** For each of the five issues, write down at least one thing a researcher could do. Then compare your ideas with the suggestions below.
 
-Look at the methods sections of these studies and try to identify how they have addressed ethical issues
+::: {.callout-caution icon=false collapse="true"}
+## Show some ways to reduce the risks
 
-  * [Scott et al., 2019](https://www.sciencedirect.com/science/article/pii/S2352721819301457#s0010){target="_blank"}
-  * [Sutton & Stack, 2013](https://academic.oup.com/bjsw/article/43/3/596/1636960?login=true){target="_blank"}
-  * [Robertson & Simmons, 2015](https://journals.sagepub.com/doi/pdf/10.1068/p7833){target="_blank"}
-  
-  
-### Activity 3: Information sheet and constent form
+These are examples, not a complete list. You may have thought of others.
+
+  * **Research and interview questions:** ask a supervisor or ethics committee to review the questions, and pilot them if possible; let participants decide how much to share, and remind them that they can skip any question; plan what to do if a participant becomes distressed, and signpost support services.
+  * **Data collection:** think carefully before recruiting people you know or have power over (for example, your own students or colleagues), and reflect on how the relationship might affect what they say; reflect on your own assumptions (see [Reflexivity](#ch5_reflexivity)).
+  * **Recording:** ask for consent to record specifically; record audio only if video is not needed; use encrypted devices and university-approved storage; delete recordings once they have been transcribed, as set out in the data management plan.
+  * **Anonymity:** use pseudonyms; remove or change details that could identify someone, including combinations of details (e.g. job title, town and age together); think about who might read the findings, including people who know the participant.
+  * **Confidentiality:** explain the limits of confidentiality before people take part; in focus groups, agree ground rules about keeping what is said within the group, and tell participants that this cannot be guaranteed.
+:::
+
+### Activity 2: Information sheet and consent form
 
 Take a look at the (slightly modified) Information sheet and Consent form from a qualitative survey study that had ethical approval from the University. Can you identify where and how the principles listed in the General ethical considerations and Activity 1 are discussed?
 
 #### Information sheet
 
-How do perceived language barriers affect the teachers’ experience teaching international students in higher education
+How do perceived language barriers affect the teachers’ experience teaching international students in higher education?
 
 **Invitation**
 My name is XX, and I am a student at the University of Glasgow. This study is conducted as a part of my MSc Psychological Studies Dissertation project. You are invited to take part in this study because you are currently teaching international students at a UK-based university. Before you decide to take part, it is important for you to understand why the research is being done and what it will involve. Please take time to read the following information carefully and discuss it with others if you wish. If you would like further details about the study before deciding whether you want to participate, please get in touch with us via email (XX@student.gla.ac.uk). 
@@ -94,11 +108,14 @@ We do not want to reveal any personal information about yourself or your colleag
   * Changing any names, places or organisations you write in your answers.
   * All the research data will be securely stored to comply with the General Data Protection Regulation (2018) and only made accessible to future researchers in a form which protects individual, personal information.
 
-**What are the possible disadvantages and risks of taking part? **
+**What are the possible disadvantages and risks of taking part?**
 The materials do not involve anything that would affect you in a negative way – as explained above, you may share as much or as little detail about your experiences as you feel comfortable doing. You are also free to withdraw from the research by closing your browser at any point without giving any reason why. 
 
 **Who is organising this research?**
-This research is being conducted as part of an MSc Dissertation. The research is supervised by Dr Wilhelmiina Toivo, Wilhelmiina.toivo@glasgow.ac.uk and the research has been granted ethical approval from the University of Glasgow.  If you would like further details about the study before deciding whether you want to participate, please get in touch with us via email. Many thanks, XX,
+This research is being conducted as part of an MSc Dissertation. The research is supervised by Dr Wilhelmiina Toivo, Wilhelmiina.toivo@glasgow.ac.uk and the research has been granted ethical approval from the University of Glasgow.  If you would like further details about the study before deciding whether you want to participate, please get in touch with us via email.
+
+Many thanks,  
+XX
 
 #### Consent form
 
@@ -116,20 +133,102 @@ If you agree to participate in this study, then please read the following statem
   * I understand that anonymous quotes from my responses may be used in academic publications/talks to illustrate the findings.
   * I understand that I can contact the researcher for this project by e-mail to receive more information and/or a summary of the results.
 
+::: {.callout-caution icon=false collapse="true"}
+## Show where the principles appear
 
+This is one way of mapping the principles onto the information sheet and consent form. You may have spotted other places too.
 
-## Reflexivity
+**General ethical considerations**
 
-Please note: Some information below is included in the video for [Research Skills for data analysis](#reflexivity_skills_session) as well.
+  * **Possible risks, and minimising them:** 'What are the possible disadvantages and risks of taking part?' sets out the risks. Participants can share 'as much or as little detail' as they feel comfortable with, and can take a break at any point.
+  * **Justifying risks in terms of the value of the research:** the 'Brief Summary' explains what the study aims to learn and why.
+  * **Ethical approval:** 'Who is organising this research?' states that the study has ethical approval from the University of Glasgow.
+  * **The right to withdraw:** 'What's involved' explains that participants can withdraw at any point by closing their browser, and the risks section adds 'without giving any reason why'. The consent form repeats this.
+  * **Informed consent:** the 'Invitation' asks people to read the information carefully, discuss it with others if they wish and get in touch with questions. The consent form then asks participants to agree to each statement separately.
+  * **Debriefing and aftercare:** these are usually covered in a separate debrief at the end of the study, so you would not expect to find them in full here. The consent form does tell participants they can ask for a summary of the results.
+  * **Anonymity and data management:** 'Confidentiality: Ways to protect your identity and data' covers anonymous recording through Microsoft Forms, participant IDs, password-protected storage on a secure server, changing names, places and organisations, and compliance with GDPR.
 
-We ask you to think about your own position in the research as part of your report (there is a section in the methods, and you need to include a [reflexivity diary as an appendix to your report!).
+**The elements from Activity 1**
+
+  * **Research and survey questions:** the 'Brief Summary' lists the issues the study is interested in, so participants know in advance what they will be asked about. 'What's involved' explains the format (a short demographic questionnaire and six open-ended questions).
+  * **Data collection:** the study uses an anonymous online survey rather than interviews or focus groups. This design choice avoids some of the issues in Activity 1: participants do not meet the researcher or each other.
+  * **Recording:** there is no audio or video recording, because participants type their answers.
+  * **Anonymity:** responses are screened and further anonymised before analysis (for example, removing course names or institutions), and only anonymised quotes are used.
+  * **Confidentiality:** the sheet states that the researchers do not want to reveal personal information about participants or their colleagues, and the consent form confirms that no identifying information will be made public.
+:::
+
+**What might you add or clarify?** This study had ethical approval, and the information sheet covers the main principles. However, no information sheet is perfect. Read it again as if you were a participant: is there anything you would want to know that is not there, or anything that could be clearer?
+
+### Activity 3: Using data collected by someone else
+
+For your qualitative report, you will analyse a dataset that other researchers collected and shared (for example, through the UK Data Service). Sharing qualitative data has benefits for openness and reuse, but it also raises ethical questions that are different from those in quantitative research.
+
+Think about the questions below. There are deliberately no answers here: these questions are for you to explore, and they connect to Task 2 of the group portfolio (see [Chapter 6](06_Group_project.qmd)).
+
+  * When participants agreed to take part, what did they agree to? Would they have expected their words to be read and analysed by other researchers, years later?
+  * Qualitative data is rich and detailed. How far can it be anonymised before it stops being useful?
+  * The original researchers knew the setting, the participants and what happened during the interview. What is lost when someone else analyses the transcript without that context?
+  * Once data has been shared, who is responsible for protecting the participants: the people who collected it, the archive, or the people who reuse it?
+  * Are some topics or groups of participants more sensitive to reuse than others? Why?
+
+You may find it helpful to look at what the [BPS Code of Human Research Ethics](https://cms.bps.org.uk/sites/default/files/2022-06/BPS%20Code%20of%20Human%20Research%20Ethics%20(1).pdf){target="_blank"} says about these questions, and at the information the UK Data Service provides about the dataset you are using.
+
+## Rigour {#ch5_rigour}
+
+In quantitative research, quality is often judged by reliability and validity: for example, would another researcher using the same measures get the same result? Reflexive thematic analysis does not aim for this. Because you actively develop your themes (see [Chapter 4](04_Data_analysis.qmd)), another analyst could develop different themes from the same data, and both analyses could be good. Instead, quality is judged by whether the analysis is careful, coherent, transparent and well evidenced.
+
+This means that some quality checks from quantitative research do not fit reflexive TA. For example, measuring how far two coders agree (inter-rater reliability) assumes that there is one correct way to code the data. [Braun and Clarke (2021)](https://doi.org/10.1080/14780887.2020.1769238){target="_blank"} argue that this does not fit reflexive TA, where the researcher's subjectivity is a resource rather than a problem. Talking your analysis through with other people is still useful, but the aim is to help you think more deeply, not to reach agreement.
+
+### Ways of thinking about quality
+
+There are several sets of quality criteria for qualitative research. You do not need to learn them in detail. They are different ways of asking the same question: how would a reader know that this analysis is careful and trustworthy?
+
+  * **[Yardley's (2000)](https://doi.org/10.1080/08870440008400302){target="_blank"} four principles** are widely used in health psychology: sensitivity to context; commitment and rigour; transparency and coherence; and impact and importance.
+  * **[Tracy's (2010)](https://doi.org/10.1177/1077800410383121){target="_blank"} eight 'big-tent' criteria** are designed to apply across many kinds of qualitative research (hence the 'big tent'): a worthy topic, rich rigour, sincerity, credibility, resonance, significant contribution, ethics, and meaningful coherence. Two of these link directly to this chapter: *sincerity* includes self-reflexivity, and *ethics* is treated as part of quality.
+  * **[Braun and Clarke's (2006)](https://doi.org/10.1191/1478088706qp063oa){target="_blank"} 15-point checklist** was written specifically for thematic analysis. It covers transcription, coding, analysis and the written report.
+
+The table below shows what Yardley's principles might look like in a thematic analysis like yours.
+
+|Principle|What it might look like in your analysis|
+|---------|----------------------------------------|
+|Sensitivity to context|Showing awareness of the context the data came from (especially important when you did not collect it yourself), of relevant literature, and of participants' own perspectives and language|
+|Commitment and rigour|Working carefully through all six phases, engaging with the whole dataset, and giving the analysis enough time|
+|Transparency and coherence|Showing how you did the analysis (for example, evidence of your coding); being clear about the type of knowledge you are aiming for (see [Chapter 1](01_Qualitative_designs.qmd)) and making sure your analysis fits it; reflexivity|
+|Impact and importance|Showing what your analysis adds: why does it matter for your research question?|
+
+For practical ways to build quality into your analysis, such as reflexive journalling and talking about your data with others, see [Strategies for ensuring quality in your analysis](appendix_b_research_skills.qmd#strategies-for-ensuring-quality-in-your-analysis) in Appendix B.
+
+### Activity 1: Spot the quality strategies
+
+In Chapter 4 ([Developing themes](04_Data_analysis.qmd#developing-themes-phases-3-6)), the activity on the tattoos and piercings transcript has two reveals: 'Show one possible set of themes' and 'Show how these themes were reviewed'. Read both, including the part headed 'What these themes leave out'. Which of Yardley's four principles can you see? Try to find an example for at least two principles.
+
+::: {.callout-caution icon=false collapse="true"}
+## Show one possible answer
+
+  * **Commitment and rigour:** the candidate themes were checked against the coded extracts and changed. A topic summary was dropped, and a theme based on one participant was merged into another.
+  * **Transparency and coherence:** each change is explained, with a reason, so the reader can follow the decisions. 'What these themes leave out' is open about the type of knowledge the analysis aims for, and what a different approach would notice.
+  * **Sensitivity to context:** the themes are described as tentative because the transcript is short, and one participant's comment about piercings is kept as a contrast rather than discarded or turned into a theme of its own.
+
+You may have found other examples. As in Chapter 4, this is one possible answer, not the only one.
+:::
+
+## Reflexivity {#ch5_reflexivity}
+
+Two terms are often used together:
+
+  * **Positionality** is who you are in relation to your research: your background, identities, experiences and values, and how these relate to the topic and the participants.
+  * **Reflexivity** is the ongoing practice of examining how your position shapes the research: the questions you ask, what you notice in the data, and how you interpret it.
+
+In qualitative research, the researcher's experiences and values are seen as part of the research process (see [Chapter 1](01_Qualitative_designs.qmd)). Themes do not emerge from the data on their own: you develop them, so your position will shape them (see [Chapter 4](04_Data_analysis.qmd)). Reflexivity does not remove this influence. It makes it visible, so that you and your reader can see how it has shaped the analysis. This applies whatever type of knowledge your study aims to produce: in reflexive TA, a realist analysis needs reflexivity as much as a social constructionist one.
+
+We ask you to think about your own position in the research as part of your report (there is a section in the Method, and you need to include a reflexivity diary as an appendix to your report).
 
 This can be quite tricky to do, but is very important for qualitative research. Some suggestions to get you started:
 
   * Think about the topic you are doing for your research and your position in it. Where would you place yourself in relation to it?
   * What are your own views on the topic? Do you feel quite strongly about it or not?
-  
-Write as you reflect. Writing – be it using pen or pencil on paper, typing on a keyboard, dictating to some voice capture device, or some other mode – is an important tool for developing reflexive depth. It is good to do this at various stages of the research process.
+
+Write as you reflect. Writing – be it using pen or pencil on paper, typing on a keyboard, dictating to some voice capture device, or some other mode – is an important tool for developing reflexive depth.
 
 Start with your own experiences, understandings and views, but then also try to interrogate those (i.e. why do you have these particular understandings, views etc.?)
 
@@ -140,12 +239,20 @@ Some questions that you might ask yourself:
   * What are my values (i.e. what is important to me)?
   * What about my beliefs? How might these have influenced my thinking?
 
-Here we have some data from Braun & Clarke - there are different datasets to choose from. If you want to use the ones from Braun & Clarke, you can either choose the ['childfree'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQBqtR1u15vwSp6G7FPxkaXCAZUr50OJOl4RagZLMwpQMFo?e=gC6Tvk){target="_blank"} dataset or the ['healthy eating'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDX4rWysIaHSqPCpo_bMzYMATZrd9dwPHWJJwInoR3ctpY?e=2fOWGS){target="_blank"} dataset. However, we know that some topics might be difficult for people, so please do choose a topic of your own preference if you would rather  - any qualitative dataset (e.g.from UK Data Service) or news article would be fine.
+### When to reflect
 
-### Activity 1
+Reflexivity is not a one-off task at the end of a project. It helps to stop and write at different points:
 
-Spend about fifteen minutes reflecting on the topic and where you would place yourself in relation to it, both personally and more general views. Write as you reflect. Writing – be it using pen or pencil on paper, typing on a keyboard, dictating to some voice capture device, or
-some other mode – is an important tool for developing reflexive depth. Start with your own experiences, understandings and views, but then also try to interrogate those.
+  * **Before you start:** what do you expect to find, and why?
+  * **When you first read the data:** what is familiar or surprising, and why are you reacting to the data in that way? (Phase 1 in [Chapter 4](04_Data_analysis.qmd) asks you to note this.)
+  * **While coding and developing themes:** which parts of the data are you drawn to, and which are you passing over? Can you see your own views in your themes?
+  * **When writing up:** does your interpretation go beyond what the data supports? Would someone with a different background read the data differently?
+
+### Activity 1: Reflect on a topic
+
+First, choose a topic to reflect on. Here we have some data from Braun & Clarke – there are different datasets to choose from. If you want to use the ones from Braun & Clarke, you can either choose the ['childfree'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQBqtR1u15vwSp6G7FPxkaXCAZUr50OJOl4RagZLMwpQMFo?e=ZcKFru){target="_blank"} dataset or the ['healthy eating'](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDX4rWysIaHSqPCpo_bMzYMATZrd9dwPHWJJwInoR3ctpY?e=CJhvHV){target="_blank"} dataset. However, we know that some topics might be difficult for people, so please do choose a topic of your own preference if you would rather – any qualitative dataset (e.g. from UK Data Service) or news article would be fine.
+
+Spend some time reflecting on the topic and where you would place yourself in relation to it, both personally and in terms of more general views. Write as you reflect. Start with your own experiences, understandings and views, but then also try to interrogate those.
 
 Ask yourself questions like:
 
@@ -153,10 +260,125 @@ Ask yourself questions like:
   * What broader experiences and values might inform my thinking on this?
   * How might these be connected to myself as a person, my various identities, my personal experience in relation to the topic, and the communities I am part of?
 
-### Activity 2
+### Activity 2: Share your experience of reflecting
 
 Discuss your experiences of reflecting with your group. Did you find it easier than expected? Was it harder? Was there anything that surprised you about the process? Please only share what you feel comfortable with.
 
-### Activity 3 (optional)
+If you are working on your own, write a few sentences answering the same questions instead, or post them on the Teams channel.
 
-Ashley has some additional reflexivity probes and tips in her [research skills session](#reflexivity_skills_session).
+### Activity 3: Positionality and your data
+
+This activity has two sections. Section 1 is a broader reflective exercise that you can do at any time. Section 2 is for when you are working with a dataset: either the one you chose for Activity 1, or the dataset for your report once you have it.
+
+Your notes are for you, so only write and share what you feel comfortable with. They can also be a starting point for your reflexivity diary.
+
+#### Section 1: Who are you as a researcher?
+
+This section asks you to reflect on your general position as a researcher: your background, values and what you bring to qualitative work, whatever the project. Jot down a few points in response to each question.
+
+**Step 1: Your background and values**
+
+  * What was your first degree or previous work (for example, in business, law, engineering or the arts)? How might that shape how you approach research?
+  * Are there groups, communities or topics you feel particularly close to, or particularly distant from?
+  * What do you expect qualitative research to be like, and what assumptions have you brought to it?
+
+**Step 2: What this might mean for your research**
+
+  * Are there topics or participant groups where your background might lead you to assume rather than explore?
+  * Are there perspectives you might be less likely to notice or take seriously?
+  * If you were collecting data yourself (for example, in a future dissertation), how might your identity or position affect how participants respond to you, or how you respond to them?
+
+**Step 3: Draft a general positionality statement**
+
+Using your notes, write 3–4 sentences that describe who you are as a researcher and what you bring to qualitative work. Then check your draft: could it apply to almost any researcher? If so, what could make it more specific to you?
+
+::: {.callout-caution icon=false collapse="true"}
+## Compare with an example
+
+This example comes from a more experienced researcher writing about a specific study, but it shows the difference between a weak and a stronger statement.
+
+**A weak statement:**
+
+> As a researcher I am aware that my background may have influenced the analysis. I have worked in this area for several years and this may have affected my interpretation of the data. I tried to be aware of this throughout the research process.
+
+**A stronger statement:**
+
+> As a practising clinician with fifteen years of experience in this setting, I came into this research with existing assumptions about how hierarchy and communication work in practice. Being an insider to the research topic meant I may have taken certain things for granted that someone else might have questioned, so I regularly discussed my interpretive decisions with a colleague to check my thinking. One of these conversations led me to reframe a theme I had initially named 'poor communication': my colleague proposed that this reflected my clinical perspective, and the data actually suggested that there was something to pay attention to that was related to power dynamics.
+
+**What the stronger version does**
+
+|What it does|What it looks like|Why this matters|
+|------------|------------------|----------------|
+|Names a specific background and the assumptions it brought|'fifteen years of experience in this setting ... existing assumptions about how hierarchy and communication work'|The reader knows what the researcher brought, not just that they brought something|
+|Identifies an insider position and its risk|'may have taken certain things for granted that someone else might have questioned'|Shows how the position could shape the analysis|
+|Describes what the researcher did|'regularly discussed my interpretive decisions with a colleague'|Reflexivity is something you do, not just something you are aware of|
+|Shows a change in the analysis|'poor communication' was reframed as something about power dynamics|The clearest evidence that reflexivity shaped the findings|
+
+The weak version could apply to almost any researcher. It says that the researcher's background 'may have influenced' the analysis, but not how, and 'I tried to be aware of this' does not tell the reader what was done.
+:::
+
+#### Section 2: Your position in relation to your dataset
+
+For your report, you will analyse data that someone else collected. You will not have met the participants, and they will not have met you. This changes some of the reflexive questions: as well as thinking about your own position, think about the distance between you and the data.
+
+**Step 1: Your relationship to this data**
+
+  * What is your personal or professional background in relation to this topic?
+  * Did you have expectations about what you would find before you started? If so, where might these have come from?
+  * Are you an insider or an outsider to the group or context in the dataset (for example, in age, culture, country, language or experience of the topic)?
+  * What do you know about how, when, where and why the data were collected? What do you not know – for example, the setting, the relationship between the interviewer and the participant, or what happened before the recording started?
+  * Are there places where you might be filling gaps in participants' accounts with your own experience or assumptions?
+
+**Step 2: How this has shaped (or might shape) your analysis**
+
+  * Are there aspects of the data you have been particularly drawn to, or particularly likely to overlook?
+  * Did anything in the data surprise you? Why might this have been? What might it tell you about your assumptions going in?
+  * Looking at your codes or themes, can you see your own perspective reflected anywhere?
+
+**Step 3: Draft a study-specific positionality statement**
+
+Using your notes, write 3–4 sentences about your position in relation to this dataset. Aim to be honest and specific rather than generic.
+
+::: {.callout-caution icon=false collapse="true"}
+## Compare with an example
+
+This example is on a different topic. Imagine a student analysing an archived dataset of interviews with first-year international students about homesickness (the topic you met in [Chapter 1](01_Qualitative_designs.qmd)).
+
+**A weak statement:**
+
+> As an international student myself, I may have been biased when analysing this data. I tried to stay objective throughout the analysis.
+
+**A stronger statement:**
+
+> I moved to the UK to study, and my own first term was difficult, so I came to this dataset expecting accounts of struggle. When I reread my familiarisation notes, I noticed that I had coded almost every mention of family as 'loss'. Going back to the data, I found that several participants described daily calls home as a source of strength, and this became part of my second theme. Because I did not collect the data, I only had the transcripts, so I tried not to fill gaps in participants' accounts with details from my own experience.
+
+**What the stronger version does**
+
+|What it does|What it looks like|Why this matters|
+|------------|------------------|----------------|
+|Is specific to this study|'my own first term was difficult, so I came to this dataset expecting accounts of struggle'|Links the student's experience to a particular expectation about this data|
+|Describes an action during the analysis|'When I reread my familiarisation notes, I noticed...'|Shows reflexivity as something done throughout the analysis, not only at the end|
+|Shows a change in the analysis|'calls home as a source of strength ... became part of my second theme'|Shows the reader how reflexivity shaped the findings|
+|Acknowledges the distance from the data|'Because I did not collect the data, I only had the transcripts'|Shows awareness of what secondary data can and cannot tell you|
+
+The weak version uses the words 'biased' and 'objective'. In reflexive TA, your subjectivity is not a bias to be removed (see [Chapter 1](01_Qualitative_designs.qmd)): the aim is to show how it has shaped your analysis. The weak version could also apply to any international student analysing any data.
+:::
+
+::: {.callout-important}
+## Use your own words
+
+These examples are for practice. In your own report, your reflexivity section must describe your own position and your own analysis, in your own words.
+:::
+
+#### After Section 1 or 2: discuss or reflect
+
+Discuss these questions with your group, or write a few sentences in response if you are working on your own:
+
+  * How did you find the process of being reflexive?
+  * Is your statement specific to you and your study, or could it apply to almost any researcher?
+  * Where else in a write-up might reflexivity appear, beyond a positionality statement? How could you make it visible throughout?
+
+### Going further (optional)
+
+Ashley's optional [research skills session](appendix_b_research_skills.qmd#reflexivity_skills_session) in Appendix B has more reflexivity probes and tips, and an activity in which you compare your familiarisation notes on a data extract with Braun & Clarke's.
+

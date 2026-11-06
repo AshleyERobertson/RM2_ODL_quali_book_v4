@@ -172,3 +172,5 @@ Make sure that:
   * If you share the data, your participants should be informed about this prior to taking part, and you should only share the anonymised data files 
   * **Do not share data via social media, Google drive or personal email which is not secure.**
 
+
+If you are planning a qualitative dissertation, Ashley's optional [research skills session on data collection](appendix_b_research_skills.qmd#data_collection_skills_session) in Appendix B goes into this in more depth.

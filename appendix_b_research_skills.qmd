@@ -1,13 +1,11 @@
 # Research skills sessions {#research_skills_sessions}
 
-Ashley has recorded **optional** research skills sessions on different aspects of qualitative research. These sessions take a little bit deeper dive into some of the topics and may be particularly useful if you are planning on doing a qualitative dissertation next year. Each session has its own section below, with a link to the recording and the activities that go with it.
+Ashley has recorded **optional** research skills sessions on different aspects of qualitative research. These sessions take a deeper dive into some of the topics and may be particularly useful if you are planning on doing a qualitative dissertation next year. Each session has its own section below, with a link to the recording and the activities that go with it.
 
 
-## OPTIONAL: Research skills session - Developing questions
+## Developing questions {#questions_skills_session}
 
-Ashley has recorded **optional** research skills sessions on different aspects of qualitative research. These sessions take a deeper dive into some of the topics and may be particularly useful if you are planning on doing a qualitative dissertation next year. 
-
-[Watch the video here](https://echo360.org.uk/media/56e4abb3-e58c-4560-897b-18d2eeb91833/public?autoplay=false&automute=false&startTimeMillis=0)
+[Watch the video here](https://echo360.org.uk/media/56e4abb3-e58c-4560-897b-18d2eeb91833/public?autoplay=false&automute=false&startTimeMillis=0){target="_blank"}
 
 ### Overall structure
 
@@ -150,9 +148,7 @@ questions as they can be anonymous
 
 
 
-## OPTIONAL: Research skill session - data collection
-
-Ashley has recorded **optional** research skills sessions on different aspects of qualitative research. These sessions take a little bit deeper dive into some of the topics and may be particularly useful if you are planning on doing a qualitative dissertation next year. 
+## Data collection {#data_collection_skills_session}
 
 [Watch the video here](https://echo360.org.uk/media/1f84181c-364e-47e3-a61e-415e4ec5a368/public?autoplay=false&automute=false&startTimeMillis=0){target="_blank"}
 
@@ -167,7 +163,7 @@ Ashley has recorded **optional** research skills sessions on different aspects o
   * Know how you plan to analyse the data
   * Consider what you can do to make the experience as
 comfortable as possible for participants (e.g. sending out questions in advance is particularly helpful for neurodivergent people/people who do not speak English as a first language).
-  * For interviews and focus groups - reassert consent before you start & always remember to press record! Also it's normal to feel a bt nervous - try to enjoy the process!
+  * For interviews and focus groups - reassert consent before you start & always remember to press record! Also it's normal to feel a bit nervous - try to enjoy the process!
   * For all, pilot the questions you ask - make sure that people take from them what you think
   * When recruiting, think about who your target group is and it's good to justify why you are looking for a particular demographic. For example, do you definitely require someone to have a particular diagnosis?
   

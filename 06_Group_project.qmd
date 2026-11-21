@@ -4,14 +4,14 @@
 
 In the group project, you will engage in three tasks that are designed to help you build your practical research skills in qualitative research. You will compile your answers to the tasks into a portfolio that you submit to Moodle as a group. Please refer to Moodle (Semester 1 Week 14) for a video overview of the project, and make sure that you have engaged with the Assessment Information section of the group portfolio (available on the Assessment section of Moodle) before starting any work on it so you know what to expect.
 
-To help you balance the different assignments in RM2, we have compiled [a suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQADNhc7ItBSQJQykyV4Iu_vAa5uyEyAcObWtzGl0og2X64?e=1sbP7r){target="_blank"} to help you is a suggested timeline for the qualitative portfolio and report
+To help you balance the different assignments in RM2, we have compiled [a suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQADNhc7ItBSQJQykyV4Iu_vAa5uyEyAcObWtzGl0og2X64?e=1sbP7r){target="_blank"} for the qualitative portfolio and report.
 
 
 ## Getting to know each other in groups
 
 This section is designed for you to engage with your group early, get to know each other, and develop some common guidelines for working together before you embark on the group project. If you haven't done so yet, please get in touch with your group now to complete the following activities. We have also provided a checklist of things to complete as a group before the start of semester 2.
 
-### Getting organised in groups checklist:
+### Getting organised in groups checklist
   * Get in touch with group and make a group chat on Teams
   * Introduce yourselves
   * Post group introduction on RM2 channel
@@ -19,11 +19,11 @@ This section is designed for you to engage with your group early, get to know ea
   * Discuss group agreement and decide together on items to include
   * Submit group agreement to Moodle (individually)
   * Read effective group work document and discuss your strengths as a group
-  * Download the group work template and assign tasks 
+  * Download the group agreement template and assign tasks 
 
 ### Activity 1: Create a group chat and set up an initial meeting
 
-Get in touch with your group and create a Teams chat. You **MUST** use Teams for all communication about the group project. Do not use any other platforms (such as Whatsapp, WeChat, Facebook etc.) as these can lead to people being excluded. Set up a meeting in which you will discuss Activity 3 from this chapter. After the initial meeting, set up a regular check-in time. This doesn't necessarily need to be a meeting every time, you can also do it over text. You will need to coordinate between time zones/work calendars/other responsibilities 
+Get in touch with your group and create a Teams chat. You **MUST** use Teams for all communication about the group project. Do not use any other platforms (such as WhatsApp, WeChat, Facebook etc.) as these can lead to people being excluded. Set up a meeting in which you will discuss Activity 3 from this chapter. After the initial meeting, set up a regular check-in time. This doesn't necessarily need to be a meeting every time, you can also do it over text. You will need to coordinate between time zones/work calendars/other responsibilities.
 
 *DO:* Communicate regularly and be clear about where and how you are going to communicate about the group project. Be proactive if you are having a busy time and let your group know.
 
@@ -31,11 +31,11 @@ Get in touch with your group and create a Teams chat. You **MUST** use Teams for
 
 ### Activity 2: Introductions
 
-Introduce yourself to your group members on your Teams chat. In your introduction, tell your group where you are based, which parts of the degree you have enjoyed the most up to date and what is your favourite R function. As a group, find one *non-psychology/university related thing that you all have in common* and share that on the RM2 Teams channel in the thread. Bonus points for the most random common thing!
+Introduce yourself to your group members on your Teams chat. In your introduction, tell your group where you are based, which parts of the degree you have enjoyed the most so far and what your favourite R function is. As a group, find one *non-psychology/university related thing that you all have in common* and share that on the RM2 Teams channel in the thread. Bonus points for the most random common thing!
 
 ### Activity 3: Group agreements
 
-We appreciate that group work can be challenging (and even more so if you are spread all over the World!) and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. We also ask that you complete a task allocation and upload this with your agreement (they are in the same template). The purpose of this is for the group to come together and establish common ground and some rules that each of the group members is committed to. It also means that the group begins working with clearly allocated roles and tasks. This is not to mean that you cannot change tasks later, but it is helpful to set expectations from the outset. 
+We appreciate that group work can be challenging (and even more so if you are spread all over the world!) and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. We also ask that you complete a task allocation and upload this with your agreement (they are in the same template). The purpose of this is for the group to come together and establish common ground and some rules that each of the group members is committed to. It also means that the group begins working with clearly allocated roles and tasks. This does not mean that you cannot change tasks later, but it is helpful to set expectations from the outset. 
 
 You can download [the group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDER8Ocnd79SZhcJtXa0bvjAd9yJtP_3eo0T6im3Z44w84?e=rJyqpE){target="_blank"}. 
 
@@ -52,9 +52,9 @@ Here is a list of items you may want to discuss with your group and add to the g
   * We all agree to respect each other's individual ways of working and discuss these openly as a group. 
   * We all agree to respect diversity in our group. This includes cultural differences, neurodiversity, different work/life situations and may manifest in different ways of working/approaching tasks. 
   * We agree to discuss our strengths as a group and divide tasks accordingly.
-  * I agree to stay in touch with the group and communicate as established by the group. If I am struggling and I do not feel comfortable sharing that with the group, I will get in touch with the course/programme leads for support
+  * I agree to stay in touch with the group and communicate as established by the group. If I am struggling and I do not feel comfortable sharing that with the group, I will get in touch with the course/programme leads for support.
   * We all agree to meet on a regular basis as established by the group. If I cannot make a meeting I agree to communicate this openly with my group and get in touch to catch up about things I have missed.
-  * We agree to plan out the individual contribution of each team member in advance before group work starting and openly communicate any changes that may arise during the project.
+  * We agree to plan out the individual contribution of each team member in advance before group work starts and openly communicate any changes that may arise during the project.
   * We agree to establish the best method of communication for our group that's inclusive and takes into account everybody's individual needs.
  
 ### Activity 4: Read the Effective Group work document
@@ -67,7 +67,7 @@ Work back from the deadline to establish tasks and when they need to be done. Di
 
 ## Qualitative portfolio guidelines and materials
 
-You will complete three tasks: Qualitative questions (Task 1a and 1b), Ethics (Task 2) and Terrible focus group (Task 3). Below, you will find information and the required materials to complete each task. Please use [this template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDhW2hvghNKRJ1gb7AMBiF1ASEfMAKBXSWGIZJR6FCpBI4?e=3yTBlb){target="_blank"} to complete your submission.
+You will complete three tasks: Qualitative questions (Task 1a and 1b), Ethics (Task 2) and Focus group gone wrong (Task 3). Below, you will find information and the required materials to complete each task. Please use [this template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQDhW2hvghNKRJ1gb7AMBiF1ASEfMAKBXSWGIZJR6FCpBI4?e=3yTBlb){target="_blank"} to complete your submission.
 
 ### Task 1a: Qualitative questions
 
@@ -81,32 +81,32 @@ Below, you will find a brief overview of a study topic. In this task, we would l
 
 Universities  provide support for students, and this support can come in many forms, from free counselling services to well-being advisors [(Raunic &  Xenos, 2008)](https://link.springer.com/article/10.1007/s10447-008-9062-0){target="_blank"}.  
 
-In one study, it was reported that only 3% of students used their university counselling service, and only 5% of those who were characterised as vulnerable based on questionnaire scores, used the services [(Cooke  et al., 2006)](https://doi.org/10.1080/03069880600942624){target="_blank"}. This suggests that the majority of students did not make use of services available. 
+In one study, it was reported that only 3% of students used their university counselling service, and only 5% of those who were characterised as vulnerable based on questionnaire scores used the services [(Cooke  et al., 2006)](https://doi.org/10.1080/03069880600942624){target="_blank"}. This suggests that the majority of students did not make use of services available. 
 
-There are many reasons why students may not choose to seek help, including being unaware of services, low socio-economic status, being from different cultural background, embarrassment about having to seek help, and scepticism about the services ([Eisenberg et al., 2007](https://journals.lww.com/lww-medicalcare/fulltext/2007/07000/help_seeking_and_access_to_mental_health_care_in_a.3.aspx){target="_blank"}; [Gulliver et al., 2010)](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/1471-244X-10-113){target="_blank"}. 
+There are many reasons why students may not choose to seek help, including being unaware of services, low socio-economic status, being from a different cultural background, embarrassment about having to seek help, and scepticism about the services ([Eisenberg et al., 2007](https://journals.lww.com/lww-medicalcare/fulltext/2007/07000/help_seeking_and_access_to_mental_health_care_in_a.3.aspx){target="_blank"}; [Gulliver et al., 2010)](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/1471-244X-10-113){target="_blank"}. 
 
-Another  issue around seeking support is that many who do chose to get help,  have to wait long periods for appointments [(Mowbray et al., 2006)](https://go.exlibris.link/htR5xvWt){target="_blank"}. In a  recent article reported  in the Independent, a waiting time of 4 months was cited for some  universities. These delays to support, can lead to emergence of mental  health crises situations. Unfortunately, in this the University of  Glasgow had one of the longest wait times for counselling [(Buchan, 2018)](https://www.independent.co.uk/news/uk/politics/students-mental-health-support-waiting-times-counselling-university-care-diagnosis-treatment-liberal-democrats-norman-lamb-a8124111.html){target="_blank"}.  
+Another issue around seeking support is that many who do choose to get help have to wait long periods for appointments [(Mowbray et al., 2006)](https://go.exlibris.link/htR5xvWt){target="_blank"}. A 2018 article in the Independent reported waiting times of up to 4 months at some universities, and these delays can lead to mental health crises. At the time, the University of Glasgow had one of the longest waiting times for counselling [(Buchan, 2018)](https://www.independent.co.uk/news/uk/politics/students-mental-health-support-waiting-times-counselling-university-care-diagnosis-treatment-liberal-democrats-norman-lamb-a8124111.html){target="_blank"}.  
 
-*Research question:  What are student’s views on how universities can support students and their mental health needs?*
+*Research question: What are students’ views on how universities can support students and their mental health needs?*
 
 :::
 
 
 ### Task 1b: Qualitative questions reflection
 
-For task 1B, please reflect on your experience of generating the questions in task 1A. Do you think they would achieve what you want to achieve? Why or why not? Was it easier or harder than you expected? Please link to the evidence base in your answer (suggested word count: 250 words)
+For Task 1b, please reflect on your experience of generating the questions in Task 1a. Do you think they would achieve what you want to achieve? Why or why not? Was it easier or harder than you expected? Please link to the evidence base in your answer (suggested word count: 250 words).
 
 
 ### Task 2: Ethics
 
-With the Open Science movement, the use of Open, secondary datasets has become a more popular way of conducting research. You've learnt about the importance of Open data in terms of reproducibility and replicability for quantitative research in RM1 - however, the benefits and challenges of Open data are quite different in qualitative research and there are a number of ethical issues associated with sharing qualitative research data openly. For task 2 of your portfolio, we would like you to **identify one ethical issue** associated with the sharing and/or use of open qualitative data, and discuss why it is an issue, and how it could be mitigated. In your response, you should cite relevant literature on the use of open qualitative data, as well as the [BPS code of Ethics](https://cms.bps.org.uk/sites/default/files/2022-06/BPS%20Code%20of%20Human%20Research%20Ethics%20(1).pdf){target="_blank"} (suggested word count 250 words)
+With the Open Science movement, the use of open, secondary datasets has become a more popular way of conducting research. You've learnt about the importance of Open data in terms of reproducibility and replicability for quantitative research in RM1; however, the benefits and challenges of Open data are quite different in qualitative research and there are a number of ethical issues associated with sharing qualitative research data openly. For task 2 of your portfolio, we would like you to **identify one ethical issue** associated with the sharing and/or use of open qualitative data, and discuss why it is an issue, and how it could be mitigated. In your response, you should cite relevant literature on the use of open qualitative data, as well as the [BPS Code of Human Research Ethics](https://cms.bps.org.uk/sites/default/files/2022-06/BPS%20Code%20of%20Human%20Research%20Ethics%20(1).pdf){target="_blank"} (suggested word count: 250 words).
 
 
 ### Task 3: Focus group gone wrong
 
 Here is a short video from a fictional focus group that is conducted very badly (*please note this video is created only for the purposes of this assessment, is not from a real focus group, and should not be shared outside of this course!*).
 
-Your task is to **identify two or three issues with how the focus group is run** and discuss why they are problematic and outline possible ways to improve them. In your response, you should cite relevant literature to support your ideas.
+Your task is to **identify two or three issues with how the focus group is run** and discuss why they are problematic and outline possible ways to improve them. In your response, you should cite relevant literature to support your ideas (suggested word count: 500 words).
 
 [Access the Focus Group gone wrong recording](https://echo360.org.uk/media/f51c8477-94cd-4a0e-88a8-0a133dd8d21e/public){target="_blank"}
 

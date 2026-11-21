@@ -4,7 +4,7 @@ This chapter has some activities to help with your academic writing.
 
 ## Evaluation in introductions {#eval_intro}
 
-The activities in this section are designed to help you improve your evaluation in the introduction of your RM2 report (and your dissertation). To re-cap from RM1, the purpose of your introduction is to provide a rationale for your study and answer the **WHY** question; why is your study worth doing? You want to sell your idea to the reader, using existing literature to show how you are building on the evidence that is there.
+The activities in this section are designed to help you improve your evaluation in the introduction of your RM2 report (and your dissertation). To recap from RM1, the purpose of your introduction is to provide a rationale for your study and answer the **WHY** question; why is your study worth doing? You want to sell your idea to the reader, using existing literature to show how you are building on the evidence that is there.
 
 Although 'identifying the gap' is something that is often key in quantitative research, building a rationale is not exactly the same in qualitative research. This is because qualitative research tends to be very much situated in the context of the particular study (i.e. why is this particular research topic or question important in this context/with this group). Regardless of whether you include a gap or not (you still can), you should convey to your reader **why** your study matters (or why a gap you've identified is important to explore). 
 
@@ -12,8 +12,8 @@ Although 'identifying the gap' is something that is often key in quantitative re
   
   1. Avoid doing one study per paragraph – instead, build your arguments using multiple sources
   2. Avoid describing previous studies in a lot of detail – instead, show how your study builds on them
-  3. Avoid critiques that your study cannot answer - instead, focus on aspects that your study will address
-  4. Just because something is never done before, doesn't make it worth doing; show with evidence why we should do the study.
+  3. Avoid critiques that your study cannot answer – instead, focus on aspects that your study will address
+  4. Just because something has never been done before, doesn't make it worth doing; show with evidence why we should do the study.
 
 Here are paragraphs from an imaginary introduction to a qualitative study investigating postgraduate students' confidence in their zombie apocalypse survival.
 
@@ -23,21 +23,21 @@ For each, you can click on them to have a look in depth.
 
 ## Show me Example 1: Using one source, writing descriptively
 
-*A study by Lane and Karin (2011) looked at zombie apocalypse survival confidence levels in undergraduate students. The sample consisted of 25 participants (20 male and 5 female), recruited through convenience sampling. The study employed involved a survey comprising Likert-scale questions designed to measure participants' self-assessed confidence in various survival skills. Additionally, participants were asked about their exposure to zombie-related media. The data were subjected to t-tests and regression analyses, and the authors’ found that the biggest predictor of zombie apocalypse confidence was exposure to zombie-themed video games.*
+*A study by Lane and Karin (2011) looked at zombie apocalypse survival confidence levels in undergraduate students. The sample consisted of 25 participants (20 male and 5 female), recruited through convenience sampling. The study involved a survey comprising Likert-scale questions designed to measure participants' self-assessed confidence in various survival skills. Additionally, participants were asked about their exposure to zombie-related media. The data were subjected to t-tests and regression analyses, and the authors found that the biggest predictor of zombie apocalypse confidence was exposure to zombie-themed video games.*
 
 This paragraph uses just one source, and describes the study in a lot of detail. Instead, it would be better to synthesise evidence from multiple studies and focus on what the findings mean, rather than being descriptive about the studies. Something like:
 
-*A study by Lane and Karin (2011) found that the biggest predictor of zombie apocalypse survival confidence levels in undergraduate students was exposure to zombie-themed video games. Miller and Williams (2023) had similar findings, but exposure to zombie films was also a significant predictor of confidence. This suggests that simulation through media is an effective way to increase self-efficacy towards an unknown threat, which has also been found with alien attack research (Ripley, 2017).*
+*A study by Lane and Karin (2011) found that the biggest predictor of zombie apocalypse survival confidence levels in undergraduate students was exposure to zombie-themed video games. Miller and Williams (2023) had similar findings, but exposure to zombie films was also a significant predictor of confidence. This suggests that simulation through media may increase self-efficacy towards an unknown threat, which has also been found with alien attack research (Ripley, 2017).*
 
 :::
 
 ::: {.callout-caution icon=false collapse="true"}
 
-## Show me Example 2: Making criticisms that are outwith the scope of your study
+## Show me Example 2: Making criticisms that are outside the scope of your study
 
 *It should be noted that the majority of studies on zombie apocalypse survival confidence have looked at samples that consist of mostly men (Lane & Karin, 2011 but see also Grimes & Dixon, 2019), and that previous samples have been small.*
 
-This paragraph makes a criticism that the study cannot address - issues with sample size are not something that we can address with qualitative designs. 
+This paragraph makes criticisms that the study cannot address – issues with sample size are not something that we can address with qualitative designs, and the point about samples being mostly men only helps your rationale if your study does something about it. 
 
 Instead, to create a stronger rationale, it would be better to focus your critical evaluation on aspects which your study actually builds on:
 
@@ -51,21 +51,22 @@ Instead, to create a stronger rationale, it would be better to focus your critic
 
 *To date, there has been only one qualitative study on the topic – Seok (2013) collected data through semi-structured interviews, which were analysed using thematic analysis and two themes, “Survival mode” and “Confidence through skills” were identified. This study looked at undergraduate students; there is no previous literature on postgraduate students’ perceptions of their apocalyptic confidence. Therefore, this qualitative study investigates the perceived confidence of postgraduate students in their abilities to survive a zombie apocalypse.*
 
-Just because it's never been looked at doesn't automatically mean it should be - show with evidence why and how you would expect your new sample/method/something else about the study to differ from previous research and why it's worth exploring:
+Just because it's never been looked at doesn't automatically mean it should be – show with evidence why and how you would expect your new sample/method/something else about the study to differ from previous research and why it's worth exploring:
 
-*Previous research has looked at undergraduate students; however, it has been suggested that postgraduate students would be the group most at risk during a zombie apocalypse (Williams, 2021), but also that apocalyptic self-efficacy decreases with age (Anderson, 2004). This suggests that postgraduate students are the most mentally and physically vulnerable group during a zombie apocalypse, and hence it is important to understand their perceptions of apocalypse confidence, and the lack of thereof.*
+*Previous research has looked at undergraduate students; however, it has been suggested that postgraduate students would be the group most at risk during a zombie apocalypse (Williams, 2021), and also that apocalyptic self-efficacy decreases with age (Anderson, 2004). This suggests that postgraduate students may be the most mentally and physically vulnerable group during a zombie apocalypse, and hence it is important to understand their perceptions of apocalypse confidence, and the lack thereof.*
 
 :::
 
 ### Activity 1: RM1 feedback
 
-Go back to your feedback from RM1 and see what your marker has said about the evaluation ILO and comments for your introduction. List two things that you did well, and two things you want to improve for RM2. If you would like to discuss the feedback and possible improvement points further, you can pop to Wil's or Ashley's office hours.
+Go back to your feedback from RM1 and see what your marker has said about the evaluation ILO and comments for your introduction. List two things that you did well, and two things you want to improve for RM2. If you would like to discuss the feedback and possible improvement points further, you can come to Wil's or Ashley's office hours.
 
 Quite often what we see is students engaging with a lot of literature in the intro (which is good!), but not really building a rationale or explaining with evidence why the study is worth doing. We want you to move beyond describing the research to critically evaluating it to show how your study expands on existing knowledge. 
 
 ### Activity 2: Top tips and rationales in published papers
 
 **Tip 1: Show how your study builds on existing literature**
+
 When you are building your rationale, try to use multiple studies to show your reader what the current context of the literature is, and how your study is expanding that knowledge. What new is your study bringing? How is it expanding on existing studies?
 
 If you look at these paragraphs from [Robertson et al. (2018)](https://www.sciencedirect.com/science/article/pii/S1750946717301277){target="_blank"}, they are building the rationale for their study by showing how it expands on existing literature:
@@ -87,13 +88,13 @@ If you look at this paragraph from [Toivo & Scheepers (2019)](https://journals.p
 
 ::: {.callout-note icon=false}
 
-## Focusing cricitism
+## Focusing criticism
 
 "A potential issue in the above SCR studies (as well as in some of the  cognitive studies discussed earlier) is that the stimuli were not very  tightly controlled in terms of lexical variables (length, frequency,  abstractness, etc.), or in terms of syntactic/pragmatic complexity when multi-word phrases were used. This, again, introduces a number of  potential confounds (both within and across languages), making it  difficult to separate effects of emotional resonance from those related  to cognitive effort in word processing. In the present study, we aimed  at eliminating such potential confounds by matching our stimuli on a  number of lexical variables–as was done in the ERP studies discussed above [22, 23]–and by avoiding the use of translation equivalents."
 
 :::
 
-**Tip 3: Draw arguments from related topics. **
+**Tip 3: Draw arguments from related topics**
 
 Sometimes if your topic has not been studied much, it might be difficult to create an evidence-based rationale for your research question. In this case, you can draw logical parallels from related topics/domains. Remember to explain to the reader why you would expect the findings to generalise across the related topics.
 
@@ -117,46 +118,52 @@ When you are reading journal articles, make sure to take notes and think of how 
 
 ### Activity 1
 
-[Complete this activity](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb){target="_blank"} to improve your evaluation for your thematic analysis, (as well as the discussion section). You may have already completed this as a part of your Data analysis chapter, but if you haven't please do it now. We ask you to compare two published papers against some of the qualitative report ILOs. 
+[Complete this activity](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUiKwKgdqr1CsLeOxy5O42kBGNLxmbdeTqANFRu0caPcBA?e=BpEpBb){target="_blank"} to improve your evaluation for your thematic analysis (as well as the discussion section). You may have already completed this as a part of your Data analysis chapter, but if you haven't please do it now. We ask you to compare two published papers against some of the qualitative report ILOs. 
 
 
 ### Activity 2: Going deeper in your analysis
 
 One of the characteristics of a strong analysis section is that the writer demonstrates an ability to go beyond paraphrasing/summarising. This activity is designed to help you understand what might be involved in doing so. 
 
-Read the following two extracts from an Analysis section and discuss these questions:
+Read the following two extracts from the Analysis section of an imaginary study on homesickness among first-year international students. Both extracts use the same quotes from the same participants. Think about these questions (or discuss them, if you are working with others):
 
-1. Which of the two examples is better? Why?
-2. What have the authors done that makes the analysis better?
+1. Which of the two extracts is better? Why?
+2. What has the author done that makes the analysis better?
 
 
 ::: {.callout-note icon=false}
 
-## Extract 1 - from a study about the impact of the COVID pandemic
+## Extract 1
 
-Sarah spoke of using her leisure time to plan and fantasise about her wedding: 
+**Theme 1: "Sometimes I think it makes it worse": the cost of staying in touch**
 
-*“it’s enough of a fantasy… it’s meant to be stressful, but it’s really just been fun. It’s like such a nice break from this humdrum life we’re living in right now” (Sarah: lines 459-461).*
+Staying in touch with family was something participants valued, but it did not always make them feel better. Mei described calling her mum every night:
 
-Organising a significant life event seems to be viewed as granting Sarah an escape from her current monotony. While she refers to it as a “fantasy”, potentially given uncertainty of the pandemic’s progression, she appears to perceive this as constructive and realistic for her future self. Alternately, Mandy’s leisure activity involved impossible daydreams:
+*"I call my mum every night, like every single night. It's the best part of the day, but then I hang up and the flat is so quiet. Sometimes I think it makes it worse." (Mei)*
 
-*“I started daydreaming more ridiculous stuff... I know it’s never going to come true ‘cause it’s not real, but it still entertains me” (Mandy: lines 443-444)*
+Mei's correction to "every single night" suggests that the call has become an important routine for her. However, she sets "the best part of the day" against how quiet the flat is once she hangs up. It seems that the call makes home feel close for a while, but that ending it leaves her more aware of being on her own. Tomás appeared to deal with this differently. Rather than keeping in close contact, he had started to step back:
 
-While Mandy seems to be under no illusion that her daydreams are feasible, daydreaming impossible scenarios appears to provide more of a release than realistic situations that are subject to ever changing government regulations (e.g. travel bans) that may fall through.
+*"I stopped checking the family group chat so much. They're all at my cousin's birthday and I'm here eating pasta on my own. It's easier if I don't see it." (Tomás)*
+
+The picture of Tomás eating pasta on his own while his family celebrate seems to capture how left out he felt. Checking the group chat less could be interpreted as avoidance, although Tomás presents it as the easier option, perhaps as a way of coping while he settles in. For both participants, contact with home seemed to involve weighing up the comfort it brought against the reminder of what they were missing.
 :::
 
 
 ::: {.callout-note icon=false}
 
-## Extract 2 - from a study about social media use during the pandemic
+## Extract 2
 
-Some participants said it was difficult to fall asleep at night, including those who knew they should fall asleep but could not (*"if I can't stay up and can't sleep "- Sarah*), or participants subjectively thought that they did not need sleep or did not want to fall asleep (*"I am not really able to sleep at night, or like, sleep isn't really needed."* -Andrew)
+**Theme 1: Contact with home**
 
-Participants said that they used social media but that it was only positive at certain points:
+Participants talked about contacting their families. Mei said that she calls her mum every night:
 
-*I feel like TikTok was fun in the first lockdown during the summer,'cause of all this summer content I guess, but after that it really went downhill. I don't know like, OK personally I deleted all my apps about three weeks ago* (John)
+*"I call my mum every night, like every single night. It's the best part of the day, but then I hang up and the flat is so quiet. Sometimes I think it makes it worse." (Mei)*
 
-John tells us here that he deleted all his apps, because they all went ‘downhill’. Tik Tok was helpful during the first lockdown, but not after it.
+Mei calls her mum every night and says this is the best part of her day. However, she also says that the flat is quiet after she hangs up and that the calls sometimes make it worse. Some participants did not contact home as much. For example, Tomás said:
+
+*"I stopped checking the family group chat so much. They're all at my cousin's birthday and I'm here eating pasta on my own. It's easier if I don't see it." (Tomás)*
+
+Tomás stopped checking the family group chat because his family were at his cousin's birthday and he was eating pasta on his own. He said it was easier if he did not see it. This shows that participants had different experiences of contacting home.
 :::
 
 
@@ -164,11 +171,21 @@ John tells us here that he deleted all his apps, because they all went ‘downhi
 
 ## Show me the answer
 
-Example 1 (COVID):  
-This is the better example, because it goes beyond paraphrasing. The researcher is analysing the quotes and have engaged with the meaning behind the words. Each quote is selected in a way that helps the author build a narrative of what is happening in the data 
+This is one possible answer – you may have noticed other things too.
 
-Example 2 (sleep): 
-This is the weaker example, because the author just paraphrases what the participants say. This ends up not adding any real value in terms of analysis, because the reader could just read the quote. The narrative needs to analyse the data and show the reader why they interpret something in a particular way.  
+**Extract 1 is the stronger analysis.** The author:
+
+  * names the theme after a pattern of shared meaning (that staying in touch with home comes at a cost), rather than a topic
+  * interprets each quote, saying what it might mean rather than repeating what was said – for example, picking up the contrast between "the best part of the day" and the quiet flat
+  * makes clear when something is an interpretation ("suggests", "appeared to", "could be interpreted as"), and chooses quotes that let the reader see why
+  * links the two participants, showing how each manages the same tension in a different way, so the extract builds a narrative instead of listing quotes
+  * ends by saying what the theme tells us about homesickness
+
+**Extract 2 is the weaker analysis**, even though it uses exactly the same quotes. The author:
+
+  * gives the theme a topic name ("Contact with home"), so it reads as a topic summary (everything participants said about one topic)
+  * paraphrases the quotes, which adds nothing the reader could not get from reading the quotes themselves
+  * ends with a conclusion ("participants had different experiences") that could be written about almost any data set, so it does not tell the reader anything about this one
 :::
 
 
@@ -178,19 +195,19 @@ In this section, we aim to provide some guidance about how to go beyond descript
 you can apply this to other types of writing. In particular, it should be helpful for you as you proceed to your dissertation.
 
 ### What were your findings?
-In your discussion section, start off by telling us what you found in your analysis. However, the key thing to think about here, in terms of evaluation, is to relate your findings to the wider research. It will be likely a good idea to consider on a theme by theme basis (if you are doing themes with no sub-themes) or on a subtheme basis (if you have one theme with 2-3 subthemes).
+In your discussion section, start off by telling us what you found in your analysis. However, the key thing to think about here, in terms of evaluation, is to relate your findings to the wider research. It is likely to be a good idea to consider them on a theme-by-theme basis (if you are doing themes with no sub-themes) or on a sub-theme basis (if you have one theme with 2–3 sub-themes).
 
 **Some things to consider:**
   
   * What did you find? What was your specific contribution?
   * Thinking about your findings, what are the similarities and differences from other research findings/theory? Why might this be the case?
-  * Situate your findings within the broader context  - tell the reader about why your findings are important. This can help a reader understand the importance of the results.
+  * Situate your findings within the broader context – tell the reader about why your findings are important. This can help a reader understand the importance of the results.
   * Do your findings challenge existing research? If so, in what way? 
   * Can you bring in any critical thinking?
   
 #### Activity 1
 
-Read the paragraphs below from [Crompton et al., (2020)](https://journals.sagepub.com/doi/full/10.1177/1362361320908976?fbclid=IwAR0tMsMbmeATwp5RpoKA-yqUr3QzyHuBSuy00uMAvlqZepaS4Pv_48VgQjA){target="_blank"} and think about what the authors are communicating, with a view to considering the points above.
+Read the paragraphs below from [Crompton et al. (2020)](https://journals.sagepub.com/doi/full/10.1177/1362361320908976?fbclid=IwAR0tMsMbmeATwp5RpoKA-yqUr3QzyHuBSuy00uMAvlqZepaS4Pv_48VgQjA){target="_blank"} and think about what the authors are communicating, with a view to considering the points above.
 
 In particular, identify:
 
@@ -241,14 +258,14 @@ There are a number of potential clinical applications for the findings detailed 
 
 ### Limitations
 
-All research will have limitations  - there is never going to be a perfect study. Research is about weighing up the options and choosing the best design for the specific question we want to answer. Remember that qualitative research is not automatically limited because it is not quantitative. Therefore, be very careful not to use criteria we have for quantitative studies (e.g. generalisability, reliability, small sample sizes) and apply them to qualitative studies. Doing so would be similar to critiquing a behavioural study for not asking participants about their experience of interacting with the stimuli ;)
+All research will have limitations – there is never going to be a perfect study. Research is about weighing up the options and choosing the best design for the specific question we want to answer. Remember that qualitative research is not automatically limited because it is not quantitative. Therefore, be very careful not to use criteria we have for quantitative studies (e.g. generalisability, reliability, small sample sizes) and apply them to qualitative studies. Doing so would be similar to critiquing a behavioural study for not asking participants about their experience of interacting with the stimuli ;)
 
 **Some things to consider:**
 
   * Do you think the quality, source, or types of data (or the analytic process) might have affected the methodological integrity in some way? If so, how?
   * Remember to link your limitations to the evidence base. This makes your argument much stronger than if you do not cite to back your points up.
   * If you want to mention generalisability, perhaps consider the concept of transferability instead, which is much more relevant to qualitative.
-  * Try to aim for depth rather than breadth here - it's much stronger to have two points addressed comprehensively than have 12 limitations, each covered in a single sentence (you don't want to make your discussion section a limitations-fest!).
+  * Try to aim for depth rather than breadth here – it's much stronger to have two points addressed comprehensively than have 12 limitations, each covered in a single sentence (you don't want to make your discussion section a limitations-fest!).
   
   
 #### Activity 3
@@ -263,7 +280,7 @@ In particular, identify:
   
 ::: {.callout-note icon=false}
 
-## Study 3: Toivo et al., 2019
+## Study 3: Toivo & Scheepers, 2019
 
 One concern might be that we did not explicitly control for L2 proficiency in our sample of bilinguals, which is likely to affect cognitive effort in processing L2. However, all of our bilingual participants (a) self-reported to be highly proficient in English, (b) were Glasgow University students using English as their language of study, and (c) had been living in an English-speaking country for minimum of three months (average: two years and four months) when the study was conducted. Together with the fact that post-trial word recognition rates were well above 90% across participant groups and conditions (Fig 2), we do not believe that variation in L2 proficiency was large enough to have a major impact on our results. That said, we agree that proficiency should ideally be controlled for in future research, e.g. by adding a suitable measure as another person-specific covariate in the analyses. Previous research had identified proficiency as a potential mediating factor of perceived emotionality in the Bilingualism and Emotions Questionnaire [50], and it had also been suggested that bilinguals with close-to-native proficiency in L2 show similar affective processing in L1 and L2 [19].
 

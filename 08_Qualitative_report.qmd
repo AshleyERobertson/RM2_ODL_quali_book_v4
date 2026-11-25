@@ -1,14 +1,14 @@
 # Qualitative report {#ch8_qualitative_report}
 
-In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the Assessment Information (provided in the Assessment Section in moodle) before starting to work on the report. We have also provided a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQM2Fzsi0FJAlDKTJXgi7-8Brm7ITIBw5ta3MaXSiDZfrg?e=FMLoM4){target="_blank"} for the qualitative report and portfolio
+In this section, you will find information and guidance about your qualitative report and a report writing guide. Please make sure to familiarise yourself with the Assessment Information (provided in the Assessment section on Moodle) before starting to work on the report. We have also provided a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQADNhc7ItBSQJQykyV4Iu_vAa5uyEyAcObWtzGl0og2X64?e=1sbP7r){target="_blank"} for the qualitative report and portfolio.
 
-For this assignment, you will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle - please make sure to watch this. We provide guidelines on the report [later in this chapter](#qual_report_guide)
+For this assignment, you will be asked to write an individual qualitative report on one of five secondary data topics. You should conduct Thematic Analysis on your chosen dataset. A video on the Qualitative report will be provided on Moodle – please make sure to watch this. We provide guidelines on the report [later in this chapter](#qual_report_guide).
 
-## Report datasets and how to use UK data service
+## Report datasets and how to use UK Data Service
 
-Before accessing your datasets, watch [this video](https://echo360.org.uk/media/ac815f47-bb97-40cc-8c34-d82d74e4bb0e/public){target="_blank"} on how to use UK data service. It shows you an example of how to download the data with one of the datasets. Please note that some of the datasets are on sensitive topics, and contain information that may be upsetting: make sure to familiarise yourself with the interview schedules and have a quick scan of the data before you decide which dataset to work with. 
+Before accessing your datasets, watch [this video](https://echo360.org.uk/media/ac815f47-bb97-40cc-8c34-d82d74e4bb0e/public){target="_blank"} on how to use UK Data Service. It shows you an example of how to download the data with one of the datasets. Please note that some of the datasets are on sensitive topics, and contain information that may be upsetting: make sure to familiarise yourself with the interview schedules and have a quick scan of the data before you decide which dataset to work with. 
 
-[The UK data service can be accessed here](https://beta.ukdataservice.ac.uk/myaccount/login){target="_blank"}
+[The UK Data Service can be accessed here](https://beta.ukdataservice.ac.uk/myaccount/login){target="_blank"}
 
 You can choose one of the five available datasets: 
   
@@ -18,19 +18,19 @@ You can choose one of the five available datasets:
   4. [Patient descriptions of PMS](https://datacatalogue.ukdataservice.ac.uk/studies/study/855486?type=reshare#details){target="_blank"}
   5. [Student experiences of loneliness and social connectedness](https://datacatalogue.ukdataservice.ac.uk/studies/study/856114?type=reshare#details){target="_blank"}
  
-Please note that some of the datasets may include pre-existing coding in the data folder, or published analyses; you should **not** use these as it will classify as academic misconduct; you are expected to develop the full analysis yourself. 
+Please note that some of the datasets may include pre-existing coding in the data folder, or published analyses; you should **not** use these, as this will count as academic misconduct; you are expected to develop the full analysis yourself. 
 
 ## Developing a research question
 
-As part of writing up your qualitative report, we ask that you develop a research question to help you guide your enquiry. Below, we have some guidance on how to get started. 
+As part of writing up your qualitative report, we ask that you develop a research question (RQ) to help you guide your enquiry. Below, we have some guidance on how to get started. 
 
 ### Getting started with the data
 
-For this report, you are using secondary data. This means that the data have already been collected - before you start thinking about your research question, have a look at the interviews to see what was asked in the interviews. Usually, most interviews are semi-structured. This means that there are likely to be some questions asked consistently, but there will also be differences, depending on the responses by the participants. 
+For this report, you are using secondary data. This means that the data have already been collected – before you start thinking about your research question, have a look at the interviews to see what was asked in the interviews. Usually, most interviews are semi-structured. This means that there are likely to be some questions asked consistently, but there will also be differences, depending on the responses by the participants. 
 
-Looking at the data before you decide on your RQ might feel a bit strange after RM1, but remember that you are not doing hypothesis-testing with qualitative designs - it is quite normal for a qualitative research question to change during the research process, and this is completely fine as you are not statistically testing for a specific effect.
+Looking at the data before you decide on your RQ might feel a bit strange after RM1, but remember that you are not doing hypothesis-testing with qualitative designs – it is quite normal for a qualitative research question to change during the research process, and this is completely fine as you are not statistically testing for a specific effect.
 
-Be mindful that you are not making a research question that is actually one of the interview questions - your RQ should be broader than an interview question.
+Be mindful that you are not making a research question that is actually one of the interview questions – your RQ should be broader than an interview question.
 
 One of the most common mistakes that students make when framing their research question in RM2 is that it is a little too 'quant' in nature. This makes perfect sense, as most of your research methods education so far in the programme has been focused on quant! However, for your qual report, your RQ should be a little different to the RQs you are used to. 
 
@@ -44,17 +44,17 @@ Both questions are a bit too quantitative in nature (i.e. 1 is causal and 2 is a
 We'd perhaps rephrase these as follows:
 
 1.  What are students' perceptions of the relationship between sleep and wellbeing?
-2. What are online conversion students' experiences of belonging to University? How do these experiences relate to perceived wellbeing?
+2. What are online conversion students' experiences of belonging to university? How do these experiences relate to perceived wellbeing?
 
-These questions are now a bit more in line with qualitative and are specific about what they are asking in each (and also what the group of interest is). The second one covers a bit more than the first, which is why it is split into two (a main RQ and a subsidiary one)
+These questions are now a bit more in line with qualitative and are specific about what they are asking in each (and also what the group of interest is). The second one covers a bit more than the first, which is why it is split into two (a main RQ and a subsidiary one).
 
 ### Some tips for developing a research question
 
   * **Communication:** Keep your research question simple and specific. If you have a very broad question, it can be helpful to break the question down into smaller sub-questions.
-  * **Type of question:**  We want the RQ to tap in to more than ‘descriptive’ experience but also offer scope to explore the ‘how’ and ‘why’ of psychological experience–Is the question asking about experiences, understanding, accounts of practice, or influencing factors?  
-  * **Practical constraints:** Can the question realistically be explored using thematic analysis and using secondary data? Try not to cover too much
-  * **Guiding:** Remember that your RQ guides your enquiry but shouldn't be restrictive  - it's not the case that you are unable to report themes that don't directly answer your RQ. 
-  * **Flexibility:** Research questions are more flexible than hypotheses-it is acceptable for the focus of the RQ to be refined during/after data collection.
+  * **Type of question:** Think about the type of knowledge you want (see [Chapter 1](01_Qualitative_designs.qmd)): what happened, what someone's experience was, or how a situation was described. Ask about experiences, views, understandings or accounts, and avoid questions about causes or differences between groups. Your RQ should also leave room to interpret what participants say, not only to describe it.
+  * **Practical constraints:** Can the question realistically be explored using thematic analysis and using secondary data? Try not to cover too much.
+  * **Guiding:** Remember that your RQ guides your enquiry but shouldn't be restrictive – it's not the case that you are unable to report themes that don't directly answer your RQ. 
+  * **Flexibility:** Research questions are more flexible than hypotheses – it is acceptable for the focus of the RQ to be refined during analysis.
   
 ### Formative feedback on your RQ
 
@@ -66,14 +66,14 @@ If you would like to discuss your RQ, you can also attend Ashley's and Wil's off
 
 Once you have developed your research question, you should choose the interviews you are going to analyse for the report. Some of the datasets are really big and involve multiple components (see the qualitative report video for further guidance on the datasets).
 
-  * **You should use a maximum of 2-3 interviews for your analysis**
+  * **You should use a maximum of 2–3 interviews (or focus groups) for your analysis**
   * If you are working with the couples dataset, you can do 4 interviews if you want to do two couples
   * If you are working with the couples dataset, do not use the collage interviews
   * If you are working with the LGBT dataset, only use interview data for your report
   * If you are working with the PMS dataset, only use patients' interviews (the expert interviews do not lend themselves to the type of qualitative analysis we ask you to do)
   * If you work with the student loneliness dataset, only use the focus group data
  
-There is no one protocol for choosing your interviews. Sometimes you may choose depending on which interviews have the most/richest data about your specific RQ (as the datasets are suited for a large number of different RQs), or in other cases you may choose the interviews based on particular demographics (if this is a part of your RQ, for example, looking specifically at carers', mothers', or men's perspectives). We recommend scanning through multiple interviews to gauge which ones might work best for your particular RQ (do not summarise them with AI - the datasets are from real research participants and should not be uploaded to any AI platforms). You will be asked to report your data selection process in the methods of your report.  
+There is no one protocol for choosing your interviews. Sometimes you may choose depending on which interviews have the most/richest data about your specific RQ (as the datasets are suited for a large number of different RQs), or in other cases you may choose the interviews based on particular demographics (if this is a part of your RQ, for example, looking specifically at carers', mothers', or men's perspectives). We recommend scanning through multiple interviews to gauge which ones might work best for your particular RQ (do not summarise them with AI – the datasets are from real research participants and should not be uploaded to any AI platforms). You will be asked to report your data selection process in the Method section of your report.  
 
 ## Qualitative report guide {#qual_report_guide}
 
@@ -81,12 +81,12 @@ This guide is intended to help you in the write up of your qualitative project r
 
   * Your feedback for your RM1 report
   * Chapter 13 in [Braun & Clarke (2013)](https://go.exlibris.link/5g3nFfGx){target="_blank"} is excellent support for writing up qualitative research
-  * [Braun & Clark (2021) book](https://go.exlibris.link/Z9qxllzH){target="_blank"}
-  * All the resources available in this book (particularly sections for [8. Data analysis](#ch8_data_analysis) and [11. Academic writing](#c11_writing)
-  * **25/26 cohort reading list:**: [Published articles that use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/30BEDB96-5F9D-9F9E-630A-205B91FA34AB.html?lang=en-GB#B226C8C1-1926-8328-A8A3-06DC389D9809){target="_blank"}
+  * [Braun & Clarke (2021) book](https://go.exlibris.link/Z9qxllzH){target="_blank"}
+  * All the resources available in this book (particularly [Chapter 4: Data analysis](04_Data_analysis.qmd) and [Chapter 7: Academic writing](07_Academic_writing.qmd))
+  * **Reading list:** [Published articles that use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/30BEDB96-5F9D-9F9E-630A-205B91FA34AB.html?lang=en-GB#B226C8C1-1926-8328-A8A3-06DC389D9809){target="_blank"}
   * [A helpful resource for APA formatting is OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
   
-Use [the assessment criteria](#ch4_AIS_report) as a checklist before you submit the report, to ensure you have addressed all points.  If you have questions post on Teams and/or visit our office hours.  All the best in writing your report.
+Use the assessment criteria (in the Assessment Information on Moodle) as a checklist before you submit the report, to ensure you have addressed all points. If you have questions, post on Teams and/or visit our office hours.  All the best in writing your report.
 
 ### Required Submissions
 
@@ -103,26 +103,27 @@ Two separate submissions are required for this report:
     - Appendices (does not count towards word limit)
    
     
-- **Submission 2** should contain the required information about the process of your analysis, using the template  provided. Submission 2 does not count towards the word limit. Please note that Phase 6 is not included as this is what you include in your Analysis section
+- **Submission 2** should contain the required information about the process of your analysis, using the template provided. Submission 2 does not count towards the word limit. Please note that Phase 6 is not included, as this is what you include in your Analysis section.
     - Phase 1 (Familiarisation)
-    - Phase 2 (Doing Coding)
+    - Phase 2 (Coding)
     - Phase 3 (Generating Initial Themes)
     - Phase 4 (Developing and Reviewing Themes)
     - Phase 5 (Refining, Defining and Naming Themes)
+    - Your coded transcripts
 
 
 ### Submission 1: The Qualitative Report
 
 #### General writing style
 
-- Your writing should be clear, concise and easy to follow - remember that academic writing does not need to be complicated to be good. One tip is to [use word to read your report back to you](https://support.microsoft.com/en-gb/office/listen-to-your-word-documents-5a2de7f3-1ef4-4795-b24e-64fc2731b001){target="_blank"} – sometimes it’s easier to hear where a point may be overly complex or long and where you might want to cut it down.
+- Your writing should be clear, concise and easy to follow – remember that academic writing does not need to be complicated to be good. One tip is to [use Word to read your report back to you](https://support.microsoft.com/en-gb/office/listen-to-your-word-documents-5a2de7f3-1ef4-4795-b24e-64fc2731b001){target="_blank"} – sometimes it’s easier to hear where a point may be overly complex or long and where you might want to cut it down.
 
 - Maintain a neutral, academic tone throughout. Avoid a ‘journalistic’ tone, where you convince the reader based on using emotive language. Instead, show the reader why you think the way you do and the evidence base that underlies this.
 
 - Discuss one idea/argument per paragraph. An excellent resource to help with this is the [reverse outline](https://explorationsofstyle.com/2011/02/09/reverse-outlines/){target="_blank"}.
 
 - You should format your headings, in-text citations and references in APA 7th style. 
-- APA writing style encourages the use of active voice (“I coded the data” rather than “the data were coded”) but if you feel more comfortable writing in passive voice, feel free to do so - just make sure to be consistent throughout and be careful not to make your writing overly complex.
+- APA writing style encourages the use of active voice (“I coded the data” rather than “the data were coded”) but if you feel more comfortable writing in passive voice, feel free to do so – just make sure to be consistent throughout and be careful not to make your writing overly complex.
 
 - Tenses are not always fixed per se (as it depends on how a sentence is structured). However, generally, the following applies – past tense should be used when you have done something already (like your study). For example, we would usually see past tense in the Methods (unless doing a registered report) and the Analysis section. When talking about papers that are already published (in the Intro and Discussion), again these would typically be in past tense. 
 
@@ -131,7 +132,7 @@ Two separate submissions are required for this report:
 
 #### Title
 
-The title should be included as part of the cover page. It should reflect the research question(s) and define your sample (e.g., UG students experience of…). Try to be specific - your title should include: 
+The title should be included as part of the cover page. It should reflect the research question(s) and define your sample (e.g., undergraduate students' experiences of…). Try to be specific – your title should include: 
 
   * Who
   * What 
@@ -139,14 +140,14 @@ The title should be included as part of the cover page. It should reflect the re
 
 **Examples:**
 
-  * A Thematic Analysis *(how)* of the panic attack experiences *(what)* of primary aged children in inner city Schools in the UK *(who)*
+  * A Thematic Analysis *(how)* of the panic attack experiences *(what)* of primary aged children in inner city schools in the UK *(who)*
   * Barriers and enablers to modifying sleep behaviour *(what)* in adolescents and young adults *(who)*: A qualitative investigation *(how)*
 
-#### Abstract (suggested word count: 100-150 words)
+#### Abstract (suggested word count: 100–150 words)
 
 In an academic journal, the function of an abstract is to give readers a snapshot of the whole paper. They then use this to decide whether or not to read the full article. Therefore, you should make sure you cover all four main sections of your report, summarising them all succinctly.
 
-Aim to summarise all sections of the report in 150 words, including;  1) what does the existing literature tell us about the topic 2) aim of the study 3) brief methodology, 4) approach to analysis , 5) main findings, and 6) key aspects of the discussion. Keep in mind that you are summarising your research for a non-expert and you want to “entice” them to read more.
+Aim to summarise all sections of the report in 100–150 words, including: 1) what does the existing literature tell us about the topic 2) aim of the study 3) brief methodology, 4) approach to analysis, 5) main findings, and 6) key aspects of the discussion. Keep in mind that you are summarising your research for a non-expert and you want to “entice” them to read more.
 
 ::: {.callout-warning icon=false}
 ## Tips
@@ -154,17 +155,17 @@ Aim to summarise all sections of the report in 150 words, including;  1) what do
 - One common mistake is to ignore the discussion, saying something like 'Findings are discussed in relation to existing research'. This doesn't tell us anything about what your overarching thoughts are about your findings and how they relate to the literature base.
 :::
 
-#### Introduction (suggested word count 750-850 words)
+#### Introduction (suggested word count: 700–800 words)
 
-Some activities to support you with writing your Analysis section can be found in [Chapter 11](#eval_intro).
+Some activities to support you with writing your Introduction can be found in [Chapter 7](07_Academic_writing.qmd#eval_intro).
 
 The introduction should give readers enough background to understand your rationale for further research, whether your study is qualitative or quantitative. Provide a clear, critical review of the most relevant published research and highlight the key issues and debates in the field. Use these to build a logical argument for your study.
 
 Follow the APA-style funnel structure: begin with a broad overview of the topic, then narrow the focus until you reach your specific rationale and research question(s).
 
-Because your word count is limited, focus on recent and directly relevant studies—especially the latest qualitative research in this specific area. Show how your project builds on the most recent work to strengthen your rationale. Remember to cite all sources used, including government reports, websites, and media items.
+Because your word count is limited, focus on recent and directly relevant studies, especially the latest qualitative research in this specific area. Show how your project builds on the most recent work to strengthen your rationale. Remember to cite all sources used, including government reports, websites, and media items.
 
-A resource for helping you to develop evaluation in your introductions can be found at the start of [Chapter 11](#ch11_writing).
+A resource for helping you to develop evaluation in your introductions can be found at the start of [Chapter 7](07_Academic_writing.qmd).
 
 ```{r img-intro, echo=FALSE, fig.cap="Broad-to-narrow structure of an introduction"}
 knitr::include_graphics("images/intro.png")
@@ -172,7 +173,7 @@ knitr::include_graphics("images/intro.png")
 You should end with a statement of what the aim of your study was, and the research question.
 
 
-When reviewing previous studies, don't just describe them - evaluate them. Highlight their limitations, but only those your study can realistically address. Consider what the findings mean, note any conflicting results, and think about why they differ. This should naturally build toward a clear rationale for your own study.
+When reviewing previous studies, don't just describe them – evaluate them. Highlight their limitations, but only those your study can realistically address. Consider what the findings mean, note any conflicting results, and think about why they differ. This should naturally build toward a clear rationale for your own study.
 
 Then, explain your study and clearly state your research question(s), ensuring they connect directly to the issues raised in your introduction.
 
@@ -191,7 +192,7 @@ Remember: just like in a quantitative report, this section shows what has been d
 
 :::
 
-#### Method (suggested word count 350-450 words)
+#### Method (suggested word count: 350–450 words)
 
 The aim of the method section is to clearly report how your study was conducted – the reader should be able to re-run your research from the details provided. In this case, contextualise the original study that your secondary data are from, report details of the original data collection, explain your process of refining and selecting the data used for your project, and describe the qualitative analysis you used. True ‘replication’ is difficult due to the central role of the researcher in influencing some aspects of the research such as analysis. This is not an experiment.
 
@@ -201,9 +202,9 @@ Follow these subheadings for your method section for this report:
 
 In this section you should describe the original study and give the reader context about their data collection. Understanding the specific context of each study is a key element of qualitative research, which is why it is really important for you to explain that in order for your secondary analysis to be reported openly.
 
-What was the original study about? Who conducted it? Where are the data available? You should cite your chosen dataset in APA style (do not provide a link in text) - each dataset has this information on the UK data service page under the Citation and copyright section. How many interviews did they conduct, what was the methodology they used for the interviews (you should find this information on the UK Data Service page for your chosen data set)? Who were their participants? What were the participants asked about?
+What was the original study about? Who conducted it? Where are the data available? You should cite your chosen dataset in APA style (do not provide a link in text) – each dataset has this information on the UK Data Service page under the Citation and copyright section. How many interviews did they conduct, what was the methodology they used for the interviews (you should find this information on the UK Data Service page for your chosen data set)? Who were their participants? What were the participants asked about?
 
-If you have demographic information about the participants on the UK Data Service Website, you may wish to include this, but don’t worry if your chosen dataset doesn’t provide this - we don’t expect you to report any information that was not available to you.
+If you have demographic information about the participants on the UK Data Service Website, you may wish to include this, but don’t worry if your chosen dataset doesn’t provide this – we don’t expect you to report any information that was not available to you.
 
 **Data selection**
 
@@ -213,50 +214,52 @@ In this section you should describe your procedure for choosing your final data 
 
 The information you are able to provide in this section will depend on the information made available within the dataset. Some things you might want to comment on include: anonymisation procedures (e.g. has information been replaced or redacted), rapport building, information/consent/debrief, consent as a process. You will only be able to include information that has been made available in the dataset, so do not worry if you do not know a lot of detail.
 
+You could also comment on how you handled the data yourself, for example by following the UK Data Service's conditions for using the data and not putting the data into generative AI tools.
+
 **Reflexivity**
 
-In qualitative research it is important to acknowledge the role of the researcher in interpretation of the data [(Elliot et al., 1999)](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466599162782){target="_blank"}. 
+In qualitative research it is important to acknowledge the role of the researcher in interpretation of the data [(Elliott et al., 1999)](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466599162782){target="_blank"}. 
 
-This is where you question your own motives and attitudes in doing this project. Obviously we told you that you had to do it. But, what motivated you to choose the dataset you did? What assumptions did you hold prior to beginning the research? Had you considered issues around the topic previously? Did they match what the interviews say,  or did you disagree with them? Did this affect which interviews you chose to include in your analysis? And if so, how did this impact on your analysis? Because different people would interpret the data differently, it is useful for you to expose your own attitudes at this point so that others can see how you have impacted on the analysis. 
+In this section, you evaluate how you shaped the research process. Start briefly with your position: what motivated you to choose this dataset (apart from us telling you to do the project), and what assumptions or experiences did you bring to the topic? Then focus on how these affected the decisions you made. For example, did they affect which interviews you chose, what you noticed and coded, or how you developed and named your themes? Did anything in the data surprise you or challenge your assumptions, and what did you do about it? Different researchers would interpret the same data differently. Your subjectivity is part of the analysis, so show the reader how it shaped your decisions.
 
-See Braun & Clarke (2013, pp36-37, 303-304) and activities around reflexivity. Reflexive analysis should be concise for this project, perhaps around 3-4 sentences. However, you will also have to include a [reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} as a part of your appendices.
+See Braun & Clarke (2013, pp. 36–37, 303–304) and the [reflexivity activities in Chapter 5](05_Ethics_rigour_reflexivity.qmd#ch5_reflexivity). Activity 3 (Section 2: Your position in relation to your dataset) is about working with data that someone else collected. Reflexive analysis should be concise for this project, perhaps around 3–4 sentences. However, you will also have to include a reflexivity diary as a part of your appendices.
 
 **Data Analysis**
 
 In this section, explain:
 
-- What analysis method you used and your theoretical approach (see the 'Thinking about theory' mini-lecture for a reminder).
-- The stages of your qualitative analysis. Be clear and specific - qualitative work is sometimes criticised for being vague. Use recognised guidelines (e.g., Smith for IPA; Braun & Clarke for Reflexive Thematic Analysis).
+- What analysis method you used and your theoretical approach: the type of knowledge you aimed to produce (realist, phenomenological or social constructionist). See [Chapter 1](01_Qualitative_designs.qmd), Activity 3: Thinking about theory, for a reminder.
+- The stages of your qualitative analysis. Be clear and specific – qualitative work is sometimes criticised for being vague. Use recognised guidelines (e.g., Braun & Clarke for Reflexive Thematic Analysis).
 
 When outlining the stages:
 
 - Give a brief summary of the full process, linked to the relevant framework (e.g., RTA). Around three to four sentences total is enough for this length of report.
-- You can keep some phases short (e.g., “familiarisation with the data (Phase 1);  generating codes (Phase 2)…”).
-- Aim for transparency - explain what happens between coding and theme development.
-- Describe the researcher as actively identifying themes, not waiting for themes to “emerge,” which incorrectly suggests they are already there waiting to be found.
+- You can keep some phases short (e.g., “familiarisation with the data (Phase 1); generating codes (Phase 2)…”).
+- Aim for transparency – explain what happens between coding and theme development.
+- Describe the researcher as actively developing themes, not waiting for themes to “emerge,” which incorrectly suggests they are already there waiting to be found.
 
 ::: {.callout-warning icon=false}
 
 ## Tips
 
 - In the methods section, try to be precise and succinct in your writing (this applies to the whole report, but is particularly important here). Think about what the reader needs to know and how to best communicate this.
-- Common errors include inaccurate information (e.g. the wrong number of Phases in Braun & Clarke’s framework) and a superficial reflexivity section.
+- Common errors include inaccurate information (e.g. the wrong number of phases in Braun & Clarke’s framework) and a superficial reflexivity section.
 
 :::
   
-#### Analysis (suggested word count: 750-900 words)
+#### Analysis (suggested word count: 750–850 words)
 
-Some activities to support you with writing your Analysis section can be found in [Chapter 11](#eval_analysis).
+Some activities to support you with writing your Analysis section can be found in [Chapter 7](07_Academic_writing.qmd#eval_analysis).
 
 The analysis section is where you present the evidence you’ve collected. It works like a Results section in a quantitative report.
 
-Your goal is to make the analysis transparent, showing clearly how your interpretations come from the transcripts. Use extracts from the transcripts to support all quotes and interpretations. 
+Your goal is to make the analysis transparent, showing clearly how your interpretations come from the transcripts. Use extracts from the transcripts to support your interpretations. 
 
-Please note that some of the datasets include pre-existing coding; you should **not** use these as it will classify as academic misconduct; you are expected to develop the full analysis yourself through the six phases.
+Please note that some of the datasets include pre-existing coding; you should **not** use these, as this will count as academic misconduct; you are expected to develop the full analysis yourself through the six phases.
 
 **Guidelines**
 
-- Choose a maximum of two themes or one theme with two sub-themes to include in the Analysis section, even if you found more. You will not be able to go into enough depth if you present more themes than this, due to the word count restrictions. 
+- Report either two themes (no sub-themes) or one theme with 2–3 sub-themes in the Analysis section, even if you found more. You will not be able to go into enough depth if you present more themes than this, due to the word count restrictions. 
 - If you want to use parts of a quote, rather than the full quote (e.g. maybe you want to remove the middle sentence, which doesn’t add anything), you can indicate you omitted something with ellipses. 
 - Never alter any of the words or phrasing that is used, even if you think you know what the participant was going to say. This would be as unacceptable as editing numbers in a quantitative analysis! 
 - Try to strike a balance between quotes and interpretation. We sometimes see lots of quotes with very little analysis or lots of analysis with very few quotes, both of which have problems.
@@ -266,7 +269,7 @@ Please note that some of the datasets include pre-existing coding; you should **
 
 ## Generative AI and data
 
-Do not, **under any circumstances**, put the transcripts or quotes from the transcripts into GenerativeAI (this includes CoPilot). This will not have been agreed as part of the original ethics and participants will not have consented for this use of the data. 
+Do not, **under any circumstances**, put the transcripts or quotes from the transcripts into generative AI (this includes Copilot). This will not have been agreed as part of the original ethics and participants will not have consented for this use of the data. 
 
 Failing to follow these instructions puts you at risk of academic and research misconduct. 
 
@@ -274,21 +277,21 @@ Failing to follow these instructions puts you at risk of academic and research m
 
 **Structuring the Analysis section**
 
-- Start with a short paragraph summarising the main themes **without** using any quotes. This should not be too long - perhaps around a sentence or two.
+- Start with a short paragraph summarising the main themes **without** using any quotes. This should not be too long – perhaps around a sentence or two.
 - If you have two themes:
     - Present each theme using a sub-heading
     - Give the reader a brief overview of what the theme is. It is likely that you will have to select a few key points that encapsulate your theme, rather than describe everything in your theme in detail. For a dissertation, where you have more available word count, you will be able to cover more.
     - Once you’ve introduced the theme, tell the reader about what you found in your analysis of this theme. Make sure to incorporate quotes to support your analytical points.
-- If you have one theme and two sub-themes:
+- If you have one theme and 2–3 sub-themes:
     - Have sub-headings for the overall theme as well as the sub-themes.
     - Briefly explain the overarching theme and then how the sub-themes relate to the larger theme. Do not present quotes at this point.
     - Then, present each of the sub-themes in turn, under sub-headings. In each of these, tell the reader what you found in the analysis of your theme and incorporate quotes to support your analytical points.
 
 **Presenting Quotes**
 
-Use *long quotes* by placing them in a separate, centred indented block. *Short quotes* can be included within the sentence. Due to the word count, you are likely to be able to do a maximum of one or two longer quotes per theme or sub-theme. 
+Use *long quotes* by placing them in a separate, indented block. *Short quotes* can be included within the sentence. Due to the word count, you are likely to be able to do a maximum of one or two longer quotes per theme or sub-theme. 
 
-You can find guidance on presenting participant quotes in APA format [in the recommended resources](https://apastyle.apa.org/style-grammar-guidelines/citations/quoting-participants){target="_blank"}. Although the word limit suggested here is 40 words, this is quite long and so we suggest taking it on a case by case basis (e.g. having a quote of 39 words within a sentence might be correct but also might be confusing to read). You can run anything past us if you are unsure. 
+You can find guidance on presenting participant quotes in APA format [in the recommended resources](https://apastyle.apa.org/style-grammar-guidelines/citations/quoting-participants){target="_blank"}. APA style puts quotes of 40 words or more in a separate block. Forty words is quite long, so we suggest deciding case by case (e.g. a quote of 39 words within a sentence might be correct but might also be confusing to read). You can run anything past us if you are unsure. 
 
 We have also [prepared an example](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EWfG8vjCAvtPjYPEJjQWxl8BPHlfzuI6weVkwIh_MVJSTQ?e=x7OT9m){target="_blank"} of how to format quotes in APA style.
 
@@ -314,22 +317,22 @@ This kind of deeper interpretation goes beyond the superficial to show the reade
 ## Tips
 
 - There is no single “correct” interpretation, but you must show clearly how your interpretation is supported by the quotes you use. 
-- Go beyond describing the data—explain the underlying meaning. 
+- Go beyond describing the data: explain the underlying meaning. 
 - Choose quotes that directly support the point you are making; the connection should be obvious to the reader. 
 - Follow the guidelines: include the recommended number of themes/sub-themes, and balance quotations with your interpretation.
 
 :::
 
 
-#### Discussion (suggested word count: 750-850 words)
+#### Discussion (suggested word count: 700–750 words)
 
-Some activities to support you with developing evaluation in your Discussion section can be found in [Chapter 11](#eval_discussion).
+Some activities to support you with developing evaluation in your Discussion section can be found in [Chapter 7](07_Academic_writing.qmd#eval_discussion).
 
-The Discussion is where you bring together your findings and consider these in light of the literature (and theory). It is also where you consider the wider importance of your findings, reflect on limitations and think about potential implications and future directions. 
+The Discussion is where you bring together your findings and consider how they fit with the literature (and theory) and with the wider social and psychological context of your topic. It is also where you consider the wider importance of your findings, reflect on limitations and think about potential implications and future directions. 
 
 **Start with a brief recap**
 
-- Remind the reader of the theme/s you report in the Findings and relate these to your Research Question. 
+- Remind the reader of the theme/s you report in the Analysis section and relate these to your Research Question. 
 
 **Connect your findings to past research**
 
@@ -394,12 +397,14 @@ knitr::include_graphics("images/discussion.png")
 
 
 #### Recap of word count for each section of the report
-  * **Abstract**: 100-150 words
-  * **Introduction**: 700-800 words
-  * **Method**: 350-450 words
-  * **Analysis**: 750-900 words
-  * **Discussion**: 750-850 words
-  
+  * **Abstract**: 100–150 words
+  * **Introduction**: 700–800 words
+  * **Method**: 350–450 words
+  * **Analysis**: 750–850 words
+  * **Discussion**: 700–750 words
+
+The report has a limit of 3000 words in total.
+
 We understand this can feel like a lot to fit into the report, but it’s a good chance to practise writing concisely. It’s okay to go slightly outside these guidelines, but try not to deviate too much.
 
 A common mistake is making the abstract or method section longer than recommended, which then affects the quality of the other sections. 
@@ -413,39 +418,36 @@ Citations in the main body of the text and references in the reference list are 
 
 #### Appendices
 
-The appendices can often hold a lot of information.  In the qualitative report we ask you to include the following in the appendices of the report: 
+The appendices can often hold a lot of information. In the qualitative report we ask you to include the following in the appendices of the report: 
 
   * **Required**: A list of the interviews you have chosen and a link to the original dataset (do not include the transcripts themselves) 
-  * **Required**: [A reflexivity diary](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/IQC1PIxhBlndR74S_nfeKHNlAW5uQmGOpoRXCpLHC2fI_fI?e=aunShJ){target="_blank"} that you have developed over the course of completing your analysis. Please use the template linked here to complete your diary.
-   * **Only if available**: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK data service) 
-   * There may be other appendices you choose to include. If in doubt, please ask and we will do our best to help. 
+  * **Required**: A reflexivity diary that you have developed over the course of completing your analysis.
+  * **Only if available**: You might have a list of the interview questions (if easily obtained from your transcripts or study documentation on UK Data Service) 
+  * There may be other appendices you choose to include. If in doubt, please ask and we will do our best to help. 
 
 
 ### Submission 2: Step-by-step Evidence of the Analysis Process
 
-This year, we are asking that all students in RM2 complete two separate submissions for their qualitative report. 
+We ask all students in RM2 to complete two separate submissions for their qualitative report. 
 
 - Submission 1 = full report with cover sheet and appendices
 - Submission 2 = step-by-step evidence of your Reflexive Thematic Analysis
 
-Submission 2 will be formally assessed [through the fourth ILO in ‘Evaluation’.](#report_ILOs)
+Submission 2 will be formally assessed under ‘Quality of academic communication’ (see the Assessment Information on Moodle).
 
 The reasons for this requirement are three-fold:
 
-- **To support your learning of rigorous qualitative research skills.**
+- **To help you learn qualitative research skills.**
     
-    Reflexive Thematic Analysis (RTA) relies on transparency, reflexivity, and a clear audit trail of decisions. By documenting each step, you gain a deeper understanding of how qualitative analysis works and build skills that are essential for doing high-quality research.
+    Reflexive Thematic Analysis (RTA) depends on being clear about the decisions you make. Recording each step helps you understand how the analysis works.
     
-- **To ensure that your submitted work reflects your own analytic thinking.**
+- **To show that the analysis is your own.**
     
-    We know that generative AI tools are now widely accessible, and while they can be useful for support, they cannot replace the reflective, interpretive, and creative thinking at the heart of RTA. Taking the process step-by-step helps you to demonstrate your genuine engagement with the data and protects the integrity of your work.
+    Generative AI tools are now widely available, but RTA depends on your own interpretation of the data. Recording each step shows how you worked with the data.
     
-- **To help you experience RTA as a process, not just a product.**
+- **To help you treat RTA as a process.**
     
-    Good RTA is not about producing a set of themes; it is about the journey you take to get there. Keeping a portfolio helps you slow down, think critically, and make your analytic decisions visible. This will lead to richer insights and a stronger final analysis.
-    
-
-In short, we hope that this requirement for keeping a transparent record of your analytic journey will help you produce stronger work and deepen your understanding of qualitative research.
+    In RTA, how you reach your themes matters as much as the themes themselves. Recording your decisions as you go gives you time to think about each one, and usually leads to a stronger analysis.
 
 [The template can be found here](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EcwNeR1TcCpAi1inMtQgB3cBkucx3-cH3LO-Mk2fseBkOQ?e=LEfvVw){target="_blank"}
 
@@ -453,7 +455,7 @@ In short, we hope that this requirement for keeping a transparent record of your
 
 - **What advice do you have for completing this process?** Our main piece of advice is to work on the reflexivity diary (part of the appendices) and the ‘evidencing the process’ template *while you are working on the project*. You should be completing these steps anyway as part of the analysis, so it should be a case of logging the evidence as you go. If, however, you do not complete it as you go along, this would make it very difficult to include properly at the last minute.
 - **Can I use NVivo?** For this assignment, no. We plan to develop guidance that considers how students can best use NVivo in the age of GenAI, but this will take some time to develop properly. 
-- **I developed three themes, but can only report two in the qual report itself: What do I do?** It probably makes sense to include all of the information up until the end of Phase 4, as often the themes are intermingled together. However, for the Phase 5 part (naming and defining the themes), it is up to you: you can include all of your themes or you can include only those that are in the report.
+- **I developed more themes than I can report in the qual report itself: What do I do?** It probably makes sense to include all of the information up until the end of Phase 4, as often the themes are intermingled together. However, for the Phase 5 part (naming and defining the themes), it is up to you: you can include all of your themes or you can include only those that are in the report.
 
 Below, we have prepared some guidance for each section to help you. 
 
@@ -468,7 +470,7 @@ In the template, we ask for your familiarisation notes, when you read through ea
 
 **Guidelines for Phase 1**
 
-Familiarity notes are brief reflections written while reading and re-reading the data. They are often messy and very personal and are not ‘right’ or ‘wrong’.
+Familiarisation notes are brief reflections written while reading and re-reading the data. They are often messy and very personal and are not ‘right’ or ‘wrong’.
 
 They tend to capture:
 
@@ -497,11 +499,12 @@ Some things you might note down:
 
 This is a short example of a familiarisation note, to give you a sense of what might be expected.
 
-*“My first impression is that Participant 1 feels overwhelmed but also quite capable, which creates an interesting tension. Words like ‘pressure’, ‘everyone watching’, and ‘expectations’ make me think they’re under a lot of stress. I notice I feel a bit anxious reading this - maybe because I’ve had similar experiences. I’m also interested in their comment about ‘putting on a front’ at work. It makes me wonder why they feel they can’t be their real self in that situation.”*
+*“My first impression is that Participant 1 feels overwhelmed but also quite capable, which creates an interesting tension. Words like ‘pressure’, ‘everyone watching’, and ‘expectations’ make me think they’re under a lot of stress. I notice I feel a bit anxious reading this – maybe because I’ve had similar experiences. I’m also interested in their comment about ‘putting on a front’ at work. It makes me wonder why they feel they can’t be their real self in that situation.”*
 
-This familiarity note captures initial impressions, points to specific language that shaped those impressions, and reflects openly on personal reactions while reading. It also highlights moments that stood out and raises gentle questions, showing curiosity rather than early analysis. 
+This familiarisation note captures initial impressions, points to specific language that shaped those impressions, and reflects openly on personal reactions while reading. It also notes moments that stood out and asks questions about them, without starting the analysis too early.
 :::
-#### Phase 2: Developing Codes
+
+#### Phase 2: Coding
 
 ::: {.callout-important}
 
@@ -528,7 +531,7 @@ When coding, think about the following:
 
 ## Phase 3: What is asked for?
 
-In the template, we ask you to a) tell us about your initial themes and/or subthemes, b) tell us the process of how you developed these, and c) tell us about the initial patterns you observed.
+In the template, we ask you to a) tell us about your initial themes and/or sub-themes, b) tell us the process of how you developed these, and c) tell us about the initial patterns you observed.
 :::
 
 In this section, you start to group together your codes into themes. Some parts might come together nicely and others might feel more difficult to put into groups. This is part of the process and nothing to worry about! 
@@ -543,7 +546,7 @@ When forming your initial themes, think about the following:
 - Create rough theme names that capture the central idea or organising concept in each cluster.
 - Write a short description of what each initial theme is about and why it matters.
 - Write reflections about how you developed the theme (e.g., repeated emotions, shared experiences, contradictions you observed).
-- Remember these are **initial** themes - this is not the final version and they can change, merge, or be dropped in later phases.
+- Remember these are **initial** themes – this is not the final version and they can change, merge, or be dropped in later phases.
 
 #### Phase 4: Developing and Reviewing Themes
 
@@ -554,18 +557,18 @@ When forming your initial themes, think about the following:
 In the template, we ask for you to provide details of how your themes changed from the initial themes you identified in Phase 3.
 :::
 
-In this section, this is where you really think about what your themes **mean**, and how they relate to each other. There is often some back-and-forth during this part of the process, and students often end up going back to Phase 3 (or even 2). 
+In this phase, you think about what your themes **mean**, and how they relate to each other. There is often some back-and-forth during this part of the process, and students often end up going back to Phase 3 (or even 2). 
 
 **Guidelines for Phase 4**
 
-- Revisit the coded extracts for each theme and check whether they *truly* fit together and reflect a coherent idea.
-- Look for any extracts that feel out of place, unclear, or better suited to a different theme — or that suggest a new theme.
+- Revisit the coded extracts for each theme and check whether they fit together and reflect a coherent idea.
+- Look for any extracts that feel out of place, unclear, or better suited to a different theme, or that suggest a new theme.
 - Refine each theme’s focus by clarifying its central organising concept: what is the core meaning holding this theme together?
 - Check whether themes are too broad, too narrow, overlapping, or repetitive, and adjust by splitting, combining, or renaming.
 - Review themes against the *full dataset* to ensure they capture important patterns across the data, not just isolated points.
 - Consider whether any parts of the dataset have been overlooked or require revisiting earlier phases of coding or theme development.
 - Make notes about how your themes changed (e.g., merged, refined, expanded) and why these changes improved the analysis.
-- Ensure each theme tells a meaningful, distinct part of the overall story you are constructing about the data.
+- Check that each theme adds something different to your answer to the research question.
 
 ::: {.callout-warning icon=false collapse="true"}
 
@@ -588,11 +591,11 @@ This is a short example of how a researcher might change themes from Phase 3 to 
 
 1. “Navigating Others’ Judgements”
 
-  - This theme captures experiences of being watched, evaluated, or compared to others, reflecting a concern about how others perceive the participant.
+   - This theme captures experiences of being watched, evaluated, or compared to others, reflecting a concern about how others perceive the participant.
 
 2. “Holding Myself to High Standards”
 
-  - This theme reflects participants’ self-imposed pressure, perfectionism, and high standards.
+   - This theme reflects participants’ self-imposed pressure, perfectionism, and high standards.
 
 :::
 
@@ -602,18 +605,18 @@ This is a short example of how a researcher might change themes from Phase 3 to 
 
 ## Phase 5: What is asked for?
 
-In the template, we ask to a) tell us how you came up with your theme names and b) provide a definition for your theme/s. 
+In the template, we ask you to a) tell us how you came up with your theme names and b) provide a definition for your theme/s. 
 :::
 
-In this section, this is where you aim to clearly articulate what each theme is about, define its boundaries, and give it a meaningful name that captures its central organising concept.
+In this phase, you aim to clearly articulate what each theme is about, define its boundaries, and give it a meaningful name that captures its central organising concept.
 
 **Guidelines**
 
 - Revisit each theme and identify its central organising concept (the key idea that holds the theme together).
 - Write a clear explanation of what each theme is about, focusing on the shared meaning across the extracts, not just the topic.
-- Know the boundaries of the theme - what belongs in it and what does not? One suggestion is to imagine you are telling someone who doesn’t know your research about your theme. What would you include in such a summary?
+- Know the boundaries of the theme – what belongs in it and what does not? One suggestion is to imagine you are telling someone who doesn’t know your research about your theme. What would you include in such a summary?
 - Check that each theme is distinct from the others and not overlapping, repetitive, or too similar in focus.
-- Refine the name of the theme so it captures its core meaning in a concise, engaging, and conceptually clear way. Avoid one word theme names or names that are very descriptive.
+- Refine the theme name so it captures the theme's main idea. Avoid one-word names, or names that only describe a topic.
 - Write a brief description of how each theme contributes to your overall analysis.
 - Ensure each theme connects back to your research question and supports the analytical narrative you are building.
 

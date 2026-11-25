@@ -125,7 +125,7 @@ When you are reading journal articles, make sure to take notes and think of how 
 
 One of the characteristics of a strong analysis section is that the writer demonstrates an ability to go beyond paraphrasing/summarising. This activity is designed to help you understand what might be involved in doing so. 
 
-Read the following two extracts from the Analysis section of an imaginary study on homesickness among first-year international students. Both extracts use the same quotes from the same participants. Think about these questions (or discuss them, if you are working with others):
+Read the following two extracts from the Analysis section of an imaginary study on adults' experiences of taking up running. Both extracts use the same quotes from the same participants. Think about these questions (or discuss them, if you are working with others):
 
 1. Which of the two extracts is better? Why?
 2. What has the author done that makes the analysis better?
@@ -135,17 +135,19 @@ Read the following two extracts from the Analysis section of an imaginary study 
 
 ## Extract 1
 
-**Theme 1: "Sometimes I think it makes it worse": the cost of staying in touch**
+**Theme 1: "I'm not really a proper runner": who counts as a runner**
 
-Staying in touch with family was something participants valued, but it did not always make them feel better. Mei described calling her mum every night:
+Participants did not always see themselves as runners, even when they ran regularly. Amara, who had been running for about six months, said:
 
-*"I call my mum every night, like every single night. It's the best part of the day, but then I hang up and the flat is so quiet. Sometimes I think it makes it worse." (Mei)*
+*"I do the walk-run thing, so I'm not really a proper runner. People hear I run and ask if I'm doing a marathon, and I'm like, no, I just do a 5k on a Saturday. I'm not fast enough to call myself a runner." (Amara)*
 
-Mei's correction to "every single night" suggests that the call has become an important routine for her. She describes the call as "the best part of the day", but the flat is very quiet afterwards. The call seems to help her feel close to home, but when it ends she may feel more alone. Tomás appeared to deal with this differently. Rather than keeping in close contact, he had started to step back:
+Amara runs every week, but she does not feel that she counts as a runner. She seems to be comparing herself with a "proper" runner, someone who runs marathons and is fast. Other people asking her about marathons may make this comparison stronger. The word "just" in "I just do a 5k" suggests that she sees her own running as not very important.
 
-*"I stopped checking the family group chat so much. They're all at my cousin's birthday and I'm here eating pasta on my own. It's easier if I don't see it." (Tomás)*
+Callum described feeling the same way when he started:
 
-Tomás describes eating pasta on his own while his family are together at a birthday, which suggests that he felt left out. Checking the group chat less could be interpreted as avoidance, although Tomás presents it as the easier option, perhaps as a way of coping while he settles in. For both participants, contact with home seemed to involve weighing up the comfort it brought against the reminder of what they were missing.
+*"For ages I'd tell people I just go for a jog, like I didn't want anyone thinking I was claiming to be a runner. Now I've got a 10k booked for March, and this winter's been awful, it's dark and slippy, but I still get out. I don't really care about my time any more. Everyone's got their own journey." (Callum)*
+
+Callum used to say he would "just go for a jog" so that people would not think he was "claiming" to be a runner. This suggests that calling yourself a runner can feel like something you have to earn. Now he talks about his own goal and says he does not care about his time, which could mean that he has stopped comparing himself with other runners. For both participants, feeling like a runner seemed to be about meeting a standard, such as speed or distance. Callum's account suggests that this feeling can change over time.
 :::
 
 
@@ -153,17 +155,17 @@ Tomás describes eating pasta on his own while his family are together at a birt
 
 ## Extract 2
 
-**Theme 1: Contact with home**
+**Theme 1: Experiences of running**
 
-Participants talked about contacting their families. Mei said that she calls her mum every night:
+Participants talked about their experiences of running. Amara said that she does walk-run:
 
-*"I call my mum every night, like every single night. It's the best part of the day, but then I hang up and the flat is so quiet. Sometimes I think it makes it worse." (Mei)*
+*"I do the walk-run thing, so I'm not really a proper runner. People hear I run and ask if I'm doing a marathon, and I'm like, no, I just do a 5k on a Saturday. I'm not fast enough to call myself a runner." (Amara)*
 
-Mei calls her mum every night and says this is the best part of her day. However, she also says that the flat is quiet after she hangs up and that the calls sometimes make it worse. Some participants did not contact home as much. For example, Tomás said:
+Amara does walk-run and a 5k on a Saturday. People ask her if she is doing a marathon, but she is not. She said that she is not fast enough to call herself a runner. Callum also talked about running:
 
-*"I stopped checking the family group chat so much. They're all at my cousin's birthday and I'm here eating pasta on my own. It's easier if I don't see it." (Tomás)*
+*"For ages I'd tell people I just go for a jog, like I didn't want anyone thinking I was claiming to be a runner. Now I've got a 10k booked for March, and this winter's been awful, it's dark and slippy, but I still get out. I don't really care about my time any more. Everyone's got their own journey." (Callum)*
 
-Tomás stopped checking the family group chat because his family were at his cousin's birthday and he was eating pasta on his own. He said it was easier if he did not see it. This shows that participants had different experiences of contacting home.
+Callum used to tell people that he just went for a jog. He has a 10k booked for March, and he still goes out even though the winter has been dark and slippy. He does not care about his time any more, and he said that everyone has their own journey. This shows that participants had different experiences of running.
 :::
 
 
@@ -175,18 +177,144 @@ This is one possible answer – you may have noticed other things too.
 
 **Extract 1 is the stronger analysis.** The author:
 
-  * names the theme after a pattern of shared meaning (that staying in touch with home comes at a cost), rather than a topic
-  * interprets each quote, saying what it might mean rather than repeating what was said – for example, picking up the contrast between "the best part of the day" and the quiet flat
-  * makes clear when something is an interpretation ("suggests", "appeared to", "could be interpreted as"), and chooses quotes that let the reader see why
-  * links the two participants, showing how each manages the same tension in a different way, so the extract builds a narrative instead of listing quotes
-  * ends by saying what the theme tells us about homesickness
+  * names the theme after a pattern of shared meaning (that people who run regularly may still not feel they count as "runners"), rather than a topic
+  * interprets each quote, saying what it might mean rather than repeating what was said – for example, picking up Amara's word "just" and Callum's word "claiming"
+  * makes clear when something is an interpretation ("seems to", "suggests", "could mean"), and chooses quotes that let the reader see why
+  * links the two participants, showing that Callum describes the same feeling as Amara and how it changed for him, so the extract builds a narrative instead of listing quotes
+  * ends by saying what the theme tells us about taking up running
 
 **Extract 2 is the weaker analysis**, even though it uses exactly the same quotes. The author:
 
-  * gives the theme a topic name ("Contact with home"), so it reads as a topic summary (everything participants said about one topic)
+  * gives the theme a topic name ("Experiences of running"), so it reads as a topic summary (everything participants said about one topic)
   * paraphrases the quotes, which adds nothing the reader could not get from reading the quotes themselves
   * ends with a conclusion ("participants had different experiences") that could be written about almost any data set, so it does not tell the reader anything about this one
+
+You do not need theory or complicated language to start interpreting your data. Looking closely at participants' own words and saying carefully what they might suggest is a good first step.
 :::
+
+
+### Activity 3: Cover the quote
+
+In your Analysis section, your commentary should *interpret* the data, not just introduce or repeat it. If the commentary is strong enough, a reader should be able to understand your point even before reading the quote. This activity tests that.
+
+There are two sections. Section 1 uses passages we have written for you. Section 2 is for when you have started writing your own Analysis section.
+
+#### Section 1: Practice passages
+
+The quotes have been removed from each passage below. Read the commentary only, and for each passage think about:
+
+1. What do you think the quote probably said?
+2. Does the commentary tell you anything beyond what the quote probably says?
+
+::: {.callout-note icon=false}
+
+## Passage 1
+
+"This was evident in the data. As one participant noted: [QUOTE REMOVED]. This shows that participants had mixed feelings about the process."
+:::
+
+::: {.callout-note icon=false}
+
+## Passage 2
+
+"Participants consistently described feeling excluded from decisions that directly affected their work. One participant described this clearly: [QUOTE REMOVED]. This suggests that the way decisions were made meant staff were told about changes, but not asked about them."
+:::
+
+::: {.callout-note icon=false}
+
+## Passage 3
+
+"The data revealed themes around communication. Participant 7 said: [QUOTE REMOVED]. Participant 12 also commented on communication."
+:::
+
+You can also try this with Activity 2: cover the quotes in Extract 1 and Extract 2, and see which commentary still makes sense on its own.
+
+Then think about these questions (or discuss them, if you are working with others):
+
+  * Which passage gave you the clearest sense of what the quote might say? What does that tell you about the commentary?
+  * Which passage felt most like analysis, and why?
+  * Could a reader follow the argument without the quotes?
+
+If you are working on your own, note your answers, or post them on the Teams channel.
+
+::: {.callout-caution icon=false collapse="true"}
+
+## Show me one possible answer
+
+This is one possible answer – you may have noticed other things too.
+
+  * **Passage 1:** you can probably guess what the quote said (something positive and something negative about the process). The commentary repeats this ("mixed feelings") and adds nothing. "This was evident in the data" does not tell the reader what "this" is.
+  * **Passage 2** is the strongest. It makes a claim before the quote (staff felt excluded from decisions that affected them), and after the quote it says what this suggests. You can follow the point without reading the quote.
+  * **Passage 3:** apart from the topic, you cannot tell what the quote said. "Themes around communication" names a topic, not a theme, and the commentary does not say anything about what participants said about communication.
+:::
+
+#### Section 2: Your own writing
+
+When you have started writing your Analysis section, choose a paragraph to test. For example:
+
+  * a paragraph where you introduced a quote but are not sure the commentary adds much
+  * a place where a marker might ask "so what?" (see Activity 4)
+  * a quote that felt self-explanatory, so you did not interpret it further
+
+Cover the quote(s) and ask yourself:
+
+  * What does the commentary tell the reader without the quote?
+  * Does the commentary make an interpretive claim, or does it mainly introduce and summarise the quote?
+  * If the commentary does not stand on its own, how could you strengthen it?
+
+
+### Activity 4: So what?
+
+Moving from describing what participants said to interpreting what it might mean is one of the hardest steps in qualitative analysis. This activity breaks that step into smaller questions, and each step pushes the interpretation a little further.
+
+There are two sections. Section 1 uses an example we have written for you. Section 2 is for when you have started writing your own Analysis section.
+
+#### Section 1: Practice example
+
+::: {.callout-note icon=false}
+
+## Example
+
+"Participant 3 said: 'I never felt like anyone was listening.' This shows participants felt unheard."
+:::
+
+Work through these steps:
+
+1. **What might this be about?** What might the participant be describing? What experience might be behind the words?
+2. **Why might this matter?** What might this tell us about the participant's situation? What might lead to this experience?
+3. **What might be the broader point?** If other participants said similar things, what might this suggest? What point could you make, and why would it matter to a reader?
+4. **Rewrite the commentary.** Using your answers, write a stronger version of the commentary in two or three sentences.
+
+Then think about these questions (or discuss them, if you are working with others):
+
+  * What changed between your rewrite and the original?
+  * Where did your interpretation come from: the data, your knowledge of the literature, or both?
+  * Does your rewrite feel like it goes too far? If so, what would make it more grounded in the data?
+
+If you are working on your own, note your answers, or post them on the Teams channel.
+
+::: {.callout-caution icon=false collapse="true"}
+
+## Show me one possible version
+
+This is one possible version. Yours may be different: there is no single correct interpretation, as long as you can show how it comes from the data.
+
+  * **Step 1:** "never" and "anyone" suggest this was not a one-off. It happened repeatedly, and with different people.
+  * **Step 2:** it might suggest there was nowhere for the participant to raise their views, or that people around them did not seem interested.
+  * **Step 3:** if other participants said similar things, the theme might be about feeling that their views did not count.
+
+**Rewrite:** "Participant 3 said: 'I never felt like anyone was listening.' The words 'never' and 'anyone' suggest that this happened repeatedly and with different people. Participant 3 may have felt that their views did not matter to those around them."
+:::
+
+#### Section 2: Your own writing
+
+When you have started writing your Analysis section, choose a quote and commentary you are unsure about. For example:
+
+  * a part of your write-up where you think a marker might ask for more
+  * a place where you are not sure the interpretation goes far enough
+  * a quote you have introduced but not really explored
+
+Then work through Steps 1–4 above using your own extract.
 
 
 ## Evaluation in discussions {#eval_discussion}

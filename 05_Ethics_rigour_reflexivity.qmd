@@ -185,7 +185,7 @@ There are several sets of quality criteria for qualitative research. You do not 
 
   * **[Yardley's (2000)](https://doi.org/10.1080/08870440008400302){target="_blank"} four principles** are widely used in health psychology: sensitivity to context; commitment and rigour; transparency and coherence; and impact and importance.
   * **[Tracy's (2010)](https://doi.org/10.1177/1077800410383121){target="_blank"} eight 'big-tent' criteria** are designed to apply across many kinds of qualitative research (hence the 'big tent'): a worthy topic, rich rigour, sincerity, credibility, resonance, significant contribution, ethics, and meaningful coherence. Two of these link directly to this chapter: *sincerity* includes self-reflexivity, and *ethics* is treated as part of quality.
-  * **[Braun and Clarke's (2006)](https://doi.org/10.1191/1478088706qp063oa){target="_blank"} 15-point checklist** was written specifically for thematic analysis. It covers transcription, coding, analysis and the written report.
+  * **[Braun and Clarke's (2006)](https://doi.org/10.1191/1478088706qp063oa){target="_blank"} 15-point checklist** was written specifically for thematic analysis. It covers transcription, coding, analysis and the written report. It was published before Braun and Clarke started using the name "reflexive TA", but they still recommend it for reflecting on the quality of a reflexive TA.
 
 The table below shows what Yardley's principles might look like in a thematic analysis like yours.
 
